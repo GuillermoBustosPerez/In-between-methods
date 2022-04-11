@@ -1,7 +1,7 @@
 # Between methods: in the middle between Levallois and Discoid
 
 Guillermo Bustos-Pérez<sup>1, 2</sup>, Javier Baena<sup>1</sup> 1,
-Manuel Vaquero<sup>1, 2</sup>
+Manuel Vaquero<sup>2, 3</sup>
 
 <sup>1</sup>Universidad Autónoma de Madrid. Departamento de Prehistoria
 y Arqueología, Campus de Cantoblanco, 28049 Madrid, Spain  
@@ -39,3 +39,8 @@ and an acceptable/fair value is achieved in the case of Hierarchical
 Discoid flakes. This shows the potential applicability of machine
 learning models in combination with attribute analysis for the
 identification of these knapping methods among flakes.
+
+**Keywords:** lithic technology; experimental archaeology; Levallois;
+Discoid; Machine Learning
+
+### Introduction
