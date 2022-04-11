@@ -1,0 +1,23 @@
+---
+title: 'Between methods: in the middle between Levallois and Discoid'
+author: "Guillermo Bustos-Pérez"
+date: "11/4/2022"
+output: 
+    md_document:
+    variant: markdown_github
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Between methods: in the middle between Levallois and Discoid   
+
+Guillermo Bustos-Pérez$^{1,2}$, Javier Baena$^{1}$ 1, Manuel Vaquero$^{1,2}$   
+
+$^1$Universidad Autónoma de Madrid. Departamento de Prehistoria y Arqueología, Campus de Cantoblanco, 28049 Madrid, Spain    
+$^2$Institut Català de Paleoecologia Humana i Evolució Social (IPHES), Zona Educacional 4, Campus Sescelades URV (Edifici W3), 43007 Tarragona, Spain   
+$^3$Àrea de Prehistoria, Universitat Rovira i Virgili (URV), Avinguda de Catalunya 35, 43002 Tarragona, Spain    
+
+**Abstract**   
+  The production of lithic artefacts is usually associated to different knapping methods. Resulting flakes present metric and technological features representative of the flaking method from which they were detached. However, lithic production is a dynamic process where discrete methods can be blurred with features varying along the process. An intermediate knapping method between discoidal and Levallois is commonly referred under an umbrella of terms, presenting a wide geographical and chronological distribution along the Early and Middle Palaeolithic. Since this intermediate knapping method presents features from both discoidal and Levallois knapping methods, this raises the question of up to what point flakes from the three knapping methods can be differentiated between each other and the directionality of confusions. An experimental assemblage of flakes detached from the three methods is employed along with attribute analysis and Machine Learning models to identify the knapping method from which flakes were detached. On a general level results provide excellent/good ability to differentiate between the three knapping when a Support Vector Machine with polynomial kernel is employed. Results also outline the singularity of flakes detached from Levallois reduction sequences with an outstanding value of identification, and being rare that they are erroneously attributed to any of the other of the two knapping methods. Confusion between discoidal and Hierarchical Discoid products is more common, although an excellent/good value of identification is achieved for discoidal flakes and an acceptable/fair value is achieved in the case of Hierarchical Discoid flakes. This shows the potential applicability of machine learning models in combination with attribute analysis for the identification of these knapping methods among flakes.
