@@ -1,4 +1,9 @@
-# Between methods: in the middle between Levallois and Discoid
+<style>
+body {
+text-align: justify}
+</style>
+
+# In between methods: Levallois, Discoid and intermediate
 
 Guillermo Bustos-Pérez<sup>1, 2</sup>, Javier Baena<sup>1</sup> 1,
 Manuel Vaquero<sup>2, 3</sup>
