@@ -42,7 +42,7 @@ load("Data/Data.RData")
 ```
 ```{r}
 # Head the data
-knitr::kable(ML_Data[1:10])
+knitr::kable(ML_Data[1:10,])
 ```
 
 
