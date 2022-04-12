@@ -1,8 +1,3 @@
-<style>
-body {
-text-align: justify}
-</style>
-
 # In between methods: Levallois, Discoid and intermediate
 
 Guillermo Bustos-Pérez<sup>1, 2</sup>, Javier Baena<sup>1</sup> 1,
@@ -51,3 +46,49 @@ Discoid; Machine Learning
 ### Introduction
 
     library(tidyverse)
+
+    # Load the data
+    ML_Data <- load("Data/Data.RData")
+
+    # Head the data
+    knitr::kable(ML_Data[1:10])
+
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">x</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">ML_Data</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">NA</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">NA</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">NA</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">NA</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">NA</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">NA</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">NA</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">NA</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">NA</td>
+</tr>
+</tbody>
+</table>

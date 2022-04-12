@@ -6,10 +6,6 @@ output:
     md_document:
     variant: markdown_github
 ---
-<style>
-body {
-text-align: justify}
-</style>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -29,4 +25,25 @@ $^3$Àrea de Prehistoria, Universitat Rovira i Virgili (URV), Avinguda de Catalu
 **Keywords:** lithic technology; experimental archaeology; Levallois; Discoid; Machine Learning
   
 ### Introduction  
+
+
+```{r include=FALSE}
+library(tidyverse)
+```
+```{r eval=FALSE}
+library(tidyverse)
+```
+
+
+
+```{r}
+# Load the data
+ML_Data <- load("Data/Data.RData")
+```
+```{r}
+# Head the data
+knitr::kable(ML_Data[1:10])
+```
+
+
 
