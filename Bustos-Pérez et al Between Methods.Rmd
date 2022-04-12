@@ -38,7 +38,7 @@ library(tidyverse)
 
 ```{r}
 # Load the data
-ML_Data <- load("Data/Data.RData")
+load("Data/Data.RData")
 ```
 ```{r}
 # Head the data
