@@ -1,7 +1,7 @@
 # In between methods: Levallois, Discoid and intermediate
 
-Guillermo Bustos-Pérez<sup>1, 2</sup>, Javier Baena<sup>1</sup> 1,
-Manuel Vaquero<sup>2, 3</sup>
+Guillermo Bustos-Pérez<sup>1, 2</sup>, Javier Baena<sup>1</sup>, Manuel
+Vaquero<sup>2, 3</sup>
 
 <sup>1</sup>Universidad Autónoma de Madrid. Departamento de Prehistoria
 y Arqueología, Campus de Cantoblanco, 28049 Madrid, Spain  
@@ -43,7 +43,7 @@ identification of these knapping methods among flakes.
 **Keywords:** lithic technology; experimental archaeology; Levallois;
 Discoid; Machine Learning
 
-### Introduction
+## 1. Introduction
 
     library(tidyverse)
 
@@ -527,3 +527,20 @@ Discoid; Machine Learning
 </tr>
 </tbody>
 </table>
+
+## 2. Methods
+
+The present study uses attribute analysis on an experimental assemblage
+of flakes detached from Levallois, discoidal and Hierarchical Discoid
+reduction sequences. Supervised Machine Learning models are trained on
+the resulting dataset to identify the knapping method from which each
+flake was detached.
+
+### 2.1 Experimental assemblage
+
+The experimental assemblage consists of 222 experimentally knapped
+flakes belonging to Levallois, Discoid and Hierarchical Discoid
+reduction sequences. The experimental assemblage was knapped by two of
+the authors (JB and GBP). One of the authors (JB) is considered a high
+level expert while the second (GBP) is considered an intermediate-high
+knapper.
