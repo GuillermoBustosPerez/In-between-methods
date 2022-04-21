@@ -186,7 +186,7 @@ the knapping direction, are thin, and the ventral and dorsal surfaces
 present a subparallel relation. Again, these are common traits with
 Levallois products.
 
-image: ![](Article%20Figures/Variability%20L%20D%20HD.png)
+![](Article%20Figures/Variability%20L%20D%20HD.png)
 
     library(tidyverse)
 
