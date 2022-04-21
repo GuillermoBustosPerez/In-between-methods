@@ -100,9 +100,9 @@ are usually classified into preferential method (were a single
 predetermined Levallois flake is obtained from the debitage surface) or
 recurrent methods (were several predetermined flakes are produced from
 the debitage surface) with removals being either unidirectional,
-bidirectional or centripetal [Delagnes and
-Meignen](#ref-hovers_diversity_2006)
-([2006](#ref-hovers_diversity_2006)).
+bidirectional or centripetal ([Delagnes,
+1995](#ref-dibble_variability_1995); [Delagnes and Meignen,
+2006](#ref-hovers_diversity_2006)).
 
     library(tidyverse)
 
