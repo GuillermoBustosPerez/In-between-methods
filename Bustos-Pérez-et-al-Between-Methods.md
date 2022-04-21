@@ -50,9 +50,11 @@ increase and diversification of prepared core knapping methods,
 resulting in flake-dominated assemblages ([Kuhn,
 2013](#ref-kuhn_roots_2013)). These flake dominated assemblages are the
 result of a wide number of production methods which includes Levallois
-([Boëda, 1995](#ref-dibble_levallois:_1995),
+([Boëda, 1995a](#ref-dibble_levallois:_1995),
 [1994](#ref-boeda_concept_1994); [Boëda et al.,
-1990](#ref-boeda_identification_1990))
+1990](#ref-boeda_identification_1990)), Discoid ([Boëda,
+1995b](#ref-boeda_caracteristiques_1995),
+[1993](#ref-boeda_debitage_1993))
 
     library(tidyverse)
 
@@ -556,13 +558,21 @@ knapper.
 
 ## References
 
-Boëda, E., 1995. Levallois: A Volumetric Construction, Methods, A
+Boëda, E., 1995a. Levallois: A Volumetric Construction, Methods, A
 Technique, in: Dibble, H.L., Bar-Yosef, O. (Eds.), The Definition and
 Interpretation of Levallois Technology, Monographs in World Archaeology.
 Prehistory Press, Madison, Wisconsin, pp. 41–68.
 
+Boëda, E., 1995b. Caractéristiques techniques des chaînes opératoires
+lithiques des niveaux micoquiens de Külna (Tchécoslovaquie). Paléo 1,
+57–72. <https://doi.org/10.3406/pal.1995.1380>
+
 Boëda, E., 1994. Le concept Levallois: Variabilité des méthodes, CNRS
 éditions. CNRS.
+
+Boëda, E., 1993. Le débitage discoïde et le débitage Levallois récurrent
+centripède. Bulletin de la Société Préhistorique Française 90, 392–404.
+<https://doi.org/10.3406/bspf.1993.9669>
 
 Boëda, E., Geneste, J.-M., Meignen, L., 1990. Identification de chaînes
 opératoires lithiques du Paléolithique ancien et moyen. Paléo 2, 43–80.
