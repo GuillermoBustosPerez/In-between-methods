@@ -48,7 +48,11 @@ Discoid; Machine Learning
 The Middle Paleolithic in Western Europe is characterized by the
 increase and diversification of prepared core knapping methods,
 resulting in flake-dominated assemblages ([Kuhn,
-2013](#ref-kuhn_roots_2013))
+2013](#ref-kuhn_roots_2013)). These flake dominated assemblages are the
+result of a wide number of production methods which includes Levallois
+([Boëda, 1995](#ref-dibble_levallois:_1995),
+[1994](#ref-boeda_concept_1994); [Boëda et al.,
+1990](#ref-boeda_identification_1990))
 
     library(tidyverse)
 
@@ -551,6 +555,17 @@ level expert while the second (GBP) is considered an intermediate-high
 knapper.
 
 ## References
+
+Boëda, E., 1995. Levallois: A Volumetric Construction, Methods, A
+Technique, in: Dibble, H.L., Bar-Yosef, O. (Eds.), The Definition and
+Interpretation of Levallois Technology, Monographs in World Archaeology.
+Prehistory Press, Madison, Wisconsin, pp. 41–68.
+
+Boëda, E., 1994. Le concept Levallois: Variabilité des méthodes, CNRS
+éditions. CNRS.
+
+Boëda, E., Geneste, J.-M., Meignen, L., 1990. Identification de chaînes
+opératoires lithiques du Paléolithique ancien et moyen. Paléo 2, 43–80.
 
 Kuhn, S.L., 2013. Roots of the Middle Paleolithic in Eurasia. Current
 Anthropology 54, S255–S268. <https://doi.org/10.1086/673529>
