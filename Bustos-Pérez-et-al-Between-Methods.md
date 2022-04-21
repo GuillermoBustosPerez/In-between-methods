@@ -47,7 +47,7 @@ Discoid; Machine Learning
 
 The Middle Paleolithic in Western Europe is characterized by the
 increase and diversification of prepared core knapping methods,
-resulting in flake-dominated assemblages (Kuhn, 2013)
+resulting in flake-dominated assemblages (2013)
 
     library(tidyverse)
 
