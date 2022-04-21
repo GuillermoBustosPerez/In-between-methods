@@ -160,8 +160,31 @@ mentioned definition, where core edge flakes and pseudo-Levallois points
 are the most common products. *The sensu lato* Discoid encompasses a
 larger range of products (although centripetal flakes are more common)
 as a result of higher variability in the organization of percussion and
-exploitation surfaces ([Terradas](#ref-terradas_discoid_2003)
-([2003](#ref-terradas_discoid_2003))).
+exploitation surfaces ([Terradas, 2003](#ref-terradas_discoid_2003)).
+
+One of the variants from the Discoid sensu lato conceptualization
+resembles Levallois knapping strategy. Some common characteristics
+outlined for this method are:  
+1) The core volume is conceived as two hierarchical asymmetric surfaces:
+the percussion surface and the exploitation surface (this is a common
+feature with Levallois).  
+2) Preparation of the percussion surface is absent or it is partial,
+without encompassing the complete periphery of the core. This can be a
+result of raw material characteristics presenting an adequate morphology
+or because it is achieved with minimal preparation.  
+3) Despite the hierarchical nature of both surfaces flakes detached from
+the debitage surface present a secant relationship towards the plane of
+intersection. Soriano and Villa ([2017](#ref-soriano_early_2017)) call
+attention that Levallois products usually present an external platform
+angle (EPA) between 80º and 85º, while products from non-Levallois
+hierarchical methods present an EPA relationship between 70 and 85º.
+However, this relationship can change along the core’s reduction with
+final flakes being sub-parallel to the plane of fracture ([Slimak,
+1998](#ref-slimak_variabilite_1998)).  
+4) Products from Hierarchical Discoid are usually symmetrical towards
+the knapping direction, are thin, and the ventral and dorsal surfaces
+present a subparallel relation. Again, these are common traits with
+Levallois products.
 
     library(tidyverse)
 
@@ -784,6 +807,16 @@ Santonja, M., Pérez-González, A., Panera, J., Rubio-Jara, S.,
 Méndez-Quintas, E., 2016. The coexistence of Acheulean and Ancient
 Middle Palaeolithic techno-complexes in the Middle Pleistocene of the
 Iberian Peninsula. Quaternary International 411, 367–377.
+
+Slimak, L., 1998. La variabilité des débitages discoïdes au
+Paléolithique moyen: Diversité des méthodes et unité d’un concept.
+L’exemple des gisements de la Baume Néron (Soyons, Ardèche) et du Champ
+Grand (Saint-Maurice-sur-Loire, Loire). Préhistoire Anthropologie
+Méditerranéennes 7, 75–88.
+
+Soriano, S., Villa, P., 2017. Early Levallois and the beginning of the
+Middle Paleolithic in central Italy. PLOS ONE 12, e0186082.
+<https://doi.org/10.1371/journal.pone.0186082>
 
 Terradas, X., 2003. Discoid flaking method: Conception and technological
 variability, in: Peresani, M. (Ed.), Discoid Lithic Technology. Advances
