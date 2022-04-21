@@ -550,5 +550,7 @@ the authors (JB and GBP). One of the authors (JB) is considered a high
 level expert while the second (GBP) is considered an intermediate-high
 knapper.
 
+## References
+
 Kuhn, S.L., 2013. Roots of the Middle Paleolithic in Eurasia. Current
 Anthropology 54, S255–S268. <https://doi.org/10.1086/673529>
