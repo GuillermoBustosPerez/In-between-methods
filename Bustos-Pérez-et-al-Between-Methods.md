@@ -32,18 +32,22 @@ between the three knapping when a Support Vector Machine with polynomial
 kernel is employed. Results also outline the singularity of flakes
 detached from Levallois reduction sequences with an outstanding value of
 identification, and being rare that they are erroneously attributed to
-any of the other of the two knapping methods. Confusion between
-discoidal and Hierarchical Discoid products is more common, although an
-excellent/good value of identification is achieved for discoidal flakes
-and an acceptable/fair value is achieved in the case of Hierarchical
-Discoid flakes. This shows the potential applicability of machine
-learning models in combination with attribute analysis for the
-identification of these knapping methods among flakes.
+any of the other two knapping methods. Confusion between discoidal and
+Hierarchical Discoid products is more common, although an excellent/good
+value of identification is achieved for discoidal flakes and an
+acceptable/fair value is achieved in the case of Hierarchical Discoid
+flakes. This shows the potential applicability of machine learning
+models in combination with attribute analysis for the identification of
+these knapping methods among flakes.
 
 **Keywords:** lithic technology; experimental archaeology; Levallois;
 Discoid; Machine Learning
 
 ## 1. Introduction
+
+The Middle Paleolithic in Western Europe is characterized by the
+increase and diversification of prepared core knapping methods,
+resulting in flake-dominated assemblages (Kuhn, 2013)
 
     library(tidyverse)
 
@@ -544,3 +548,6 @@ reduction sequences. The experimental assemblage was knapped by two of
 the authors (JB and GBP). One of the authors (JB) is considered a high
 level expert while the second (GBP) is considered an intermediate-high
 knapper.
+
+Kuhn, S.L., 2013. Roots of the Middle Paleolithic in Eurasia. Current
+Anthropology 54, S255–S268. <https://doi.org/10.1086/673529>
