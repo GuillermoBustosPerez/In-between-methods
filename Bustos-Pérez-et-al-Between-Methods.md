@@ -100,9 +100,33 @@ are usually classified into preferential method (were a single
 predetermined Levallois flake is obtained from the debitage surface) or
 recurrent methods (were several predetermined flakes are produced from
 the debitage surface) with removals being either unidirectional,
-bidirectional or centripetal ([Delagnes,
+bidirectional or centripetal ([Boëda,
+1995a](#ref-dibble_levallois:_1995); [Boëda et al.,
+1990](#ref-boeda_identification_1990); [Delagnes,
 1995](#ref-dibble_variability_1995); [Delagnes and Meignen,
-2006](#ref-hovers_diversity_2006)).
+2006](#ref-hovers_diversity_2006)).  
+Because of its early recognition in the XIX century ([Boucher de
+Perthes, 1857](#ref-boucher_de_perthes_antiquites_1857)), its
+association with cognitive abilities of planning and predetermination
+([Boëda, 1994](#ref-boeda_concept_1994); [Pelegrin,
+2009](#ref-pelegrin_cognition_2009)), and its use for the definition of
+cultural facies ([Bordes, 1961a](#ref-bordes_mousterian_1961),
+[1961b](#ref-bordes_typologie_1961)) and lithic technocomplexes
+([Delagnes et al., 2007](#ref-vandermeersch_les_2007); [Faivre et al.,
+2017](#ref-faivre_late_2017)), the Levallois flaking technology is
+considered a trademark of the Middle Paleolithic. Levallois is clearly
+identified from MIS8 onwards covering a wide geographical distribution
+throughout Western Europe. The long geographical and temporary span of
+Levallois adds additional layers of variability which can result from
+raw material constraints, synchronic variability as a result of
+different site functionality, chronological trends in development of
+methods or shifts in the technological organization of groups. Attention
+is also called on the explicit recognition of Levallois cores after MIS
+8, while a multitude of terms is employed to define previous
+hierarchical knapping strategies and its possible coexistence with
+Acheulean technocomplexes ([Moncel et al.,
+2020](#ref-moncel_early_2020); [Santonja et al.,
+2016](#ref-santonja_coexistence_2016)).
 
     library(tidyverse)
 
@@ -631,6 +655,15 @@ Musée de Préhistoire d’Ile-de-France. A.P.R.A.I.F., Nemours, pp. 63–68.
 Boëda, E., Geneste, J.-M., Meignen, L., 1990. Identification de chaînes
 opératoires lithiques du Paléolithique ancien et moyen. Paléo 2, 43–80.
 
+Bordes, F., 1961a. Mousterian Cultures in France. Science 134, 803–810.
+
+Bordes, F., 1961b. Typologie du Paléolithique ancien et moyen,
+Publications de l’institut de préhistoire de l’université de Bordeaux.
+CNRS Editions, Bordeaux.
+
+Boucher de Perthes, J., 1857. Antiquités celtiques et antédiluviennes
+II. Treuttel et Wurtz, Paris, France.
+
 Bourguignon, L., 1997. Le Moustérien de type Quina: Nouvelle Définition
 d’une entité technique (PhD thesis). Université de Paris X - Nanterre,
 Nanterre.
@@ -644,11 +677,23 @@ Variability within the Levallois System, in: Dibble, H.L., Bar-Yosef, O.
 Monographs in World Archaeology. Prehistory Press, Madison, Wisconsin,
 pp. 201–211.
 
+Delagnes, A., Jaubert, J., Meignen, L., 2007. Les technocomplexes du
+paléolithique moyen en Europe occidentale dans leur cadre diachronique
+et géographique, in: Vandermeersch, B., Maureille, B. (Eds.), Les
+Neandertaliens. Biologie Et Cultures, Documents Préhistoriques. Editions
+du Comité des Travaux Historiques et Scientifiques, Paris, pp. 213–229.
+
 Delagnes, A., Meignen, L., 2006. Diversity of Lithic Production Systems
 During the Middle Paleolithic in France. Are There Any Chronological
 Trends?, in: Hovers, E., Kuhn, S.L., Jochim, M. (Eds.), Transitions
 Before the Transition Evolution and Stability in the Middle Paleolithic
 and Middle Stone Age. Springer, pp. 85–107.
+
+Faivre, G.-P., Gravina, B., Bourguignon, L., Discamps, E., Turq, A.,
+2017. Late Middle Palaeolithic lithic technocomplexes (MIS 5-3) in the
+northeastern Aquitaine Basin: Advances and challenges. Quaternary
+International 433, 116–131.
+<https://doi.org/10.1016/j.quaint.2016.02.060>
 
 Forestier, H., 1993. Le Clactonien: Mise en application d’une nouvelle
 méthode de débitage s’inscrivant dans la variabilité des systèmes de
@@ -657,6 +702,12 @@ production lithique du Paléolithique ancien. Paléo 5, 53–82.
 
 Kuhn, S.L., 2013. Roots of the Middle Paleolithic in Eurasia. Current
 Anthropology 54, S255–S268. <https://doi.org/10.1086/673529>
+
+Moncel, M.-H., Ashton, N., Arzarello, M., Fontana, F., Lamotte, A.,
+Scott, B., Muttillo, B., Berruti, G., Nenzioni, G., Tuffreau, A., 2020.
+Early Levallois core technology between marine isotope stage 12 and 9 in
+Western Europe. Journal of human evolution 139, 102735.
+<https://doi.org/doi.org/10.1016/j.jhevol.2019.102735>
 
 Newcomer, M.H., Hivernel-Guerre, F., 1974. Nucléus sur éclat:
 Technologie et utilisation par différentes cultures préhistoriques.
@@ -669,9 +720,19 @@ D.A., Singer, R., Wymer, J.J., 1979. The Clactonian: An Independent
 Complex or an Integral Part of the Acheulean? \[And Comments and
 Reply\]. Current Anthropology 20, 685–726.
 
+Pelegrin, J., 2009. Cognition and the emergence of language: A
+contribution from lithic technology, in: Beaune, S.A. de, Coolidge,
+F.L., Wynn, T. (Eds.), Cognitive Archaeology and Human Evolution.
+Cambridge University Press, New York, pp. 95–108.
+
 Révillon, S., Tuffreau, A. (Eds.), 1994. Les industries laminaires au
 Paléolithique moyen, Dossier De Documentation Archéologique. CNRS
 Editions, Paris.
+
+Santonja, M., Pérez-González, A., Panera, J., Rubio-Jara, S.,
+Méndez-Quintas, E., 2016. The coexistence of Acheulean and Ancient
+Middle Palaeolithic techno-complexes in the Middle Pleistocene of the
+Iberian Peninsula. Quaternary International 411, 367–377.
 
 Tixier, J., Turq, A., 1999. Kombewa et alii. Paléo 11, 135–143.
 <https://doi.org/10.3406/pal.1999.1174>
