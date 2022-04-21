@@ -54,7 +54,31 @@ result of a wide number of production methods which includes Levallois
 [1994](#ref-boeda_concept_1994); [Boëda et al.,
 1990](#ref-boeda_identification_1990)), Discoid ([Boëda,
 1995b](#ref-boeda_caracteristiques_1995),
-[1993](#ref-boeda_debitage_1993))
+[1993](#ref-boeda_debitage_1993)), SSDA ([Forestier,
+1993](#ref-forestier_clactonien:_1993); [Ohel et al.,
+1979](#ref-ohel_clactonian_1979)), Quina ([Bourguignon,
+1997](#ref-bourguignon_mousterien_1997),
+[1996](#ref-bourguignon_conception_1996)), different laminar production
+systems ([Boëda, 1990](#ref-farizy_surface_1990); [Révillon and
+Tuffreau, 1994](#ref-revillon_les_1994)), Kombewa ([Newcomer and
+Hivernel-Guerre, 1974](#ref-newcomer_nucleus_1974); [Tixier and Turq,
+1999](#ref-tixier_kombewa_1999)) among several others. The abundance of
+different production methods results in a highly diversified material
+culture were flakes present a wide morphological variability. Flakes
+often retain morphologies and attributes characteristic of the knapping
+method from which they were detached, allowing for its identification.
+However, flakes often present overlapping attributes and morphologies as
+a result of the high internal variability of the methods and the ability
+for obtaining flakes with similar functional properties through
+different methods [Kuhn](#ref-kuhn_roots_2013)
+([2013](#ref-kuhn_roots_2013)). Due to their wide geographical and
+chronological extension, Levallois and Discoid constitute an important
+source of cultural variability of the Middle Paleolithic from Western
+Europe.  
+Boëda ([1995a](#ref-dibble_levallois:_1995),
+[1994](#ref-boeda_concept_1994)) establishes six characteristics
+defining the Levallois knapping strategy from a technological point of
+view:
 
     library(tidyverse)
 
@@ -574,8 +598,50 @@ Boëda, E., 1993. Le débitage discoïde et le débitage Levallois récurrent
 centripède. Bulletin de la Société Préhistorique Française 90, 392–404.
 <https://doi.org/10.3406/bspf.1993.9669>
 
+Boëda, E., 1990. De la surface au volume. Analyse des concetions des
+débitages Levallois et laminaire, in: Farizy, C. (Ed.), Paleolithique
+Moyen Recent Et Paleolithique Superieur Ancien En Europe. Ruptures Et
+Transitions: Examen Critique Des Documents Archéologiques, Mémoires Du
+Musée de Préhistoire d’Ile-de-France. A.P.R.A.I.F., Nemours, pp. 63–68.
+
 Boëda, E., Geneste, J.-M., Meignen, L., 1990. Identification de chaînes
 opératoires lithiques du Paléolithique ancien et moyen. Paléo 2, 43–80.
 
+Bourguignon, L., 1997. Le Moustérien de type Quina: Nouvelle Définition
+d’une entité technique (PhD thesis). Université de Paris X - Nanterre,
+Nanterre.
+
+Bourguignon, L., 1996. La conception du debitage Quina. Quaternaria Nova
+6, 149–166.
+
+Delagnes, A., Meignen, L., 2006. Diversity of Lithic Production Systems
+During the Middle Paleolithic in France. Are There Any Chronological
+Trends?, in: Hovers, E., Kuhn, S.L., Jochim, M. (Eds.), Transitions
+Before the Transition Evolution and Stability in the Middle Paleolithic
+and Middle Stone Age. Springer, pp. 85–107.
+
+Forestier, H., 1993. Le Clactonien: Mise en application d’une nouvelle
+méthode de débitage s’inscrivant dans la variabilité des systèmes de
+production lithique du Paléolithique ancien. Paléo 5, 53–82.
+<https://doi.org/10.3406/pal.1993.1104>
+
 Kuhn, S.L., 2013. Roots of the Middle Paleolithic in Eurasia. Current
 Anthropology 54, S255–S268. <https://doi.org/10.1086/673529>
+
+Newcomer, M.H., Hivernel-Guerre, F., 1974. Nucléus sur éclat:
+Technologie et utilisation par différentes cultures préhistoriques.
+Bulletin de la Société Préhistorique Française 71, 119–128.
+<https://doi.org/10.3406/bspf.1974.8308>
+
+Ohel, M.Y., Bhattacharya, D.K., Bordes, F., Cahen, D., Callow, P.,
+Collins, D., Katz, P.R., Narr, K.J., Newcomer, M.H., Pappu, R.S., Roe,
+D.A., Singer, R., Wymer, J.J., 1979. The Clactonian: An Independent
+Complex or an Integral Part of the Acheulean? \[And Comments and
+Reply\]. Current Anthropology 20, 685–726.
+
+Révillon, S., Tuffreau, A. (Eds.), 1994. Les industries laminaires au
+Paléolithique moyen, Dossier De Documentation Archéologique. CNRS
+Editions, Paris.
+
+Tixier, J., Turq, A., 1999. Kombewa et alii. Paléo 11, 135–143.
+<https://doi.org/10.3406/pal.1999.1174>
