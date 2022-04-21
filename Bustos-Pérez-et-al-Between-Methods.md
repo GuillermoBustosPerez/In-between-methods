@@ -1,4 +1,4 @@
-# In between methods: Levallois, Discoid and intermediate
+# Between methods: Levallois, Discoid and what falls in between
 
 Guillermo Bustos-Pérez<sup>1, 2</sup>, Javier Baena<sup>1</sup>, Manuel
 Vaquero<sup>2, 3</sup>
@@ -128,6 +128,40 @@ hierarchical knapping strategies and its possible coexistence with
 Acheulean technocomplexes ([Moncel et al.,
 2020](#ref-moncel_early_2020); [Santonja et al.,
 2016](#ref-santonja_coexistence_2016)).
+
+Boëda ([1995b](#ref-boeda_caracteristiques_1995),
+[1994](#ref-boeda_concept_1994), [1993](#ref-boeda_debitage_1993)), also
+establishes six technological criteria defining the Discoid method:
+
+1.  The volume of the core is conceived as two oblique asymmetric convex
+    surfaces delimited by an intersection plane.  
+2.  These two surfaces are not hierarchical being possible to alternate
+    the roles of percussion and exploitation surfaces.  
+3.  The peripheral convexity of the debitage surface is managed to
+    control lateral and distal extractions thus allowing for a degree of
+    predetermination  
+4.  Striking surfaces are oriented in a way that the core edge is
+    perpendicular to the predetermined products  
+5.  The planes of extraction of the products are secant  
+6.  The technique employed is the direct percussion with hard hammer.
+
+Technological analysis of Middle Paleolithic assemblages has gradually
+led to identify a variability of modalities within the discoidal core
+knapping ([Bourguignon and Turq, 2003](#ref-peresani_chaine_2003);
+[Locht, 2003](#ref-peresani_industrie_2003),
+[2003](#ref-peresani_industrie_2003); [Terradas,
+2003](#ref-terradas_discoid_2003)). This has resulted in *sensu stricto*
+and a *sensu lato* conceptualizations of the Discoid knapping system
+([Faivre et al., 2017](#ref-faivre_late_2017); [Mourre,
+2003](#ref-peresani_discoiou_2003); [Thiébaut,
+2013](#ref-thiebaut_discoid_2013)). The *sensu stricto* highly
+corresponds to Boëda’s ([1993](#ref-boeda_debitage_1993)) above
+mentioned definition, where core edge flakes and pseudo-Levallois points
+are the most common products. *The sensu lato* Discoid encompasses a
+larger range of products (although centripetal flakes are more common)
+as a result of higher variability in the organization of percussion and
+exploitation surfaces ([Terradas](#ref-terradas_discoid_2003)
+([2003](#ref-terradas_discoid_2003))).
 
     library(tidyverse)
 
@@ -672,6 +706,12 @@ Nanterre.
 Bourguignon, L., 1996. La conception du debitage Quina. Quaternaria Nova
 6, 149–166.
 
+Bourguignon, L., Turq, A., 2003. Une chaîne opératoire de débitage
+discoïde sur éclat du Moustérien à denticulés aquitain: Les exemples de
+Champ Bossuet et de Combre Grenal c.14, in: Peresani, M. (Ed.), Discoid
+Lithic Technology. Advances and Implications, BAR International Series.
+Oxford, pp. 131–152.
+
 Delagnes, A., 1995. Variability within Uniformity: Three Levels of
 Variability within the Levallois System, in: Dibble, H.L., Bar-Yosef, O.
 (Eds.), The Definition and Interpretation of Levallois Technology,
@@ -704,11 +744,21 @@ production lithique du Paléolithique ancien. Paléo 5, 53–82.
 Kuhn, S.L., 2013. Roots of the Middle Paleolithic in Eurasia. Current
 Anthropology 54, S255–S268. <https://doi.org/10.1086/673529>
 
+Locht, J.-L., 2003. L’industrie lithique du gisement de Beauvais (Oise,
+France): Objectifs et variabilité du débitage discoïde, in: Peresani, M.
+(Ed.), Discoid Lithic Technology: Advances and Implications, BAR
+International Series. Archaeopress, Oxford, pp. 193–209.
+
 Moncel, M.-H., Ashton, N., Arzarello, M., Fontana, F., Lamotte, A.,
 Scott, B., Muttillo, B., Berruti, G., Nenzioni, G., Tuffreau, A., 2020.
 Early Levallois core technology between marine isotope stage 12 and 9 in
 Western Europe. Journal of human evolution 139, 102735.
 <https://doi.org/doi.org/10.1016/j.jhevol.2019.102735>
+
+Mourre, V., 2003. Discoïde ou pas Discoïde? Réflexions sur la pertinence
+des critères techniques définissant le débitage discoïde, in: Peresani,
+M. (Ed.), Discoid Lithic Technology. Advances and Implications, BAR
+International Series. Archaeopress, Oxford, pp. 1–17.
 
 Newcomer, M.H., Hivernel-Guerre, F., 1974. Nucléus sur éclat:
 Technologie et utilisation par différentes cultures préhistoriques.
@@ -734,6 +784,14 @@ Santonja, M., Pérez-González, A., Panera, J., Rubio-Jara, S.,
 Méndez-Quintas, E., 2016. The coexistence of Acheulean and Ancient
 Middle Palaeolithic techno-complexes in the Middle Pleistocene of the
 Iberian Peninsula. Quaternary International 411, 367–377.
+
+Terradas, X., 2003. Discoid flaking method: Conception and technological
+variability, in: Peresani, M. (Ed.), Discoid Lithic Technology. Advances
+and Implications, BAR International Series. Archaeopress, Oxford, pp.
+19–32.
+
+Thiébaut, C., 2013. Discoid debitage stricto sensu: A method adapted to
+highly mobile Middle Paleolithic groups? P@lethnology Varia.
 
 Tixier, J., Turq, A., 1999. Kombewa et alii. Paléo 11, 135–143.
 <https://doi.org/10.3406/pal.1999.1174>
