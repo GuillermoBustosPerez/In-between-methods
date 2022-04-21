@@ -74,11 +74,35 @@ different methods [Kuhn](#ref-kuhn_roots_2013)
 ([2013](#ref-kuhn_roots_2013)). Due to their wide geographical and
 chronological extension, Levallois and Discoid constitute an important
 source of cultural variability of the Middle Paleolithic from Western
-Europe.  
+Europe.
+
 Boëda ([1995a](#ref-dibble_levallois:_1995),
 [1994](#ref-boeda_concept_1994)) establishes six characteristics
 defining the Levallois knapping strategy from a technological point of
 view:
+
+1.  The volume of the core is conceived in two convex asymmetric
+    surfaces.  
+2.  These two surfaces are hierarchical and are not interchangeable.
+    They maintain their role of striking and debitage (or exploitation)
+    surface respectively along the whole reduction process.  
+3.  The distal and lateral convexities of the debitage surface are
+    maintained to obtain predetermined flakes.  
+4.  The plane of fracture of the predetermined products is parallel to
+    the intersection between both surfaces.  
+5.  The striking platform is perpendicular to the overhang (the core
+    edge, at the intersection between the two core surfaces).  
+6.  The technique employed during the knapping process is the direct
+    percussion with hard hammer.
+
+Depending on the organization of the debitage surface Levallois cores
+are usually classified into preferential method (were a single
+predetermined Levallois flake is obtained from the debitage surface) or
+recurrent methods (were several predetermined flakes are produced from
+the debitage surface) with removals being either unidirectional,
+bidirectional or centripetal [Delagnes and
+Meignen](#ref-hovers_diversity_2006)
+([2006](#ref-hovers_diversity_2006)).
 
     library(tidyverse)
 
@@ -613,6 +637,12 @@ Nanterre.
 
 Bourguignon, L., 1996. La conception du debitage Quina. Quaternaria Nova
 6, 149–166.
+
+Delagnes, A., 1995. Variability within Uniformity: Three Levels of
+Variability within the Levallois System, in: Dibble, H.L., Bar-Yosef, O.
+(Eds.), The Definition and Interpretation of Levallois Technology,
+Monographs in World Archaeology. Prehistory Press, Madison, Wisconsin,
+pp. 201–211.
 
 Delagnes, A., Meignen, L., 2006. Diversity of Lithic Production Systems
 During the Middle Paleolithic in France. Are There Any Chronological
