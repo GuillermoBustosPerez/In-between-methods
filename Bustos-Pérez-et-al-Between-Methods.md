@@ -93,18 +93,19 @@ view:
 5.  The striking platform is perpendicular to the overhang (the core
     edge, at the intersection between the two core surfaces).  
 6.  The technique employed during the knapping process is the direct
-    percussion with hard hammer.
+    percussion with hard hammer.  
 
-Depending on the organization of the debitage surface Levallois cores
-are usually classified into preferential method (were a single
-predetermined Levallois flake is obtained from the debitage surface) or
-recurrent methods (were several predetermined flakes are produced from
-the debitage surface) with removals being either unidirectional,
-bidirectional or centripetal ([Boëda,
-1995a](#ref-dibble_levallois:_1995); [Boëda et al.,
-1990](#ref-boeda_identification_1990); [Delagnes,
-1995](#ref-dibble_variability_1995); [Delagnes and Meignen,
-2006](#ref-hovers_diversity_2006)).  
+-   Depending on the organization of the debitage surface Levallois
+    cores are usually classified into preferential method (were a single
+    predetermined Levallois flake is obtained from the debitage surface)
+    or recurrent methods (were several predetermined flakes are produced
+    from the debitage surface) with removals being either
+    unidirectional, bidirectional or centripetal ([Boëda,
+    1995a](#ref-dibble_levallois:_1995); [Boëda et al.,
+    1990](#ref-boeda_identification_1990); [Delagnes,
+    1995](#ref-dibble_variability_1995); [Delagnes and Meignen,
+    2006](#ref-hovers_diversity_2006)).
+
 Because of its early recognition in the XIX century ([Boucher de
 Perthes, 1857](#ref-boucher_de_perthes_antiquites_1857)), its
 association with cognitive abilities of planning and predetermination
