@@ -294,10 +294,16 @@ this problem. Results provide insights into the classification accuracy
 for each knapping method, variable importance, and directionality of
 confusions between methods.
 
-### 1.2 Introduction: packages
+### 1.2 Introduction: loading packages and data
+
+The following lines of code load packages employed for the development
+of the present study. Packages employed are: tidyverse ([Wickham et al.,
+2019](#ref-wickham_welcome_2019)), caret ([Kuhn,
+2008](#ref-kuhn_building_2008)), pROC ([Robin et al.,
+2011](#ref-robin_proc_2011))
 
 ``` r
-library(tidyverse)
+library(tidyverse); library(caret); library(pROC)
 ```
 
 ``` r
@@ -338,7 +344,7 @@ flake was detached.
 ### 2.1 Experimental assemblage
 
 The experimental assemblage consists of 222 experimentally knapped
-flakes belonging to Levallois, Discoid and Hierarchical Discoid
+flakes belonging to Levallois, discoidal and Hierarchical Discoid
 reduction sequences. The experimental assemblage was knapped by two of
 the authors (JB and GBP). One of the authors (JB) is considered a high
 level expert while the second (GBP) is considered an intermediate-high
@@ -558,6 +564,14 @@ la Société préhistorique française 90, 328–335.
 
 </div>
 
+<div id="ref-kuhn_building_2008" class="csl-entry">
+
+Kuhn, M., 2008. Building Predictive Models in R using the caret Package.
+Journal of Statistical Software 28.
+<https://doi.org/10.18637/jss.v028.i05>
+
+</div>
+
 <div id="ref-kuhn_roots_2013" class="csl-entry">
 
 Kuhn, S.L., 2013. Roots of the Middle Paleolithic in Eurasia. Current
@@ -665,6 +679,15 @@ Editions, Paris.
 
 </div>
 
+<div id="ref-robin_proc_2011" class="csl-entry">
+
+Robin, X., Turck, N., Hainard, A., Tiberti, N., Lisacek, F., Sanchez,
+J.-C., Müller, M., 2011. <span class="nocase">pROC</span>: An
+open-source package for R and S+ to analyze and compare ROC curves. BMC
+bioinformatics 12, 1–8.
+
+</div>
+
 <div id="ref-santonja_coexistence_2016" class="csl-entry">
 
 Santonja, M., Pérez-González, A., Panera, J., Rubio-Jara, S.,
@@ -721,6 +744,17 @@ highly mobile Middle Paleolithic groups? P@lethnology Varia.
 
 Tixier, J., Turq, A., 1999. Kombewa et alii. Paléo 11, 135–143.
 <https://doi.org/10.3406/pal.1999.1174>
+
+</div>
+
+<div id="ref-wickham_welcome_2019" class="csl-entry">
+
+Wickham, H., Averick, M., Bryan, J., Chang, W., McGowan, L., François,
+R., Grolemund, G., Hayes, A., Henry, L., Hester, J., Kuhn, M., Pedersen,
+T., Miller, E., Bache, S., Müller, K., Ooms, J., Robinson, D., Seidel,
+D., Spinu, V., Takahashi, K., Vaughan, D., Wilke, C., Woo, K., Yutani,
+H., 2019. Welcome to the Tidyverse. Journal of Open Source Software 4,
+1686. <https://doi.org/10.21105/joss.01686>
 
 </div>
 
