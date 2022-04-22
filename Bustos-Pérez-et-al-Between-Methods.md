@@ -234,18 +234,46 @@ this knapping method is focused on its intermediate nature between
 Discoid and recurrent centripetal Levallois. However, Early Middle
 Paleolithic sites usually focus its identity in the shared features with
 Levallois as preceding the gradual emergence of the later. For example,
-Carmignani et al. ([2017](#ref-carmignani_technological_2017)) for Payre
-and Bau de l’Aubesier use the term centripetal with parallel planes
-noting the resemblance of features with Levallois. Soriano and Villa
-([2017](#ref-soriano_early_2017)) for Guado San Nicola use the term
-non-Levallois debitage with hierarchized surfaces noting its similarity
-with Levallois but also its distinctiveness due to the absence of
-convexity preparation/management and platform preparation. For Cuesta de
-la Bajada Santonja et al. ([2016](#ref-santonja_coexistence_2016))
-differentiate between Levallois cores and cores of centripetal character
-with preferential surfaces (which are simply referred as centripetal).
-[Lombera-Hermida et al.](#ref-de_lombera-hermida_dawn_2020)
-([2020](#ref-de_lombera-hermida_dawn_2020))
+[Carmignani et al.](#ref-carmignani_technological_2017)
+([2017](#ref-carmignani_technological_2017)) for Payre and Bau de
+l’Aubesier use the term centripetal with parallel planes noting the
+resemblance of features with Levallois. [Soriano and
+Villa](#ref-soriano_early_2017) ([2017](#ref-soriano_early_2017)) for
+Guado San Nicola use the term non-Levallois debitage with hierarchized
+surfaces noting its similarity with Levallois but also its
+distinctiveness due to the absence of convexity preparation/management
+and platform preparation. For Cuesta de la Bajada [Santonja et
+al.](#ref-santonja_coexistence_2016)
+([2016](#ref-santonja_coexistence_2016)) differentiate between Levallois
+cores and cores of centripetal character with preferential surfaces
+(which are simply referred as centripetal). [Lombera-Hermida et
+al.](#ref-de_lombera-hermida_dawn_2020)
+([2020](#ref-de_lombera-hermida_dawn_2020)) cite the presence of
+predetermined hierarchical centripetal cores in different raw materials
+for TD10.1 at Atapuerca and note their difference and coexistence with
+classical discoidal and Levallois knapping methods.
+
+The technological criteria for identifying production systems are highly
+visible on cores. However, a high degree of uncertainty remains in
+flakes since these technological criteria are less visible or they are
+absent ([Hovers, 2009](#ref-hovers_lithic_2009)). Another underlying
+cause is the fluid and continuous nature of lithic knapping and
+reduction which can blur differences between apparent clear cut methods.
+Additionally, variations can result from adaptations to raw material
+(different knapping methods applied to different raw materials in a same
+archaeological level), raw material initial morphology, knappers
+expertise and learning process, or circumstantial events and
+restrictions. This adds up to an absence of discrete categories that are
+blurred by the underlying existence of a wide variety of lithic
+expressions. Attributing flakes to a knapping method usually remains a
+result of observed features compared with experimental collections,
+context given from knapping methods observed in the cores of the
+assemblage (although cores in an assemblage do not necessarily represent
+all knapping methods), and where the experience of the analyst has an
+important weight ([Hovers, 2009](#ref-hovers_lithic_2009); [Perpère,
+1986](#ref-perpere_apport_1986)). [Perpère](#ref-perpere_les_1989)
+([1989](#ref-perpere_les_1989)); -[Perpère](#ref-perpere_apport_1986)
+([1986](#ref-perpere_apport_1986))
 
 ``` r
 library(tidyverse)
@@ -480,6 +508,13 @@ production lithique du Paléolithique ancien. Paléo 5, 53–82.
 
 </div>
 
+<div id="ref-hovers_lithic_2009" class="csl-entry">
+
+Hovers, E., 2009. The lithic assemblages of Qafzeh Cave, Human
+Evolutiion Series. Oxford University Press, New york.
+
+</div>
+
 <div id="ref-jaubert_gisement_1993" class="csl-entry">
 
 Jaubert, J., 1993. Le gisement paléolithique moyen de Mauran
@@ -570,6 +605,21 @@ Peresani, M., 1998. La variabilité du débitage discoïde dans la grotte
 de Fumane (Italie du Nord)/The variability of discoid production at the
 grotte de Fumane. Paléo 10, 123–146.
 <https://doi.org/10.3406/pal.1998.1133>
+
+</div>
+
+<div id="ref-perpere_les_1989" class="csl-entry">
+
+Perpère, M., 1989. Les frontiéres du débitage Levallois: Typométrie des
+éclats. L’Anthropologie 95, 837–850.
+
+</div>
+
+<div id="ref-perpere_apport_1986" class="csl-entry">
+
+Perpère, M., 1986. Apport de la typométrie à la définition des éclats
+Levallois : L’exemple d’Ault. Bulletin de la Société préhistorique
+française 83, 115–118. <https://doi.org/10.3406/bspf.1986.8743>
 
 </div>
 
