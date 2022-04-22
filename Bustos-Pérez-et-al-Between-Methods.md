@@ -162,9 +162,8 @@ larger range of products (although centripetal flakes are more common)
 as a result of higher variability in the organization of percussion and
 exploitation surfaces ([Terradas, 2003](#ref-terradas_discoid_2003)).
 
-One of the variants from the Discoid sensu lato conceptualization
-resembles Levallois knapping strategy @ref(fig:Schematic representation
-of the knapping methods, surfaces and platform preparation). Some common
+One of the variants from the Discoid *sensu lato* conceptualization
+resembles Levallois knapping strategy (Figure 1). Some common
 characteristics outlined for this method are:  
 1) The core volume is conceived as two hierarchical asymmetric surfaces:
 the percussion surface and the exploitation surface (this is a common
@@ -200,7 +199,35 @@ Early Middle Paleolithic assemblages ([Casanova i Martí et al.,
 1998](#ref-peresani_variabilite_1998); [2003](#ref-peresani_les_2003),
 [1998](#ref-slimak_variabilite_1998); [Soriano and Villa,
 2017](#ref-soriano_early_2017)). However, it is important to consider
-that given the wide geographical and chronological span
+that given the wide geographical and chronological span (Figure 2),
+different terms are employed. For Middle Paleolithic sites, the identity
+of this method usually focuses on the shared features with Levallois and
+Discoid and thus, its intermediate nature.
+
+Jaubert ([1993](#ref-jaubert_gisement_1993)) at Mauran notes the
+hierarchical nature of the production system and its resemblance to
+exhausted recurrent centripetal Levallois cores. However, he points out
+the secant planes of detachment not so parallel as Levallois as a
+differentiation. Slimak ([2003](#ref-peresani_les_2003),
+[1998](#ref-slimak_variabilite_1998)) at Champ Grand also notes the
+similarities of residual cores with recurrent centripetal Levallois
+debitage. Casanova i Martí et al.
+([2009](#ref-casanova_i_marti_strategies_2009);
+[2014](#ref-casanova_debitage_2014)) ) notes for Estret de Tragó the
+presence of products and knapping methods which share features of
+Levallois and Discoid, and proposes to include Hierarchical Discoid and
+Levallois recurrent centripetal strategies into the Hierarchical
+bifacial centripetal class. Peresani
+([1998](#ref-peresani_variabilite_1998)) for Fumane cave notes the
+presence of debitage products with features (reduced thickness, debitage
+angle, and centripetal organization of scars also subparallel to the
+ventral surface) which would correspond to parallel planes debitage.
+Baena et al., ([2005](#ref-montes_barquin_paleoecologiy_2005)) indicate
+the presence of hierarchical Discoid along the sequence of Esquilleu
+cave as secondary and primary knapping method.
+
+![Distribution of sites referenced in the text base map obtained from:
+<https://maps-for-free.com/>)](Article%20Figures/Mapa.png)
 
 ``` r
 library(tidyverse)
@@ -249,6 +276,18 @@ knapper.
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-montes_barquin_paleoecologiy_2005" class="csl-entry">
+
+Baena, J., Carrión, E., Ruiz, B., Ellwood, B., Sesé, C., Yravedra, J.,
+Jordá, J., Uzquiano, P., Velázquez, R., Manzano, I., Sanchez-Marco, A.,
+Hernández, F., 2005. Paleoecología y comportamiento humano durante el
+Pleistoceno Superior en la comarca de Liébana: La secuencia de la Cueva
+de El Esquilleu (Occidente de Cantabria, España), in: Montes Barquín, R.
+(Ed.), Neandertales Cantábricos. Estado de La Cuestión, Monografías.
+Museo de Altamira, Santander, pp. 461–487.
+
+</div>
 
 <div id="ref-dibble_levallois:_1995" class="csl-entry">
 
