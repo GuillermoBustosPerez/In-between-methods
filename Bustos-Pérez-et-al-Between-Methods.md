@@ -163,8 +163,9 @@ as a result of higher variability in the organization of percussion and
 exploitation surfaces ([Terradas, 2003](#ref-terradas_discoid_2003)).
 
 One of the variants from the Discoid sensu lato conceptualization
-resembles Levallois knapping strategy. Some common characteristics
-outlined for this method are:  
+resembles Levallois knapping strategy @ref(fig:Schematic representation
+of the knapping methods, surfaces and platform preparation). Some common
+characteristics outlined for this method are:  
 1) The core volume is conceived as two hierarchical asymmetric surfaces:
 the percussion surface and the exploitation surface (this is a common
 feature with Levallois).  
