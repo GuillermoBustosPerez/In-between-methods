@@ -229,6 +229,24 @@ cave as secondary and primary knapping method.
 ![Distribution of sites referenced in the text base map obtained from:
 <https://maps-for-free.com/>)](Article%20Figures/Mapa.png)
 
+As previously mentioned, for Middle Paleolithic sites, the identity of
+this knapping method is focused on its intermediate nature between
+Discoid and recurrent centripetal Levallois. However, Early Middle
+Paleolithic sites usually focus its identity in the shared features with
+Levallois as preceding the gradual emergence of the later. For example,
+Carmignani et al. ([2017](#ref-carmignani_technological_2017)) for Payre
+and Bau de l’Aubesier use the term centripetal with parallel planes
+noting the resemblance of features with Levallois. Soriano and Villa
+([2017](#ref-soriano_early_2017)) for Guado San Nicola use the term
+non-Levallois debitage with hierarchized surfaces noting its similarity
+with Levallois but also its distinctiveness due to the absence of
+convexity preparation/management and platform preparation. For Cuesta de
+la Bajada Santonja et al. ([2016](#ref-santonja_coexistence_2016))
+differentiate between Levallois cores and cores of centripetal character
+with preferential surfaces (which are simply referred as centripetal).
+[Lombera-Hermida et al.](#ref-de_lombera-hermida_dawn_2020)
+([2020](#ref-de_lombera-hermida_dawn_2020))
+
 ``` r
 library(tidyverse)
 ```
@@ -384,6 +402,16 @@ Oxford, pp. 131–152.
 
 </div>
 
+<div id="ref-carmignani_technological_2017" class="csl-entry">
+
+Carmignani, L., Moncel, M.-H., Fernandes, P., Wilson, L., 2017.
+Technological variability during the Early Middle Palaeolithic in
+Western Europe. Reduction systems and predetermined products at the Bau
+de l’Aubesier and Payre (South-East France). PLoS ONE 12, e0178550.
+<https://doi.org/10.1371/journal.pone.0178550>
+
+</div>
+
 <div id="ref-casanova_i_marti_strategies_2009" class="csl-entry">
 
 Casanova i Martí, J., Martínez Moreno, J., Mora Torcal, R., Torre, I. de
@@ -474,6 +502,18 @@ Locht, J.-L., 2003. L’industrie lithique du gisement de Beauvais (Oise,
 France): Objectifs et variabilité du débitage discoïde, in: Peresani, M.
 (Ed.), Discoid Lithic Technology: Advances and Implications, BAR
 International Series. Archaeopress, Oxford, pp. 193–209.
+
+</div>
+
+<div id="ref-de_lombera-hermida_dawn_2020" class="csl-entry">
+
+Lombera-Hermida, A. de, Rodríguez-Álvarez, X.P., Mosquera, M., Ollé, A.,
+García-Medrano, P., Pedergnana, A., Terradillos-Bernal, M.,
+López-Ortega, E., Bargalló, A., Rodríguez-Hidalgo, A., Saladié, P.,
+Bermúdez de Castro, J.M., Carbonell, E., 2020. The dawn of the Middle
+Paleolithic in Atapuerca: The lithic assemblage of TD10.1 from Gran
+Dolina. Journal of Human Evolution 145, 102812.
+<https://doi.org/10.1016/j.jhevol.2020.102812>
 
 </div>
 
