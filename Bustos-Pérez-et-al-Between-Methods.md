@@ -272,7 +272,27 @@ assemblage (although cores in an assemblage do not necessarily represent
 all knapping methods), and where the experience of the analyst has an
 important weight ([Hovers, 2009](#ref-hovers_lithic_2009); [Perpère,
 1986](#ref-perpere_apport_1986)). Perpère
-([1989](#ref-perpere_les_1989), [1986](#ref-perpere_apport_1986))
+([1989](#ref-perpere_les_1989), [1986](#ref-perpere_apport_1986)) shows
+that when using a dual classification category of
+Levallois/non-Levallois there is a 30% disagreement between researchers.
+Another example of classification discrepancy comes from the type counts
+of Dibble and Tuffreau for the site of Biache Saint-Bass, showing that
+Levallois flakes represent 46.08% of the assemblage in one list and
+27.29% in the other ([Dibble, 1995](#ref-dibble_biache_1995)).  
+Thus, a good argument can be made for the difficulty of attributing
+knapping methods to flakes. This difficulty increases due to the
+existence of intermediate methods such as the Hierarchical Discoid whose
+technological characteristics fall between the Discoid sensu stricto and
+Levallois. The following work employs experimentally knapped products
+from Levallois, Discoid, and Hierarchical Discoid and a Machine Learning
+approach to address this problem. Results provide insights into the
+classification accuracy for each knapping method, variable importance,
+and directionality of confusions. The present study uses an experimental
+assemblage of flakes from Levallois (recurrent centripetal and
+preferential), along with Discoid and Hierarchcial Discoid to address
+this problem. Results provide insights into the classification accuracy
+for each knapping method, variable importance, and directionality of
+confusions between methods.
 
 ``` r
 library(tidyverse)
@@ -485,6 +505,15 @@ During the Middle Paleolithic in France. Are There Any Chronological
 Trends?, in: Hovers, E., Kuhn, S.L., Jochim, M. (Eds.), Transitions
 Before the Transition Evolution and Stability in the Middle Paleolithic
 and Middle Stone Age. Springer, pp. 85–107.
+
+</div>
+
+<div id="ref-dibble_biache_1995" class="csl-entry">
+
+Dibble, H.L., 1995. Biache Saint-Vaast, Level IIA: A comparison of
+analytical approaches, in: Dibble, H.L., Bar-Yosef, O. (Eds.), The
+Definition and Interpretation of Levallois Technology, Monographs in
+World Archaeology. Prehistory Press, pp. 93–116.
 
 </div>
 
