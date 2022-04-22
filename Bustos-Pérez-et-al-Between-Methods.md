@@ -1,4 +1,4 @@
-# Between methods: Levallois, Discoid and what falls in between
+# Between methods: Levallois, discoidal and what falls in between
 
 Guillermo Bustos-Pérez<sup>1, 2</sup>, Javier Baena<sup>1</sup>, Manuel
 Vaquero<sup>2, 3</sup>
@@ -294,6 +294,8 @@ this problem. Results provide insights into the classification accuracy
 for each knapping method, variable importance, and directionality of
 confusions between methods.
 
+### 1.2 Introduction: packages
+
 ``` r
 library(tidyverse)
 ```
@@ -305,21 +307,25 @@ load("Data/Data.RData")
 
 ``` r
 # Head the data
-knitr::kable(ML_Data[1:10,])
+head(ML_Data)
 ```
 
-| Artifact_ID | Core       | Class | Knapping_Phase  | Frag_Cat | Complete | Length | Width | Laminar_Index | MeanThick | Max_Thick | CarenIndex | Surf_Area | Surf_Thick | Angle_Lat_Marg |   SDThick |   CVThick | Weight | Curvature | Surface.Plat | Plat_Depth | Plat_Width | FlakeSurf_Plat | Plat_Prof | Plat_Prep | Cortex | Cortex_Loc | No_Scars | Long_Ridges | Termination_type | Trans_Section          | Flake_Type   | EPA | IPA | X_W\_rat |     IL_PS | Surf_ProxW |
-|:------------|:-----------|:------|:----------------|:---------|:---------|-------:|------:|--------------:|----------:|----------:|-----------:|----------:|-----------:|---------------:|----------:|----------:|-------:|----------:|-------------:|-----------:|-----------:|---------------:|:----------|:----------|-------:|-----------:|---------:|------------:|:-----------------|:-----------------------|:-------------|----:|----:|---------:|----------:|-----------:|
-| Disc_08_01  | Discoid_08 | D     | Full Production | C        | Y        |   40.4 |  31.4 |     1.2866242 |  4.666667 |       7.1 |   4.422535 |   1268.56 |  271.83429 |     -15.432218 | 1.8263503 | 0.3913608 |   7.20 |  175.6010 |       7.6800 |        2.4 |        6.4 |     165.177083 | RT        | L         |      5 |          5 |        2 |           0 | Feather          | Trapezoidal_Asymmetric | Backed Flake |  76 | 120 | 3.140625 | 0.1675292 |  2.6171875 |
-| Disc_08_02  | Discoid_08 | D     | Full Production | C        | Y        |   42.2 |  41.6 |     1.0144231 | 10.666667 |      13.0 |   3.200000 |   1755.52 |  164.58000 |       8.618919 | 2.3213980 | 0.2176311 |  23.03 |  174.8621 |     316.0000 |        7.9 |       40.0 |       5.555443 | CX        | L         |      5 |          5 |        3 |           0 | Feather          | Triangular             | Flake        |  77 | 119 | 1.027500 | 0.0032102 |  0.1300633 |
-| Disc_08_03  | Discoid_08 | D     | Full Production | C        | Y        |   28.9 |  38.5 |     0.7506494 |  9.166667 |      12.7 |   2.275591 |   1112.65 |  121.38000 |       1.432320 | 2.8581268 | 0.3117957 |  11.82 |  180.0000 |     210.6250 |       12.5 |       33.7 |       5.282611 | BF        | D         |      5 |          5 |        3 |           0 | Feather          | Trapezoidal            | Flake        |  54 | 112 | 1.035608 | 0.0035639 |  0.1656973 |
-| Disc_08_04  | Discoid_08 | D     | Full Production | C        | Y        |   58.6 |  39.4 |     1.4873096 | 11.966667 |      16.6 |   2.373494 |   2308.84 |  192.93928 |      -5.958859 | 4.1152832 | 0.3438955 |  23.87 |  173.7362 |      33.0600 |        5.7 |       11.6 |      69.837870 | CX        | L         |      5 |          5 |        4 |           0 | Feather          | Triangular             | Flake        |  60 | 114 | 2.094828 | 0.0449882 |  0.7350272 |
-| Disc_08_05  | Discoid_08 | D     | Full Production | C        | Y        |   41.0 |  35.1 |     1.1680912 | 11.333333 |      15.4 |   2.279221 |   1439.10 |  126.97941 |      10.125487 | 3.5264083 | 0.3111537 |  14.04 |  177.7746 |      60.8000 |        4.0 |       15.2 |      23.669408 | RT        | L         |      5 |          5 |        3 |           0 | Feather          | Triangular_Asymmetric  | Backed Flake |  56 | 115 | 1.993421 | 0.0192120 |  0.4983553 |
-| Disc_08_06  | Discoid_08 | D     | Full Production | C        | Y        |   40.2 |  28.0 |     1.4357143 | 11.933333 |      13.5 |   2.074074 |   1125.60 |   94.32402 |       3.893609 | 1.7441967 | 0.1461617 |  10.27 |  176.4807 |      38.7200 |        6.4 |       12.1 |      29.070248 | RT        | L         |      5 |          5 |        3 |           0 | Feather          | Triangular_Asymmetric  | Backed Flake |  83 |  98 | 1.685950 | 0.0370794 |  0.5268595 |
-| Disc_08_07  | Discoid_08 | D     | Full Production | C        | Y        |   36.8 |  30.7 |     1.1986971 |  8.400000 |      10.5 |   2.923809 |   1129.76 |  134.49524 |      -0.155695 | 2.2375582 | 0.2663760 |   9.82 |  168.1249 |      35.0900 |        5.8 |       12.1 |      32.196067 | RT        | L         |      5 |          5 |        2 |           0 | Feather          | Triangular_Asymmetric  | Backed Flake |  75 | 120 | 2.314050 | 0.0341606 |  0.7979481 |
-| Disc_08_08  | Discoid_08 | D     | Full Production | C        | Y        |   41.7 |  28.4 |     1.4683099 |  6.933333 |       9.3 |   3.053763 |   1184.28 |  170.80962 |       8.229818 | 1.9601587 | 0.2827152 |   9.74 |  178.3511 |     109.5159 |        8.3 |       16.8 |      10.813770 | CC        | L         |      4 |          2 |        2 |           2 | Feather          | Triangular             | Flake        |  70 | 105 | 1.678571 | 0.0134073 |  0.2574968 |
-| Disc_08_09  | Discoid_08 | D     | Full Production | C        | Y        |   46.7 |  27.8 |     1.6798561 |  6.666667 |       7.1 |   3.915493 |   1298.26 |  194.73900 |       7.106838 | 0.6128259 | 0.0919239 |  10.28 |  170.6550 |      64.6100 |        7.1 |       18.2 |      20.093794 | CX        | L         |      5 |          5 |        2 |           0 | Feather          | Triangular_Asymmetric  | Backed Flake |  85 |  91 | 1.527473 | 0.0259999 |  0.4302740 |
-| Disc_08_10  | Discoid_08 | D     | Full Production | C        | Y        |   49.2 |  23.1 |     2.1298701 |  7.733333 |      10.1 |   2.287129 |   1136.52 |  146.96379 |      -2.677974 | 2.2005050 | 0.2845481 |   8.65 |  170.6630 |      49.5800 |        7.4 |       13.4 |      22.922953 | RT        | L         |      5 |          5 |        3 |           0 | Feather          | Triangular             | Flake        |  77 | 110 | 1.358209 | 0.0429583 |  0.3670835 |
+    ## # A tibble: 6 x 37
+    ##   Artifact_ID Core       Class Knapping_Phase  Frag_Cat Complete Length Width
+    ##   <chr>       <chr>      <fct> <chr>           <chr>    <chr>     <dbl> <dbl>
+    ## 1 Disc_08_01  Discoid_08 D     Full Production C        Y          40.4  31.4
+    ## 2 Disc_08_02  Discoid_08 D     Full Production C        Y          42.2  41.6
+    ## 3 Disc_08_03  Discoid_08 D     Full Production C        Y          28.9  38.5
+    ## 4 Disc_08_04  Discoid_08 D     Full Production C        Y          58.6  39.4
+    ## 5 Disc_08_05  Discoid_08 D     Full Production C        Y          41    35.1
+    ## 6 Disc_08_06  Discoid_08 D     Full Production C        Y          40.2  28  
+    ## # ... with 29 more variables: Laminar_Index <dbl>, MeanThick <dbl>,
+    ## #   Max_Thick <dbl>, CarenIndex <dbl>, Surf_Area <dbl>, Surf_Thick <dbl>,
+    ## #   Angle_Lat_Marg <dbl>, SDThick <dbl>, CVThick <dbl>, Weight <dbl>,
+    ## #   Curvature <dbl>, Surface.Plat <dbl>, Plat_Depth <dbl>, Plat_Width <dbl>,
+    ## #   FlakeSurf_Plat <dbl>, Plat_Prof <chr>, Plat_Prep <chr>, Cortex <dbl>,
+    ## #   Cortex_Loc <dbl>, No_Scars <dbl>, Long_Ridges <dbl>,
+    ## #   Termination_type <chr>, Trans_Section <chr>, Flake_Type <chr>, ...
 
 ## 2. Methods
 
