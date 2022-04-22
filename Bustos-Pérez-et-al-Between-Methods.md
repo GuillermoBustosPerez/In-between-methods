@@ -271,8 +271,9 @@ context given from knapping methods observed in the cores of the
 assemblage (although cores in an assemblage do not necessarily represent
 all knapping methods), and where the experience of the analyst has an
 important weight ([Hovers, 2009](#ref-hovers_lithic_2009); [Perpère,
-1986](#ref-perpere_apport_1986)). ([Perpère,
-1989](#ref-perpere_les_1989), [1986](#ref-perpere_apport_1986))
+1986](#ref-perpere_apport_1986)). [Perpère](#ref-perpere_les_1989)
+([1989](#ref-perpere_les_1989)); -[Perpère](#ref-perpere_apport_1986)
+([1986](#ref-perpere_apport_1986))
 
 ``` r
 library(tidyverse)
