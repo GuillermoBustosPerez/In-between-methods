@@ -563,10 +563,10 @@ outlined in bold.
 -   Thickness at the 75% length of the flake ([Eren and Lycett,
     2012](#ref-eren_why_2012)).  
 -   Maximum flake length.  
--   Maximum thickness  
--   Average thickness: the average from the three previous measures of
-    thickness.  
--   Standard deviation of thickness.  
+-   **Maximum thickness**  
+-   **Average thickness**: the average from the three previous measures
+    of thickness.  
+-   **Standard deviation of thickness**.  
 -   Angle height ([Andrefsky, 2005](#ref-barker_lithics_2005)): the
     height of the flake including its curvature as it can be seen in
     Figure 8.  
@@ -576,46 +576,47 @@ outlined in bold.
 -   Measurement “x,” “y” and “z” of the platform (Figure 7) following
     previous geometric morphologies ([Muller and Clarkson,
     2016](#ref-muller_new_2016)).  
--   Platform surface: calculated using previous geometric morphologies
-    and measurements of “x,” “y” and “z” following [Muller and
-    Clarkson](#ref-muller_new_2016) ([2016](#ref-muller_new_2016)).  
--   Platform depth: which can correspond to the measurement of “y” or
-    “z” depending on the geometric morphology of the platform (Figure
+-   **Platform surface**: calculated using previous geometric
+    morphologies and measurements of “x,” “y” and “z” following [Muller
+    and Clarkson](#ref-muller_new_2016)
+    ([2016](#ref-muller_new_2016)).  
+-   **Platform depth**: which can correspond to the measurement of “y”
+    or “z” depending on the geometric morphology of the platform (Figure
     7).  
--   Platform width: which can correspond to the measurement of “x” or
-    “y” depending on the geometric morphology of the platform (Figure
+-   **Platform width**: which can correspond to the measurement of “x”
+    or “y” depending on the geometric morphology of the platform (Figure
     7).
 
 ![Geometric morphologies employed to measure platform surface, depth and
 width following [Muller and Clarkson](#ref-muller_new_2016)
 ([2016](#ref-muller_new_2016))](Article%20Figures/Platform%20Measures.png)
 
--   Profile of the platform: absence of platform, concave, straight,
+-   **Profile of the platform**: absence of platform, concave, straight,
     convex, biangular and “chapeau de gendarme.”  
--   Preparation of the platform: no platform, cortical, plain, dihedral,
-    a pans and prepared (facetted).  
--   External Platform Angle (EPA) measured in degrees with a manual
+-   **Preparation of the platform**: no platform, cortical, plain,
+    dihedral, a pans and prepared (facetted).  
+-   **External Platform Angle (EPA)** measured in degrees with a manual
     goniometer.  
--   Internal Platform Angle (IPA) measured in degrees with a manual
+-   **Internal Platform Angle (IPA)** measured in degrees with a manual
     goniometer.  
--   Relative amount of cortex present at the dorsal face: recorded
+-   **Relative amount of cortex present at the dorsal face**: recorded
     according to its extension on the dorsal surface of the flake
     ([Andrefsky, 2005](#ref-barker_lithics_2005)): cortical (100%), more
     than 50% of cortex, less than 50% of cortex, residual presence
     (\<10%), and no cortex.  
--   Cortex location: slightly modified from
+-   **Cortex location**: slightly modified from
     [Marwick](#ref-marwick_what_2008) ([2008](#ref-marwick_what_2008)),
     with categories being primary (dorsal surface completely covered by
     cortex), crescent (cortex located in one of the laterals usually
     with a crescent shaped form) distal (located at the opposite end of
     the percussion platform), central (inner part of the flake), and
     tertiary (no cortex).  
--   Number of dorsal scars with length more than 5 mm.  
--   Number of longitudinal ridges: individual ridges starting at the
+-   **Number of dorsal scars with length more than 5 mm**\*.  
+-   **Number of longitudinal ridges**: individual ridges starting at the
     platform and reaching the distal part of the flake.  
--   Transversal section: triangular, right-angled triangle, trapezoidal,
-    rectangular trapezoid shape and ovular.  
--   Termination type of the flake: feather, hinge, step or plunging
+-   **Transversal section**: triangular, right-angled triangle,
+    trapezoidal, rectangular trapezoid shape and ovular.  
+-   **Termination type of the flake**: feather, hinge, step or plunging
     following [Cotterell and Kamminga](#ref-cotterell_formation_1987)
     ([1987](#ref-cotterell_formation_1987)).
 
@@ -624,31 +625,31 @@ flake. Right: calculation of flake curvature following
 [Andrefsky](#ref-barker_lithics_2005)
 ([2005](#ref-barker_lithics_2005))](Article%20Figures/Measures.png)
 
--   Simplified technological category of flakes: flake, backed flake
+-   **Simplified technological category of flakes**: flake, backed flake
     (including core edge flake), and pseudo-Levallois point.  
 -   Weight in grams (precision of 0.01).  
--   Elongation index: dividing technological length by technological
+-   **Elongation index**: dividing technological length by technological
     width ([Laplace, 1968](#ref-laplace_recherches_1968)).  
--   Carenated index: dividing length or width (the one with the lowest
-    value) by the maximum thicknesses ([Laplace,
+-   **Carenated index**: dividing length or width (the one with the
+    lowest value) by the maximum thicknesses ([Laplace,
     1968](#ref-laplace_recherches_1968)).  
--   Angle of the lateral margins: describes the relationship between the
-    two lateral edges of a flake. Flakes with expanding edges (wider in
-    the distal part) will have negative values, contracting/pointed
+-   **Angle of the lateral margins**: describes the relationship between
+    the two lateral edges of a flake. Flakes with expanding edges (wider
+    in the distal part) will have negative values, contracting/pointed
     (wider in the proximal part than in the distal part) artifacts will
     have positive values, and rectangular artifacts (similar proximal
     and distal width) will have near 0 values ([Clarkson,
     2007](#ref-clarkson_lithics_2007)).  
--   Flake curvature: measured in degrees and calculated following
+-   **Flake curvature**: measured in degrees and calculated following
     [Andrefsky](#ref-barker_lithics_2005)
     ([2005](#ref-barker_lithics_2005)) as it can be seen in Figure 8.
     Flakes presenting a 180º curvature are perfectly straight flakes,
     while decreasing values indicate an increase in curvature.  
--   Surface area of the flake: multiplying flake technological width and
-    length ([Dibble, 1989](#ref-mellars_implications_1989)).  
--   Ratio of surface area against thickness: surface area of the flake
-    divided by average thickness.  
--   Ratio of surface area against platform surface: dividing surface
+-   **Surface area of the flake**: multiplying flake technological width
+    and length ([Dibble, 1989](#ref-mellars_implications_1989)).  
+-   **Ratio of surface area against thickness**: surface area of the
+    flake divided by average thickness.  
+-   **Ratio of surface area against platform surface**: dividing surface
     area by platform area.
 
 ### 2.3 Machine learning models
