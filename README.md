@@ -12,7 +12,8 @@ Other examples of published data:
 -   Bustos-Pérez, G., Baena, J., 2021. Predicting Flake Mass: A View
     from Machine Learning. Lithic Technology 46, 130–142.
     <https://doi.org/10.1080/01977261.2021.1881267>  
--   Zenodo link: <https://zenodo.org/record/4603149#.YmZzKdpBwdU>
+-   Link to Zenodo repository:
+    <https://zenodo.org/record/4603149#.YmZzKdpBwdU>
 
 ### Repository data
 
