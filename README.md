@@ -1,6 +1,10 @@
 The present repository contains all data and code of the article:  
 Between methods: Levallois, Discoid and what falls in between
 
+Journal:
+
+Journal of Lithic Studies
+
 **Authors:**:
 
 Guillermo Busto-Pérez<sup>1, 2</sup>  
