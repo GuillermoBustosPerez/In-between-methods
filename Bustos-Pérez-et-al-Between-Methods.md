@@ -569,11 +569,11 @@ outlined in bold.
 -   **Standard deviation of thickness**.  
 -   Angle height ([Andrefsky, 2005](#ref-barker_lithics_2005)): the
     height of the flake including its curvature as it can be seen in
-    Figure 8.  
+    Figure 6.  
 -   Geometric morphology of the platform following [Muller and
     Clarkson](#ref-muller_new_2016) ([2016](#ref-muller_new_2016)):
-    rectangle, triangle, rhombus, trapezoid, and ellipse (Figure 7).  
--   Measurement “x,” “y” and “z” of the platform (Figure 7) following
+    rectangle, triangle, rhombus, trapezoid, and ellipse (Figure 5).  
+-   Measurement “x,” “y” and “z” of the platform (Figure 5) following
     previous geometric morphologies ([Muller and Clarkson,
     2016](#ref-muller_new_2016)).  
 -   **Platform surface**: calculated using previous geometric
@@ -582,10 +582,10 @@ outlined in bold.
     ([2016](#ref-muller_new_2016)).  
 -   **Platform depth**: which can correspond to the measurement of “y”
     or “z” depending on the geometric morphology of the platform (Figure
-    7).  
+    5).  
 -   **Platform width**: which can correspond to the measurement of “x”
     or “y” depending on the geometric morphology of the platform (Figure
-    7).
+    5).
 
 ![Geometric morphologies employed to measure platform surface, depth and
 width following [Muller and Clarkson](#ref-muller_new_2016)
@@ -642,7 +642,7 @@ flake. Right: calculation of flake curvature following
     2007](#ref-clarkson_lithics_2007)).  
 -   **Flake curvature**: measured in degrees and calculated following
     [Andrefsky](#ref-barker_lithics_2005)
-    ([2005](#ref-barker_lithics_2005)) as it can be seen in Figure 8.
+    ([2005](#ref-barker_lithics_2005)) as it can be seen in Figure 6.
     Flakes presenting a 180º curvature are perfectly straight flakes,
     while decreasing values indicate an increase in curvature.  
 -   **Surface area of the flake**: multiplying flake technological width
@@ -1042,18 +1042,18 @@ SVMP.Performance %>%
     ## Class: HD         0.6738333 Hierar. Disc.
 
 Classification metrics per class (Table 3), confusion matrix and ROC
-along with AUC’s (Figure 9) of SVM with polynomial kernel show marked
-differences according to knapping method. In all cases classification
-metrics values are higher than the no-information ratio/prevalence of
-each class (0.329 for Levallois, 0.347 for Discoidal and 0.324 for
-Hierarchical Discoidal). On general, SVM with polynomial kernel best
-identifies products obtained from Levallois preferential and recurrent
-centripetal reduction sequences. This results in a notably high value of
-sensitivity (0.783) along with a high value of general performance
-(0.797 for F1), and an outstanding AUC value (0.91). While it is more
-common to identify Levallois products as Hierarchical Discoid products
-(4.09) than to confuse them with discoidal products (3.05), both values
-are notably low.
+along with AUC’s of SVM with polynomial kernel show marked differences
+according to knapping method. In all cases classification metrics values
+are higher than the no-information ratio/prevalence of each class (0.329
+for Levallois, 0.347 for Discoidal and 0.324 for Hierarchical
+Discoidal). On general, SVM with polynomial kernel best identifies
+products obtained from Levallois preferential and recurrent centripetal
+reduction sequences. This results in a notably high value of sensitivity
+(0.783) along with a high value of general performance (0.797 for F1),
+and an outstanding AUC value (0.91). While it is more common to identify
+Levallois products as Hierarchical Discoid products (4.09) than to
+confuse them with discoidal products (3.05), both values are notably
+low.
 
 ``` r
 # ROC and AUC of each model
@@ -1165,10 +1165,10 @@ Products from Discoidal bifacial reduction sequences are the second best
 identified by the SVM with polynomial kernel. While a notable confusion
 exists between discoidal and Hierarchical Discoid products, the general
 performance value of F1 (0.647) is still quite high along with an
-excellent/good AUC value (0.82). The confusion matrix (Figure 8) shows
-clearly that most products from discoidal reduction sequences will be
-confused with Hierarchical Discoid products while their
-misclassification with Levallois is residual.  
+excellent/good AUC value (0.82). The confusion matrix shows clearly that
+most products from discoidal reduction sequences will be confused with
+Hierarchical Discoid products while their misclassification with
+Levallois is residual.  
 Hierarchical Discoid products present the lowest values of
 classification metrics. General performance metric F1 presents a value
 of 0.56 along with relatively low values of sensitivity (0.562) and
@@ -1280,7 +1280,7 @@ be attributed to being the most abundant category and including a long
 tail in the distribution of values as a result of flakes with low
 probability values of belonging to Levallois reduction sequences.
 Despite that, most of Levallois reduction sequences flakes are
-concentrated above a 0.75 probability value (Figure 11).
+concentrated above a 0.75 probability value.
 
 ``` r
 ## Compute class probs according to cortex amount ####
@@ -1343,7 +1343,7 @@ as for Levallois products. 100% cortical flakes have an average of
 average of 0.512, residual cortical flakes an average of 0.486, and
 non-cortical flakes and average of 0.538. Again, the distribution of
 non-cortical flakes presents a long tail of low values, although most of
-the flakes are concentrated above the 0.5 value (Figure 11).  
+the flakes are concentrated above the 0.5 value.  
 No clear pattern in the probability distribution of values is observed
 for Hierarchical Discoid flakes. Flakes from Hierarchical Discoid
 products present the lowest average probability value of correctly being
