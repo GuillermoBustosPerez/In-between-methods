@@ -1,47 +1,111 @@
-# Between methods: Levallois, discoidal and what falls in between
+# What lies in between: Levallois, Discoid and intermediate methods
 
-Guillermo Bustos-Pérez<sup>1, 2</sup>, Javier Baena<sup>1</sup>, Manuel
-Vaquero<sup>2, 3</sup>
+Guillermo Bustos-Pérez<sup>1, 2, 3</sup>, Javier Baena<sup>1</sup>,
+Manuel Vaquero<sup>2, 3</sup>
 
 <sup>1</sup>Universidad Autónoma de Madrid. Departamento de Prehistoria
 y Arqueología, Campus de Cantoblanco, 28049 Madrid, Spain  
 <sup>2</sup>Institut Català de Paleoecologia Humana i Evolució Social
 (IPHES), Zona Educacional 4, Campus Sescelades URV (Edifici W3), 43007
 Tarragona, Spain  
-<sup>3</sup>Àrea de Prehistoria, Universitat Rovira i Virgili (URV),
-Avinguda de Catalunya 35, 43002 Tarragona, Spain
+<sup>3</sup>Universitat Rovira i Virgili, Departament d’Història i
+Història de l’Art, Avinguda de Catalunya 35, 43002 Tarragona, Spain
 
 **Abstract**  
 The production of lithic artefacts is usually associated to different
 knapping methods. Resulting flakes present metric and technological
 features representative of the flaking method from which they were
 detached. However, lithic production is a dynamic process where discrete
-methods can be blurred with features varying along the process. An
+methods can be blurred, with features varying along the process. An
 intermediate knapping method between discoidal and Levallois is commonly
 referred under an umbrella of terms, presenting a wide geographical and
 chronological distribution along the Early and Middle Palaeolithic.
-Since this intermediate knapping method presents features from both
+Because this intermediate knapping method presents features from both
 discoidal and Levallois knapping methods, this raises the question of up
 to what point flakes from the three knapping methods can be
 differentiated between each other and the directionality of confusions.
 An experimental assemblage of flakes detached from the three methods is
 employed along with attribute analysis and Machine Learning models to
-identify the knapping method from which flakes were detached. On a
-general level results provide excellent/good ability to differentiate
-between the three knapping when a Support Vector Machine with polynomial
-kernel is employed. Results also outline the singularity of flakes
-detached from Levallois reduction sequences with an outstanding value of
-identification, and being rare that they are erroneously attributed to
-any of the other two knapping methods. Confusion between discoidal and
-Hierarchical Discoid products is more common, although an excellent/good
-value of identification is achieved for discoidal flakes and an
-acceptable/fair value is achieved in the case of Hierarchical Discoid
-flakes. This shows the potential applicability of machine learning
-models in combination with attribute analysis for the identification of
-these knapping methods among flakes.
+identify the knapping method from which the flakes were detached. On a
+general level results provide an excellent ability to differentiate
+between the three knapping methods when a Support Vector Machine with
+polynomial kernel is employed. Results also outline the singularity of
+flakes detached from Levallois reduction sequences with an outstanding
+value of identification, and being rare that they are erroneously
+attributed to any of the other two knapping methods. Confusion between
+discoidal and Hierarchical Discoid products is more common, although a
+good value of identification is achieved for discoidal flakes and an
+acceptable value is achieved in the case of Hierarchical Discoid flakes.
+This shows the potential applicability of machine learning models in
+combination with attribute analysis for the identification of these
+knapping methods among flakes.
 
 **Keywords:** lithic technology; experimental archaeology; Levallois;
 Discoid; Machine Learning
+
+**Extended abstract**  
+La producción de lascas se asocia a diferentes métodos de talla. Las
+lascas resultantes presentan características métricas y atributos que
+son representativos del método de talla del que se han producido. Sin
+embargo, la talla lítica es un proceso dinámico en el que los métodos de
+talla definidos pueden verse entremezclados debido a adaptaciones a las
+características volumétricas y de calidad de la materia prima,
+diferentes fases a lo largo del proceso de reducción, aspectos
+cronoculturales, etc. Esto da lugar a que las características de los
+productos de talla varíen a lo largo del proceso de reducción. Bajo
+diferentes términos es común encontrar alusiones a un método de talla
+intermedio entre el discoide y el Levallois, presentando una amplia
+distribución geográfica y cronológica a lo largo del Paleolítico Medio y
+el Paleolítico Medio inicial. La concepción de este método de talla,
+referido en el presente documento como Discoide Jerárquico, posee
+características intermedias entre el Levallois (jerarquización de
+superficies no intercambiables o un plano de talla paralelo a la
+intersección de ambas superficies) y el discoide (ausencia de
+preparación de talones, planos de talla secantes en la fase inicial de
+talla), surgiendo la duda de hasta qué se pueden diferenciar los
+productos de lascado de los tres métodos y sobre la direccionalidad de
+las confusiones.
+
+El presente trabajo emplea un conjunto experimental de lascas
+procedentes de los tres métodos de talla (77 del método de talla
+discoide, 73 del Levallois y 72 del Discoide Jerárquico). Sobre este
+conjunto experimental de lascas se realiza un análisis métrico y de
+atributos, y sobre los datos procedentes de este análisis se entrenan
+diez algoritmos de aprendizaje automático con el objetivo de determinar
+hasta qué punto es posible diferenciar el método de talla. Para evaluar
+los algoritmos de aprendizaje automático se tiene en cuenta la precisión
+general de los modelos, pero también los efectos del uso de umbrales de
+probabilidad en la identificación de los métodos de talla. El uso de
+umbrales de probabilidad permite optimizar el ratio de positivos
+verdaderos y positivos falsos para cada umbral de decisión y de ahí
+extraer el “área bajo la curva” (AUC en inglés) como valor de avaluación
+de un modelo.
+
+De los diez algoritmos de aprendizaje automático, una máquina de vector
+soporte con kernel polinomial presenta los mejores resultados en la
+identificación de los tres métodos de talla, proporcionando unos
+resultados excelentes a la hora de diferenciar entre los tres métodos a
+nivel general (0.667 precisión, 0.824 AUC). Considerando individualmente
+cada método de talla, los resultados subrayan el carácter singular de
+las lascas procedentes de secuencias de reducción Levallois ya que
+obtienen una identificación excepcionalmente buena (AUC de 0.91), siendo
+su procedencia raramente atribuida a cualquiera de los otros dos
+métodos. La confusión entre productos procedentes de secuencias de talla
+discoide y el Discoide Jerárquico es más común, aunque se alcanza una
+identificación excelente en el caso de los productos procedentes de
+reducciones discoides (AUC de 0.82) y una identificación aceptable en el
+caso los productos procedentes del Discoide Jerárquico (AUC de 0.73).
+
+Estos resultados muestran el potencial de combinar modelos de
+aprendizaje automático con análisis de atributos sobre lascas para la
+identificación de métodos de talla. Su uso puede servir de gran ayuda en
+la identificación de métodos de talla en lascas. Sin embargo, su uso
+requiere de una evaluación previa de los conjuntos líticos para
+determinar posibles métodos de talla existentes, uso diferencial de las
+materias primas, y evaluación de las cadenas operativas presentes.
+
+**Palabras clave**: tecnología lítica; arqueología experimental;
+Levallois; Discoid; Paleolítico Medio; Aprendizaje Automático
 
 ## 1. Introduction
 
@@ -93,18 +157,18 @@ view:
 5.  The striking platform is perpendicular to the overhang (the core
     edge, at the intersection between the two core surfaces).  
 6.  The technique employed during the knapping process is the direct
-    percussion with hard hammer.  
+    percussion with hard hammer.
 
--   Depending on the organization of the debitage surface Levallois
-    cores are usually classified into preferential method (were a single
-    predetermined Levallois flake is obtained from the debitage surface)
-    or recurrent methods (were several predetermined flakes are produced
-    from the debitage surface) with removals being either
-    unidirectional, bidirectional or centripetal ([Boëda,
-    1995a](#ref-dibble_levallois:_1995); [Boëda et al.,
-    1990](#ref-boeda_identification_1990); [Delagnes,
-    1995](#ref-dibble_variability_1995); [Delagnes and Meignen,
-    2006](#ref-hovers_diversity_2006)).
+Depending on the organization of the debitage surface Levallois cores
+are usually classified into preferential method (were a single
+predetermined Levallois flake is obtained from the debitage surface) or
+recurrent methods (were several predetermined flakes are produced from
+the debitage surface) with removals being either unidirectional,
+bidirectional or centripetal ([Boëda,
+1995a](#ref-dibble_levallois:_1995); [Boëda et al.,
+1990](#ref-boeda_identification_1990); [Delagnes,
+1995](#ref-dibble_variability_1995); [Delagnes and Meignen,
+2006](#ref-hovers_diversity_2006)).
 
 Because of its early recognition in the XIX century ([Boucher de
 Perthes, 1857](#ref-boucher_de_perthes_antiquites_1857)), its
@@ -115,19 +179,34 @@ cultural facies ([Bordes, 1961a](#ref-bordes_mousterian_1961),
 [1961b](#ref-bordes_typologie_1961)) and lithic technocomplexes
 ([Delagnes et al., 2007](#ref-vandermeersch_les_2007); [Faivre et al.,
 2017](#ref-faivre_late_2017)), the Levallois flaking technology is
-considered a trademark of the Middle Paleolithic. Levallois is clearly
-identified from MIS8 onwards covering a wide geographical distribution
-throughout Western Europe. The long geographical and temporary span of
-Levallois adds additional layers of variability which can result from
-raw material constraints, synchronic variability as a result of
-different site functionality, chronological trends in development of
-methods or shifts in the technological organization of groups. Attention
-is also called on the explicit recognition of Levallois cores after MIS
-8, while a multitude of terms is employed to define previous
-hierarchical knapping strategies and its possible coexistence with
-Acheulean technocomplexes ([Moncel et al.,
-2020](#ref-moncel_early_2020); [Santonja et al.,
-2016](#ref-santonja_coexistence_2016)).
+considered a trademark of the Middle Paleolithic. Emergence of the
+Levallois method is observed from MIS12 to MIS9, with several sites
+presenting elements characteristic of Levallois production([Carmignani
+et al., 2017](#ref-carmignani_technological_2017); [Hérisson et al.,
+2016](#ref-herisson_emergence_2016); [Moncel et al.,
+2020](#ref-moncel_early_2020); [Soriano and Villa,
+2017](#ref-soriano_early_2017); [White and Ashton,
+2003](#ref-white_lower_2003)). However, Levallois is clearly generalized
+and identified from MIS8 onwards, covering a wide geographical
+distribution throughout Western Europe ([Delagnes et al.,
+2007](#ref-vandermeersch_les_2007); [Delagnes and Meignen,
+2006](#ref-hovers_diversity_2006); [Faivre et al.,
+2017](#ref-faivre_late_2017); [Geneste,
+1990](#ref-geneste_developpement_1990)). The long geographical and
+temporary span of Levallois adds additional layers of variability which
+can result from raw material constraints, synchronic variability as a
+result of different site functionality, chronological trends in
+development of methods or shifts in the technological organization of
+groups. Attention is also called on the explicit recognition of
+Levallois cores after MIS 8, while a multitude of terms is employed to
+define previous hierarchical knapping strategies and its possible
+coexistence with Acheulean technocomplexes ([Hérisson et al.,
+2016](#ref-herisson_emergence_2016); [Moncel et al.,
+2020](#ref-moncel_early_2020); [Rosenberg-Yefet et al.,
+2022](#ref-rosenberg-yefet_lower_2022); [Santonja et al.,
+2016](#ref-santonja_coexistence_2016); [Scott and Ashton,
+2011](#ref-scott_early_2011); [White and Ashton,
+2003](#ref-white_lower_2003)).
 
 Boëda ([1995b](#ref-boeda_caracteristiques_1995),
 [1994](#ref-boeda_concept_1994), [1993](#ref-boeda_debitage_1993)), also
@@ -190,7 +269,7 @@ Levallois products.
 platform preparation](Article%20Figures/Variability%20L%20D%20HD.png)
 
 Strategies from several sites can be considered to fit the above
-mentioned variation of Discoid knapping method and its resemblance to
+mentioned variation of discoidal knapping method and its resemblance to
 the Levallois method has been previously noted for several Middle and
 Early Middle Paleolithic assemblages ([Casanova i Martí et al.,
 2009](#ref-casanova_i_marti_strategies_2009);
@@ -231,16 +310,16 @@ cave as secondary and primary knapping method.
 
 As previously mentioned, for Middle Paleolithic sites, the identity of
 this knapping method is focused on its intermediate nature between
-Discoid and recurrent centripetal Levallois. However, Early Middle
+discoidal and recurrent centripetal Levallois. However, Early Middle
 Paleolithic sites usually focus its identity in the shared features with
 Levallois as preceding the gradual emergence of the later. For example,
 [Carmignani et al.](#ref-carmignani_technological_2017)
 ([2017](#ref-carmignani_technological_2017)) for Payre and Bau de
-l’Aubesier use the term centripetal with parallel planes noting the
+l’Aubesier use the term “centripetal with parallel planes” noting the
 resemblance of features with Levallois. [Soriano and
 Villa](#ref-soriano_early_2017) ([2017](#ref-soriano_early_2017)) for
-Guado San Nicola use the term non-Levallois debitage with hierarchized
-surfaces noting its similarity with Levallois but also its
+Guado San Nicola use the term “non-Levallois debitage with hierarchized
+surfaces,” noting its similarity with Levallois but also its
 distinctiveness due to the absence of convexity preparation/management
 and platform preparation. For Cuesta de la Bajada [Santonja et
 al.](#ref-santonja_coexistence_2016)
@@ -249,9 +328,13 @@ cores and cores of centripetal character with preferential surfaces
 (which are simply referred as centripetal). [Lombera-Hermida et
 al.](#ref-de_lombera-hermida_dawn_2020)
 ([2020](#ref-de_lombera-hermida_dawn_2020)) cite the presence of
-predetermined hierarchical centripetal cores in different raw materials
-for TD10.1 at Atapuerca and note their difference and coexistence with
-classical discoidal and Levallois knapping methods.
+“predetermined hierarchical centripetal” cores in different raw
+materials for TD10.1 at Atapuerca and note their difference and
+coexistence with classical discoidal and Levallois knapping methods. The
+use of terms alluding to the hierarchical and centripetal nature of this
+method is not limited to European sites, with the term “hierarchical
+bifacial centripetal” being employed for the oldowan industries of
+Peninj ([**article?**](#ref-article){de_la_torre_oldowan_2003).
 
 The technological criteria for identifying production systems are highly
 visible on cores. However, a high degree of uncertainty remains in
@@ -270,13 +353,23 @@ result of observed features compared with experimental collections,
 context given from knapping methods observed in the cores of the
 assemblage (although cores in an assemblage do not necessarily represent
 all knapping methods), and where the experience of the analyst has an
-important weight ([Hovers, 2009](#ref-hovers_lithic_2009); [Perpère,
+important weight ([Bisson, 2000](#ref-bisson_nineteenth_2000); [Hovers,
+2009](#ref-hovers_lithic_2009); [Perpère,
 1986](#ref-perpere_apport_1986)). Perpère
 ([1989](#ref-perpere_les_1989), [1986](#ref-perpere_apport_1986)) shows
-that when using a dual classification category of
-Levallois/non-Levallois there is a 30% disagreement between researchers.
-Another example of classification discrepancy comes from the type counts
-of Dibble and Tuffreau for the site of Biache Saint-Bass, showing that
+that when using a dual classification category of Levallois or
+non-Levallois there is a 30% disagreement between researchers. However,
+it is important to note that Perpère’s work
+([1989](#ref-perpere_les_1989), [1986](#ref-perpere_apport_1986))
+anticipates Boëda’s volumetric and technological criteria
+([Boëda](#ref-boeda_concept_1994) ([1994](#ref-boeda_concept_1994));
+[Boëda](#ref-dibble_levallois:_1995)
+([1995a](#ref-dibble_levallois:_1995)); [Boëda et
+al.](#ref-boeda_identification_1990)
+([1990](#ref-boeda_identification_1990))) which have contributed to
+decrease the disagreement in the identification of Levallois. Another
+example of classification discrepancy comes from the type counts of
+Dibble and Tuffreau for the site of Biache Saint-Bass, showing that
 Levallois flakes represent 46.08% of the assemblage in one list and
 27.29% in the other ([Dibble, 1995](#ref-dibble_biache_1995)).  
 Thus, a good argument can be made for the difficulty of attributing
@@ -327,19 +420,18 @@ print(ML_Data[1:10, 1:10])
 ```
 
     ## # A tibble: 10 x 10
-    ##    Artifact_ID Core       Class Knapping_Phase  Frag_Cat Complete Length Width
-    ##    <chr>       <chr>      <fct> <chr>           <chr>    <chr>     <dbl> <dbl>
-    ##  1 Disc_08_01  Discoid_08 D     Full Production C        Y          40.4  31.4
-    ##  2 Disc_08_02  Discoid_08 D     Full Production C        Y          42.2  41.6
-    ##  3 Disc_08_03  Discoid_08 D     Full Production C        Y          28.9  38.5
-    ##  4 Disc_08_04  Discoid_08 D     Full Production C        Y          58.6  39.4
-    ##  5 Disc_08_05  Discoid_08 D     Full Production C        Y          41    35.1
-    ##  6 Disc_08_06  Discoid_08 D     Full Production C        Y          40.2  28  
-    ##  7 Disc_08_07  Discoid_08 D     Full Production C        Y          36.8  30.7
-    ##  8 Disc_08_08  Discoid_08 D     Full Production C        Y          41.7  28.4
-    ##  9 Disc_08_09  Discoid_08 D     Full Production C        Y          46.7  27.8
-    ## 10 Disc_08_10  Discoid_08 D     Full Production C        Y          49.2  23.1
-    ## # ... with 2 more variables: Laminar_Index <dbl>, MeanThick <dbl>
+    ##    Artifact_ID Core       Class Knapping_Phase  Frag_Cat Complete Length Width Laminar_Index MeanThick
+    ##    <chr>       <chr>      <fct> <chr>           <chr>    <chr>     <dbl> <dbl>         <dbl>     <dbl>
+    ##  1 Disc_08_01  Discoid_08 D     Full Production C        Y          40.4  31.4         1.29       4.67
+    ##  2 Disc_08_02  Discoid_08 D     Full Production C        Y          42.2  41.6         1.01      10.7 
+    ##  3 Disc_08_03  Discoid_08 D     Full Production C        Y          28.9  38.5         0.751      9.17
+    ##  4 Disc_08_04  Discoid_08 D     Full Production C        Y          58.6  39.4         1.49      12.0 
+    ##  5 Disc_08_05  Discoid_08 D     Full Production C        Y          41    35.1         1.17      11.3 
+    ##  6 Disc_08_06  Discoid_08 D     Full Production C        Y          40.2  28           1.44      11.9 
+    ##  7 Disc_08_07  Discoid_08 D     Full Production C        Y          36.8  30.7         1.20       8.4 
+    ##  8 Disc_08_08  Discoid_08 D     Full Production C        Y          41.7  28.4         1.47       6.93
+    ##  9 Disc_08_09  Discoid_08 D     Full Production C        Y          46.7  27.8         1.68       6.67
+    ## 10 Disc_08_10  Discoid_08 D     Full Production C        Y          49.2  23.1         2.13       7.73
 
 ``` r
 # Print first ten rows and last 5 columns
@@ -347,25 +439,23 @@ print(ML_Data[1:10, ncol(ML_Data)-5:ncol(ML_Data)])
 ```
 
     ## # A tibble: 10 x 32
-    ##    Flake_Type   Trans_Section   Termination_type Long_Ridges No_Scars Cortex_Loc
-    ##    <chr>        <chr>           <chr>                  <dbl>    <dbl>      <dbl>
-    ##  1 Backed Flake Trapezoidal_As~ Feather                    0        2          5
-    ##  2 Flake        Triangular      Feather                    0        3          5
-    ##  3 Flake        Trapezoidal     Feather                    0        3          5
-    ##  4 Flake        Triangular      Feather                    0        4          5
-    ##  5 Backed Flake Triangular_Asy~ Feather                    0        3          5
-    ##  6 Backed Flake Triangular_Asy~ Feather                    0        3          5
-    ##  7 Backed Flake Triangular_Asy~ Feather                    0        2          5
-    ##  8 Flake        Triangular      Feather                    2        2          2
-    ##  9 Backed Flake Triangular_Asy~ Feather                    0        2          5
-    ## 10 Flake        Triangular      Feather                    0        3          5
-    ## # ... with 26 more variables: Cortex <dbl>, Plat_Prep <chr>, Plat_Prof <chr>,
-    ## #   FlakeSurf_Plat <dbl>, Plat_Width <dbl>, Plat_Depth <dbl>,
-    ## #   Surface.Plat <dbl>, Curvature <dbl>, Weight <dbl>, CVThick <dbl>,
-    ## #   SDThick <dbl>, Angle_Lat_Marg <dbl>, Surf_Thick <dbl>, Surf_Area <dbl>,
-    ## #   CarenIndex <dbl>, Max_Thick <dbl>, MeanThick <dbl>, Laminar_Index <dbl>,
-    ## #   Width <dbl>, Length <dbl>, Complete <chr>, Frag_Cat <chr>,
-    ## #   Knapping_Phase <chr>, Class <fct>, Core <chr>, Artifact_ID <chr>
+    ##    Flake_Type   Trans_Section      Termination_type Long_Ridges No_Scars Cortex_Loc Cortex Plat_Prep Plat_Prof
+    ##    <chr>        <chr>              <chr>                  <dbl>    <dbl>      <dbl>  <dbl> <chr>     <chr>    
+    ##  1 Backed Flake Trapezoidal_Asymm~ Feather                    0        2          5      5 L         RT       
+    ##  2 Flake        Triangular         Feather                    0        3          5      5 L         CX       
+    ##  3 Flake        Trapezoidal        Feather                    0        3          5      5 D         BF       
+    ##  4 Flake        Triangular         Feather                    0        4          5      5 L         CX       
+    ##  5 Backed Flake Triangular_Asymme~ Feather                    0        3          5      5 L         RT       
+    ##  6 Backed Flake Triangular_Asymme~ Feather                    0        3          5      5 L         RT       
+    ##  7 Backed Flake Triangular_Asymme~ Feather                    0        2          5      5 L         RT       
+    ##  8 Flake        Triangular         Feather                    2        2          2      4 L         CC       
+    ##  9 Backed Flake Triangular_Asymme~ Feather                    0        2          5      5 L         CX       
+    ## 10 Flake        Triangular         Feather                    0        3          5      5 L         RT       
+    ## # ... with 23 more variables: FlakeSurf_Plat <dbl>, Plat_Width <dbl>, Plat_Depth <dbl>, Surface.Plat <dbl>,
+    ## #   Curvature <dbl>, Weight <dbl>, CVThick <dbl>, SDThick <dbl>, Angle_Lat_Marg <dbl>, Surf_Thick <dbl>,
+    ## #   Surf_Area <dbl>, CarenIndex <dbl>, Max_Thick <dbl>, MeanThick <dbl>, Laminar_Index <dbl>, Width <dbl>,
+    ## #   Length <dbl>, Complete <chr>, Frag_Cat <chr>, Knapping_Phase <chr>, Class <fct>, Core <chr>,
+    ## #   Artifact_ID <chr>
 
 ## 2. Methods
 
@@ -412,7 +502,7 @@ outlined)](Article%20Figures/Three%20methods.png)
 
 ![Sample of experimental materials included in this study. 1-5): flakes
 from Levallois preferential and recurrent centripetal reduction
-sequences; 6:9) flakes from discoidal reduction sequences; 10:12) flakes
+sequences; 6-9) flakes from discoidal reduction sequences; 10-12) flakes
 from Hierarchical Discoid reduction sequences. (Photographs by M. D.
 Guillén)](Article%20Figures/Experimental%20materials.jpg)
 
@@ -423,7 +513,19 @@ Hierarchical Discoid are similar per core and lower than those from
 Discoid cores. This is expected since only flakes from the production
 surface are included. It is important to notice that this results in a
 very well balanced dataset were the sum of products from each of the
-three classes is close to the 33.33%.
+three classes is close to the 33.33%. Cortex amount shows similar
+distribution according to knapping method (Figure 5). In all cases, the
+sum of non-cortical flakes and flakes with residual cortex are similarly
+distributed among the three knapping strategies and make up the majority
+of flakes (near 60% in the three categories). Visual exploratory
+analysis of the assemblage using a scatter plot with Bagolini’s
+categories ([Bagolini, 1968](#ref-bagolini_ricerche_1968)) shows that
+most of the flakes fall into the “normal” and “big” size categories,
+with flakes from Hierarchical Discoid being slightly bigger than flakes
+from discoidal and Levallois reduction sequences. Additionally, when
+considering the relation between length and width, most of the flakes
+from the three methods fall into “elongated flakes,” “normal flakes” and
+“wide flakes” categories.
 
 ``` r
 # Get number of cores and flakes (and their percentage) per class
@@ -452,17 +554,19 @@ ML_Data %>%
   geom_bar(stat = "identity") +
   ylab("Percentage of flakes") +
   ggsci::scale_fill_d3(name = "Amount of cortex", 
-                       labels = c("100%", ">50%", "<50%", "<10%", "0%" )) +
+                       labels = c("100%", "<100% — >50%", "50% — >10%", "10% — >0%", "0%" )) +
   scale_x_discrete(labels = c("Levallois", "Discoid", "Hierar. Discoid")) +
   
   geom_text(aes(label = (Percentage) %>% round(2)),
             position = position_stack(0.5)) +
   theme_classic() +
-  guides(fill = guide_legend(title.position = "left", nrow = 1)) +
+  guides(fill = guide_legend(title.position = "top", nrow = 1)) +
   theme(
     axis.text = element_text(color = "black"),
     axis.title.x = element_blank(),
-    legend.position = "bottom")
+    legend.position = "bottom",
+    legend.title = element_text(size = 10, color = "black"),
+    legend.text = element_text(size = 9, color = "black"))
 ```
 
     ## `summarise()` has grouped output by 'Class'. You can override using the `.groups` argument.
@@ -601,9 +705,10 @@ width following [Muller and Clarkson](#ref-muller_new_2016)
     goniometer.  
 -   **Relative amount of cortex present at the dorsal face**: recorded
     according to its extension on the dorsal surface of the flake
-    ([Andrefsky, 2005](#ref-barker_lithics_2005)): cortical (100%), more
-    than 50% of cortex, less than 50% of cortex, residual presence
-    (\<10%), and no cortex.  
+    ([Andrefsky, 2005](#ref-barker_lithics_2005)): cortical (100%
+    cortex), more than 50% of cortex (excluding cortical flakes), less
+    than 50% of cortex (excluding the following categories), residual
+    presence (\<10% and excluding non-cortical flakes), and no cortex.  
 -   **Cortex location**: slightly modified from
     [Marwick](#ref-marwick_what_2008) ([2008](#ref-marwick_what_2008)),
     with categories being primary (dorsal surface completely covered by
@@ -683,11 +788,9 @@ the core within each knapping method:
     from a random sample of the data and variables, allowing for each
     tree to grow differently and to better reflect the complexity of the
     data ([Breiman, 2001](#ref-breiman_random_2001)).  
--   **Generalized Boosted Model** \[[Greenwell et
-    al.](#ref-greenwell_package_2019)
-    ([2019](#ref-greenwell_package_2019));
-    [Ridgeway](#ref-ridgeway_generalized_2007)
-    ([2007](#ref-ridgeway_generalized_2007))) which implements gradient
+-   **Generalized Boosted Model** ([Greenwell et al.,
+    2019](#ref-greenwell_package_2019); [Ridgeway,
+    2007](#ref-ridgeway_generalized_2007)) which implements gradient
     boosted machine ([Friedman, 2002](#ref-friedman_stochastic_2002),
     [2001](#ref-friedman_greedy_2001)) allowing to detect learning
     deficiencies and increase model accuracy for a set of random
@@ -703,7 +806,7 @@ the core within each knapping method:
     model training ([Rumelhart et al.,
     1986](#ref-rumelhart_learning_1986)).
 
-### 2.4 Machine learning models
+### 2.4 Machine learning evaluation
 
 Evaluation of all models is done through a 10x50 k-fold cross validation
 (10 folds and 50 cycles). Accuracy and Area Under the Curve (AUC) are
@@ -731,8 +834,8 @@ of 30 different ROC curves (10 per class). For the present study only
 the three ROC curves of the best model are provided.
 
 AUC ranges of values are usually interpreted as follows: 1 to 0.9:
-outstanding; 0.9 to 0.8: excellent/good; 0.8 to 0.7: acceptable/fair;
-0.7 to 0.6: poor; and 0.6 to 0.5: no discrimination ([Lantz,
+outstanding; 0.9 to 0.8: excellent or good; 0.8 to 0.7: acceptable or
+fair; 0.7 to 0.6: poor; and 0.6 to 0.5: no discrimination ([Lantz,
 2019](#ref-lantz_machine_2019)). When analyzing lithic materials, the
 use of thresholds to guarantee true positives and avoid false positives
 is of special interest. The use of decision thresholds and derived
@@ -764,7 +867,12 @@ models also provide insights into variable importance for
 classification. The caret package was employed to extract variable
 importance after each k-fold cross validation.
 
-#### 2.4.1 Preprocessing form model training
+#### 2.4.1 Preprocessing for model training
+
+Prior to the training the models it is necessary to remove a series of
+variables such as “Artifact_ID,” “Core,” “Complete,” etc. These
+variables are employed to ensure the quality of the dataset, but are not
+employed in model training.
 
 ``` r
 # Remove unwanted columns
@@ -790,7 +898,7 @@ ML_Data <- fastDummies::dummy_cols(
   remove_selected_columns = TRUE)
 ```
 
-#### 2.4.1 Training of the models
+#### 2.4.2 Training of the models
 
 The following code sets up 50 cycles of a 10 fold cross validation.
 Additionally, the final class probabilities for each case are saved.
@@ -1032,14 +1140,10 @@ SVMP.Performance %>%
   mutate(Class = c("Levallois", "Discoidal", "Hierar. Disc."))
 ```
 
-    ##           Sensitivity Specificity Precision        F1 Prevalence
-    ## Class: L    0.7827397   0.9115436 0.8125711 0.7973765  0.3288288
-    ## Class: D    0.6561039   0.8026207 0.6383624 0.6471116  0.3468468
-    ## Class: HD   0.5616667   0.7860000 0.5574855 0.5595683  0.3243243
-    ##           Balanced.Accuracy         Class
-    ## Class: L          0.8471417     Levallois
-    ## Class: D          0.7293623     Discoidal
-    ## Class: HD         0.6738333 Hierar. Disc.
+    ##           Sensitivity Specificity Precision        F1 Prevalence Balanced.Accuracy         Class
+    ## Class: L    0.7827397   0.9115436 0.8125711 0.7973765  0.3288288         0.8471417     Levallois
+    ## Class: D    0.6561039   0.8026207 0.6383624 0.6471116  0.3468468         0.7293623     Discoidal
+    ## Class: HD   0.5616667   0.7860000 0.5574855 0.5595683  0.3243243         0.6738333 Hierar. Disc.
 
 Classification metrics per class (Table 3), confusion matrix and ROC
 along with AUC’s of SVM with polynomial kernel show marked differences
@@ -1051,8 +1155,8 @@ products obtained from Levallois preferential and recurrent centripetal
 reduction sequences. This results in a notably high value of sensitivity
 (0.783) along with a high value of general performance (0.797 for F1),
 and an outstanding AUC value (0.91). While it is more common to identify
-Levallois products as Hierarchical Discoid products (4.09) than to
-confuse them with discoidal products (3.05), both values are notably
+Levallois products as Hierarchical Discoid products (12.44%) than to
+confuse them with discoidal products (9.29%), both values are notably
 low.
 
 ``` r
@@ -1127,22 +1231,24 @@ SVMP.ROCs %>%
 SVM_Poly.Confx <- confusionMatrix(SVM_Poly)$table
 SVM_Poly.Confx <- reshape2::melt(SVM_Poly.Confx)
 
-# Set factors and labels
-SVM_Poly.Confx$Prediction <- factor(SVM_Poly.Confx$Prediction, 
-                                    levels = c(
-                                      "HD", "D", "L"), 
-                                    labels = c(
-                                      "Hierar. Disc.", 
-                                      "Discoidal",
-                                      "Levallois"))
+# Normalize the data
+SVM_Poly.Confx <- SVM_Poly.Confx %>% mutate(
+  value = case_when(
+    Reference == "L" ~ (value/sum(confusionMatrix(SVM_Poly)$table[1:3]))*100,
+    Reference == "D" ~ (value/sum(confusionMatrix(SVM_Poly)$table[4:6])*100),
+    Reference == "HD" ~ (value/sum(confusionMatrix(SVM_Poly)$table[7:9])*100),
+  )
+)
 
+# Set factors and labels of reference and prediction
+SVM_Poly.Confx$Prediction <- factor(SVM_Poly.Confx$Prediction, 
+                                    levels = c("HD", "D", "L"),
+                                    labels =  c(
+                                      "Hierar. Disc.", "Discoid", "Levallois"))
 SVM_Poly.Confx$Reference <- factor(SVM_Poly.Confx$Reference, 
-                                   levels = c(
-                                     "L", "D", "HD"), 
+                                   levels = c("L", "D", "HD"),
                                    labels = c(
-                                     "Levallois", 
-                                     "Discoidal",
-                                     "Hierar. Disc."))
+                                     "Levallois", "Discoid", "Hierar. Disc."))
 
 # Plot confusion matrix
 SVM_Poly.Confx %>% 
@@ -1173,13 +1279,26 @@ Hierarchical Discoid products present the lowest values of
 classification metrics. General performance metric F1 presents a value
 of 0.56 along with relatively low values of sensitivity (0.562) and
 precision (0.557). Despite these relatively low values, the AUC of
-Hierarchical Discoid products is still acceptable/fair (0.73) which
+Hierarchical Discoid products is still acceptable or fair (0.73) which
 indicates that the application of decision thresholds can support and
 improve the identification of products from Hierarchical Discoid
 reduction sequences. These low classification metrics are clearly
 related with the SVM with polynomial kernel confusing Hierarchical
 Discoid products as discoidal along with a residual although notable
-confusion with Levallois products (4.38).
+confusion with Levallois products (13.5%).
+
+Importance of variables for discrimination varies according to each
+knapping method. The following figure presents variables for
+discrimination with an importance value above 50 according to each
+knapping method. For Levallois products the most important variables for
+discrimination relate to ratios of flake size to thickness (the
+carenated index haves the maximum importance, and ratio of flake surface
+to thickness is also considered highly important), thickness (mean and
+maximum thickness), and platform angle (with IPA having a slightly
+higher value than EPA). Qualitative attributes such as type of platform
+are also considered important for the discrimination of Levallois
+products, with plain and prepared platforms having respective importance
+values of 72.19 and 71.19.
 
 The selection of variables for the discrimination of discoidal products
 is similar to Levallois although the order of importance varies. As with
@@ -1187,25 +1306,26 @@ Levallois, carenated index receives the maximum importance while both
 measures of platform angle (IPA and EPA) rank respectively as the second
 and third most important variables. Similar to Levallois, measures of
 thickness and platform type are also considered important for the
-discrimination of discoidal products. Discrimination of Hierarchical
-Discoid products is more complex with neither of the variables having
-the maximum value. SVM with polynomial kernel model considers measures
-of thickness (maximum and mean thickness) along with measures of
-platform angle (EPA and IPA) as the most important for the
-discrimination of Hierarchical Discoid products. Carenated index is
-considered a much less important measure (value of 77.18) when compared
-with Levallois and discoidal products. An additional variable which
-ranks slightly above the importance value threshold is the standard
-deviation of thickness. Standard deviation of thickness presents
-respective importance values of 57.25 for Levallois and discoidal
-products, and 55.01 for Hierarchical Discoid products. Thus, this
-indicates that, although it is not a key variable for discrimination,
-differences can be observed in the variation of thickness between the
-different knapping methods. For both, Levallois and discoidal products
-IPA is a slightly better discriminatory variable than EPA. For
-Hierarchical Discoid products EPA has a slightly higher (81.31)
-discriminatory value than IPA (81.17). This indicates that IPA is
-usually a better discriminatory variable for the identification of
+discrimination of discoidal products.
+
+Discrimination of Hierarchical Discoid products is more complex with
+neither of the variables having the maximum value. SVM with polynomial
+kernel model considers measures of thickness (maximum and mean
+thickness) along with measures of platform angle (EPA and IPA) as the
+most important for the discrimination of Hierarchical Discoid products.
+Carenated index is considered a much less important measure (value of
+77.18) when compared with Levallois and discoidal products. An
+additional variable which ranks slightly above the importance value
+threshold is the standard deviation of thickness. Standard deviation of
+thickness presents respective importance values of 57.25 for Levallois
+and discoidal products, and 55.01 for Hierarchical Discoid products.
+Thus, this indicates that, although it is not a key variable for
+discrimination, differences can be observed in the variation of
+thickness between the different knapping methods. For both, Levallois
+and discoidal products IPA is a slightly better discriminatory variable
+than EPA. For Hierarchical Discoid products EPA has a slightly higher
+(81.31) discriminatory value than IPA (81.17). This indicates that IPA
+is usually a better discriminatory variable for the identification of
 knapping methods.
 
 ``` r
@@ -1392,7 +1512,7 @@ discoidal flakes offers an excellent/good value (0.82) along with a
 relatively good F1 score (0.647). These values are not the result of
 over predicting the discoidal class (35.65% of the assemblage is
 predicted against an actual 34.7%), but rather due to a very limited
-confusion with Levallois products (only 1.56% of cases). As previously
+confusion with Levallois products (only 4.49% of cases). As previously
 mentioned, although the identification of flakes detached from
 Hierarchical Discoid reduction sequences presents a relatively low F1
 score (0.56), it does present an acceptable/fair AUC (0.73). These
@@ -1564,7 +1684,7 @@ for the study of lithic technology ([Soressi and Geneste,
 context should be considered prior to the application of machine
 learning models for the identification of knapping methods.
 
-## 5.1 Conclusions, significance, opinions
+## 5.1 Conclusions
 
 The present study has focused on the identification of three knapping
 methods (Levallois, discoidal, and Hierarchical Discoid) among flakes
@@ -1600,23 +1720,24 @@ the archaeological record were these reduction strategies are present.
 
 ## Acknowledgements
 
-This research has been possible thanks to the Program for the
-Requalification of the University System Margarita Salas
-(CA1/RSUE/2021-00743) financed through the Spanish “Recovery,
-Transformation and Resilience Plan” and managed from the Ministry of
-Universities (Ministerio de Universidades) and the Autonomous University
-of Madrid (Universidad Autónoma de Madrid). This article is the result
-of the research project PID2019-103987GB-C33, “En los limites de la
-diversidad: comportamiento Neandertal en el centro y sur de la Penisula
-Iberica” financed by Agencia Estatal de Investigación (AEI) and Fondo
-Europeo de Desarrollo Regional (FEDER). This study was also supported by
-project PID2019-103987GB-C31 from the Spanish Ministry of Science and
-Innovation (MICINN). Development of the experimentation and analysis of
-the materials were undertaken at the Laboratory of Experimental
-Archaeology (Universidad Autónoma de Madrid). The research technical
-support of Maria Dolors Guillén was supported by the Spanish Ministry of
-Science and Innovation through the “María de Maeztu” excellence
-accreditation (CEX2019-000945-M).
+The authors wish to thank the editor and the two anonymous reviewers for
+their comments and suggestions. This research has been possible thanks
+to the Program for the Requalification of the University System
+Margarita Salas (CA1/RSUE/2021-00743) financed through the Spanish
+“Recovery, Transformation and Resilience Plan” and managed from the
+Ministry of Universities (Ministerio de Universidades) and the
+Autonomous University of Madrid (Universidad Autónoma de Madrid). This
+article is the result of the research project PID2019-103987GB-C33, “En
+los limites de la diversidad: comportamiento Neandertal en el centro y
+sur de la Penisula Iberica” financed by Agencia Estatal de Investigación
+(AEI) and Fondo Europeo de Desarrollo Regional (FEDER). This study was
+also supported by project PID2019-103987GB-C31 from the Spanish Ministry
+of Science and Innovation (MICINN). Development of the experimentation
+and analysis of the materials were undertaken at the Laboratory of
+Experimental Archaeology (Universidad Autónoma de Madrid). The research
+technical support of Maria Dolors Guillén was supported by the Spanish
+Ministry of Science and Innovation through the “María de Maeztu”
+excellence accreditation (CEX2019-000945-M).
 
 ## References
 
@@ -1652,11 +1773,28 @@ Museo de Altamira, Santander, pp. 461–487.
 
 </div>
 
+<div id="ref-bagolini_ricerche_1968" class="csl-entry">
+
+Bagolini, B., 1968. Ricerche sulle dimensioni dei manufatti litici
+preistorici non ritoccati. Annali dell’Università di Ferrara : nuova
+serie, Sezione XV. Paleontologia Umana e Paletnologia 1, 195–219.
+
+</div>
+
 <div id="ref-bergmeir_neural_2012" class="csl-entry">
 
 Bergmeir, C., Benítez, J.M., 2012. Neural Networks in R using the
 Stuttgart Neural Network Simulator: RSNNS. Journal of Statistical
 Software 46. <https://doi.org/10.18637/jss.v046.i07>
+
+</div>
+
+<div id="ref-bisson_nineteenth_2000" class="csl-entry">
+
+Bisson, M.S., 2000. Nineteenth Century Tools for Twenty-First Century
+Archaeology? Why the Middle Paleolithic Typology of François Bordes Must
+Be Replaced. Journal of Archaeological Method and Theory 7, 1–48.
+[https://doi.org/1072-5369/00/0300-0001 $18.00/0](https://doi.org/1072-5369/00/0300-0001 $18.00/0)
 
 </div>
 
@@ -1984,6 +2122,16 @@ machine. Annals of statistics 29, 1189–1232.
 
 </div>
 
+<div id="ref-geneste_developpement_1990" class="csl-entry">
+
+Geneste, J.-M., 1990. Développement des systèmes de production lithique
+au cours du Paléolithique moyen en Aquitaine septentrionale, in: Farizy,
+C. (Ed.), Paléolithique Moyen Récent Et Paléolithique Supérieur Ancien
+En Europe, Mémoires Du Musée de Préhistoire d’Ile-de-France. APRAIF,
+Nemours, pp. 203–214.
+
+</div>
+
 <div id="ref-gonzalez-molina_distinguishing_2020" class="csl-entry">
 
 González-Molina, I., Jiménez-García, B., Maíllo-Fernández, J.-M.,
@@ -2014,6 +2162,18 @@ Hand, D.J., Till, R.J., 2001. A simple generalisation of the area under
 the ROC curve for multiple class classification problems. Machine
 learning 45, 171–186.
 https://doi.org/<https://doi.org/10.1023/A:1010920819831>
+
+</div>
+
+<div id="ref-herisson_emergence_2016" class="csl-entry">
+
+Hérisson, D., Brenet, M., Cliquet, D., Moncel, M.-H., Richter, J.,
+Scott, B., Van Baelen, A., Di Modica, K., De Loecker, D., Ashton, N.,
+Bourguignon, L., Delagnes, A., Faivre, J.-P., Folgado-Lopez, M., Locht,
+J.-L., Pope, M., Raynal, J.-P., Roebroeks, W., Santagata, C., Turq, A.,
+Van Peer, P., 2016. The emergence of the Middle Palaeolithic in
+north-western Europe and its southern fringes. Quaternary International
+411, 233–283. <https://doi.org/10.1016/j.quaint.2016.02.049>
 
 </div>
 
@@ -2282,6 +2442,15 @@ bioinformatics 12, 1–8.
 
 </div>
 
+<div id="ref-rosenberg-yefet_lower_2022" class="csl-entry">
+
+Rosenberg-Yefet, T., Shemer, M., Barkai, R., 2022. Lower Paleolithic
+Winds of Change: Prepared Core Technologies and the Onset of the
+Levallois Method in the Levantine Late Acheulian. Frontiers in Earth
+Science 10, 847358. <https://doi.org/10.3389/feart.2022.847358>
+
+</div>
+
 <div id="ref-rumelhart_learning_1986" class="csl-entry">
 
 Rumelhart, D.E., Hinton, G.E., Williams, R.J., 1986. Learning
@@ -2295,6 +2464,15 @@ Santonja, M., Pérez-González, A., Panera, J., Rubio-Jara, S.,
 Méndez-Quintas, E., 2016. The coexistence of Acheulean and Ancient
 Middle Palaeolithic techno-complexes in the Middle Pleistocene of the
 Iberian Peninsula. Quaternary International 411, 367–377.
+
+</div>
+
+<div id="ref-scott_early_2011" class="csl-entry">
+
+Scott, B., Ashton, N., 2011. The early middle Palaeolithic: The European
+context, in: Ashton, N., Lewis, S., Stringer, C. (Eds.), The Ancient
+Human Occupation of Britain, Developments in Quaternary Science.
+Elsevier, Oxford, pp. 91–112.
 
 </div>
 
@@ -2399,6 +2577,14 @@ Fourth Edition. ed, Statistics and Computing. Springer, New York.
 Walker, S.H., Duncan, D.B., 1967. Estimation of the Probability of an
 Event as a Function of Several Independent Variables. Biometrika 54,
 167–179. <https://doi.org/10.2307/2333860>
+
+</div>
+
+<div id="ref-white_lower_2003" class="csl-entry">
+
+White, M., Ashton, N., 2003. Lower Palaeolithic Core Technology and the
+Origins of the Levallois Method in North-Western Europe. Current
+Anthropology 44, 598–609.
 
 </div>
 
