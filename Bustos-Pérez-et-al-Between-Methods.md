@@ -41,7 +41,7 @@ combination with attribute analysis for the identification of these
 knapping methods among flakes.
 
 **Keywords:** lithic technology; experimental archaeology; Levallois;
-Discoid; Machine Learning
+Discoid; Machine Learning; Middle Paleolithic
 
 **Extended abstract**  
 La producción de lascas se asocia a diferentes métodos de talla. Las
