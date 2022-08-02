@@ -31,10 +31,10 @@ Other examples of published data:
 y Arqueología, Campus de Cantoblanco, 28049 Madrid, Spain. Email:
 <guillermo.willbustos@gmail.com>; <javier.baena@uam.es>  
 <sup>2</sup>Institut Català de Paleoecologia Humana i Evolució Social
-(IPHES), Zona Educacional 4, Campus Sescelades URV (Edifici W3), 43007
-Tarragona, Spain  
-<sup>3</sup>Àrea de Prehistoria, Universitat Rovira i Virgili (URV),
-Avinguda de Catalunya 35, 43002 Tarragona, Spain
+(IPHES-CERCA), Zona Educacional 4, Campus Sescelades URV (Edifici W3),
+43007 Tarragona, Spain.  
+<sup>3</sup>Universitat Rovira i Virgili, Departament d’Història i
+Història de l’Art, Avinguda de Catalunya 35, 43002 Tarragona, Spain
 
 **Corresponding Author**:
 
