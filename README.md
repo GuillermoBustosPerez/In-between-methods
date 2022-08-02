@@ -38,7 +38,7 @@ Història de l’Art, Avinguda de Catalunya 35, 43002 Tarragona, Spain
 
 **Corresponding Author**:
 
--   Guillermo Busto-Pérez  
+-   Guillermo Bustos-Pérez  
 -   <guillermo.willbustos@gmail.com>
 
 **Article title:**
