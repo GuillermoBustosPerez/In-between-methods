@@ -319,17 +319,17 @@ l’Aubesier use the term “centripetal with parallel planes” noting the
 resemblance of features with Levallois. [Soriano and
 Villa](#ref-soriano_early_2017) ([2017](#ref-soriano_early_2017)) for
 Guado San Nicola use the term “non-Levallois debitage with hierarchized
-surfaces,” noting its similarity with Levallois but also its
-distinctiveness due to the absence of convexity preparation/management
-and platform preparation. For Cuesta de la Bajada [Santonja et
-al.](#ref-santonja_coexistence_2016)
+surfaces,” noting its similarity with Levallois, but also its
+distinctiveness due to the absence of preparation and management of
+convexities, and absence of platform preparation. For Cuesta de la
+Bajada [Santonja et al.](#ref-santonja_coexistence_2016)
 ([2016](#ref-santonja_coexistence_2016)) differentiate between Levallois
 cores and cores of centripetal character with preferential surfaces
 (which are simply referred as centripetal). [Lombera-Hermida et
 al.](#ref-de_lombera-hermida_dawn_2020)
 ([2020](#ref-de_lombera-hermida_dawn_2020)) cite the presence of
 “predetermined hierarchical centripetal” cores in different raw
-materials for TD10.1 at Atapuerca and note their difference and
+materials for TD10.1 at Atapuerca, and note their difference and
 coexistence with classical discoidal and Levallois knapping methods. The
 use of terms alluding to the hierarchical and centripetal nature of this
 method is not limited to European sites, with the term “hierarchical
@@ -641,21 +641,25 @@ ML_Data %>%
 Attribute analysis was performed for each flake recording the following
 variables and calculating the following indexes. Measures have been
 recorded in mm. Some of the measures recorded are employed for the
-calculation of additional variables (for example, measures employed to
-calculate flake curvature) and are not adequate for analysis. Thus,
-variables which are employed in Machine Learning model training are
-outlined in bold.
+calculation of additional variables. For example, angle height and
+maximum flake length are employed to calculate flake curvature, measures
+of width (at 25% and 75% length) are employed to calculate the angle of
+the lateral margins, and measures of thickness are employed to calculate
+average and standard deviation of thickness. Other variables, such as
+technological length and width (or the above mentioned measures of
+width) are also employed to calculate ratios (elongation and carenated
+index), but their use would introduce a size dependence factor in the
+training of the models. Thus, variables employed in Machine Learning
+model training are outlined in bold.
 
 -   Degree of fracture ([Hiscock, 2002](#ref-hiscock_quantifying_2002)):
     complete, proximal fragment, mesial fragment, distal fragment,
     marginal fragment and longitudinal fragment. Only complete flakes
     have been further analyzed.  
--   **Technological length**: measured along the axis perpendicular to
-    the striking platform ([Andrefsky,
-    2005](#ref-barker_lithics_2005)).  
--   **Technological width**: measured along the axis perpendicular to
-    the technological width ([Andrefsky,
-    2005](#ref-barker_lithics_2005)).  
+-   Technological length: measured along the axis perpendicular to the
+    striking platform ([Andrefsky, 2005](#ref-barker_lithics_2005)).  
+-   Technological width: measured along the axis perpendicular to the
+    technological width ([Andrefsky, 2005](#ref-barker_lithics_2005)).  
 -   Width measured at the 25% length of the flake ([Eren and Lycett,
     2012](#ref-eren_why_2012)).  
 -   Width at the 75% length of the flake ([Eren and Lycett,

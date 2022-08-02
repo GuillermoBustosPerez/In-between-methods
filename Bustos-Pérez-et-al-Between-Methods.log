@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.23)  30 JUL 2022 16:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.23)  2 AUG 2022 10:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -657,12 +657,12 @@ Overfull \hbox (49.99347pt too wide) in paragraph at lines 666--666
  []
 
 [7]
-<Article Figures/Three methods.png, id=290, 575.01782pt x 505.47104pt>
+<Article Figures/Three methods.png, id=289, 575.01782pt x 505.47104pt>
 File: Article Figures/Three methods.png Graphic file (type png)
 <use Article Figures/Three methods.png>
 Package pdftex.def Info: Article Figures/Three methods.png  used on input line 715.
 (pdftex.def)             Requested size: 469.76286pt x 412.94637pt.
-<Article Figures/Experimental materials.jpg, id=291, 1511.6475pt x 2119.92pt>
+<Article Figures/Experimental materials.jpg, id=290, 1511.6475pt x 2119.92pt>
 File: Article Figures/Experimental materials.jpg Graphic file (type jpg)
 <use Article Figures/Experimental materials.jpg>
 Package pdftex.def Info: Article Figures/Experimental materials.jpg  used on input line 723.
@@ -675,7 +675,7 @@ Overfull \hbox (23.74355pt too wide) in paragraph at lines 803--803
 []\T1/lmtt/m/n/10 ## `summarise()` has grouped output by 'Class'. You can override using the `.groups` argument.[] 
  []
 
-<Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Cortex per knapping method-1.pdf, id=306, 469.755pt x 325.215pt>
+<Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Cortex per knapping method-1.pdf, id=305, 469.755pt x 325.215pt>
 File: Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Cortex per knapping method-1.pdf Graphic file (type pdf)
 <use Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Cortex per knapping method-1.pdf>
 Package pdftex.def Info: Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Cortex per knapping method-1.pdf  used on input line 805.
@@ -685,33 +685,23 @@ LaTeX Font Info:    Trying to load font information for TS1+lmtt on input line 8
 (c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/ts1lmtt.fd
 File: ts1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [11 <./Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Cortex per knapping method-1.pdf>]
-<Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Bagolini scatter plot-1.pdf, id=322, 505.89pt x 505.89pt>
+<Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Bagolini scatter plot-1.pdf, id=321, 505.89pt x 505.89pt>
 File: Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Bagolini scatter plot-1.pdf Graphic file (type pdf)
 <use Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Bagolini scatter plot-1.pdf>
 Package pdftex.def Info: Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Bagolini scatter plot-1.pdf  used on input line 870.
 (pdftex.def)             Requested size: 469.76265pt x 469.76265pt.
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 886--892
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 892--896
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 896--900
+Underfull \hbox (badness 10000) in paragraph at lines 892--898
 
  []
 
 [13 <./Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Bagolini scatter plot-1.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 900--903
+Underfull \hbox (badness 10000) in paragraph at lines 898--902
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 903--906
+Underfull \hbox (badness 10000) in paragraph at lines 902--906
 
  []
 
@@ -731,65 +721,65 @@ Underfull \hbox (badness 10000) in paragraph at lines 912--915
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 915--917
+Underfull \hbox (badness 10000) in paragraph at lines 915--918
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 917--919
+Underfull \hbox (badness 10000) in paragraph at lines 918--921
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 919--922
+Underfull \hbox (badness 10000) in paragraph at lines 921--923
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 922--924
+Underfull \hbox (badness 10000) in paragraph at lines 923--925
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 924--928
+Underfull \hbox (badness 10000) in paragraph at lines 925--928
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 928--933
+Underfull \hbox (badness 10000) in paragraph at lines 928--930
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 933--938
+Underfull \hbox (badness 10000) in paragraph at lines 930--934
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 938--943
+Underfull \hbox (badness 10000) in paragraph at lines 934--939
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 943--947
+Underfull \hbox (badness 10000) in paragraph at lines 939--944
 
  []
 
-<Article Figures/Platform Measures.png, id=361, 706.82762pt x 178.31104pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 944--949
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 949--953
+
+ []
+
+<Article Figures/Platform Measures.png, id=358, 706.82762pt x 178.31104pt>
 File: Article Figures/Platform Measures.png Graphic file (type png)
 <use Article Figures/Platform Measures.png>
-Package pdftex.def Info: Article Figures/Platform Measures.png  used on input line 954.
+Package pdftex.def Info: Article Figures/Platform Measures.png  used on input line 960.
 (pdftex.def)             Requested size: 469.75404pt x 118.5046pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 963--966
-
- []
-
-[14 <./Article Figures/Platform Measures.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 966--969
-
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 969--972
 
@@ -801,186 +791,203 @@ Underfull \hbox (badness 10000) in paragraph at lines 972--975
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 975--983
+Underfull \hbox (badness 10000) in paragraph at lines 975--978
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 983--991
+Underfull \hbox (badness 10000) in paragraph at lines 978--981
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 991--993
+Underfull \hbox (badness 10000) in paragraph at lines 981--989
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 989--997
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 993--996
+Underfull \hbox (badness 10000) in paragraph at lines 997--999
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 996--999
+Underfull \hbox (badness 10000) in paragraph at lines 999--1002
 
  []
 
-<Article Figures/Measures.png, id=381, 3920.6475pt x 1535.7375pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1002--1005
+
+ []
+
+<Article Figures/Measures.png, id=376, 3920.6475pt x 1535.7375pt>
 File: Article Figures/Measures.png Graphic file (type png)
 <use Article Figures/Measures.png>
-Package pdftex.def Info: Article Figures/Measures.png  used on input line 1007.
+Package pdftex.def Info: Article Figures/Measures.png  used on input line 1013.
 (pdftex.def)             Requested size: 469.73952pt x 183.99934pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1017--1020
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1026
+
+ []
+
+[15 <./Article Figures/Platform Measures.png> <./Article Figures/Measures.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1026--1028
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1020--1022
-
- []
-
-[15 <./Article Figures/Measures.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1022--1026
+Underfull \hbox (badness 10000) in paragraph at lines 1028--1032
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1026--1030
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1036
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1030--1038
+Underfull \hbox (badness 10000) in paragraph at lines 1036--1044
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1038--1044
+Underfull \hbox (badness 10000) in paragraph at lines 1044--1050
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1044--1048
+Underfull \hbox (badness 10000) in paragraph at lines 1050--1054
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1048--1051
+Underfull \hbox (badness 10000) in paragraph at lines 1054--1057
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1066--1073
+Underfull \hbox (badness 10000) in paragraph at lines 1072--1079
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1073--1083
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1089
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1083--1089
+Underfull \hbox (badness 10000) in paragraph at lines 1089--1095
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1089--1094
+Underfull \hbox (badness 10000) in paragraph at lines 1095--1100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1094--1099
+Underfull \hbox (badness 10000) in paragraph at lines 1100--1105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1099--1108
+Underfull \hbox (badness 10000) in paragraph at lines 1105--1114
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1108--1115
+Underfull \hbox (badness 10000) in paragraph at lines 1114--1121
 
  []
 
 [16] [17]
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 1297.
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 1303.
 [18]
-Underfull \vbox (badness 10000) detected at line 1402
+Underfull \vbox (badness 10000) detected at line 1408
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1402
+Underfull \vbox (badness 10000) detected at line 1408
  []
 
 [19]
-Underfull \vbox (badness 10000) detected at line 1402
+Underfull \vbox (badness 10000) detected at line 1408
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1402
+Underfull \vbox (badness 10000) detected at line 1408
  []
 
 [20] [21]
-Overfull \hbox (49.99347pt too wide) in paragraph at lines 1482--1482
+Overfull \hbox (49.99347pt too wide) in paragraph at lines 1488--1488
 []\T1/lmtt/m/n/10 ##           Sensitivity Specificity Precision        F1 Prevalence Balanced.Accuracy         Class[] 
  []
 
 
-Overfull \hbox (49.99347pt too wide) in paragraph at lines 1482--1482
+Overfull \hbox (49.99347pt too wide) in paragraph at lines 1488--1488
 []\T1/lmtt/m/n/10 ## Class: L    0.7827397   0.9115436 0.8125711 0.7973765  0.3288288         0.8471417     Levallois[] 
  []
 
 
-Overfull \hbox (49.99347pt too wide) in paragraph at lines 1482--1482
+Overfull \hbox (49.99347pt too wide) in paragraph at lines 1488--1488
 []\T1/lmtt/m/n/10 ## Class: D    0.6561039   0.8026207 0.6383624 0.6471116  0.3468468         0.7293623     Discoidal[] 
  []
 
 
-Overfull \hbox (49.99347pt too wide) in paragraph at lines 1482--1482
+Overfull \hbox (49.99347pt too wide) in paragraph at lines 1488--1488
 []\T1/lmtt/m/n/10 ## Class: HD   0.5616667   0.7860000 0.5574855 0.5595683  0.3243243         0.6738333 Hierar. Disc.[] 
  []
 
 [22]
-<Bustos-Pérez-et-al-Between-Methods_files/figure-latex/ROC and AUC of each class-1.pdf, id=504, 469.755pt x 325.215pt>
+Underfull \vbox (badness 10000) detected at line 1568
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1568
+ []
+
+[23]
+<Bustos-Pérez-et-al-Between-Methods_files/figure-latex/ROC and AUC of each class-1.pdf, id=507, 469.755pt x 325.215pt>
 File: Bustos-Pérez-et-al-Between-Methods_files/figure-latex/ROC and AUC of each class-1.pdf Graphic file (type pdf)
 <use Bustos-Pérez-et-al-Between-Methods_files/figure-latex/ROC and AUC of each class-1.pdf>
-Package pdftex.def Info: Bustos-Pérez-et-al-Between-Methods_files/figure-latex/ROC and AUC of each class-1.pdf  used on input line 1564.
+Package pdftex.def Info: Bustos-Pérez-et-al-Between-Methods_files/figure-latex/ROC and AUC of each class-1.pdf  used on input line 1570.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
-[23]
 
 LaTeX Font Warning: Font shape `T1/lmtt/bx/it' in size <10> not available
-(Font)              Font shape `T1/lmtt/b/sl' tried instead on input line 1568.
+(Font)              Font shape `T1/lmtt/b/sl' tried instead on input line 1574.
 
 [24 <./Bustos-Pérez-et-al-Between-Methods_files/figure-latex/ROC and AUC of each class-1.pdf>]
-<Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Confusion Matrix-1.pdf, id=521, 469.755pt x 325.215pt>
+<Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Confusion Matrix-1.pdf, id=519, 469.755pt x 325.215pt>
 File: Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Confusion Matrix-1.pdf Graphic file (type pdf)
 <use Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Confusion Matrix-1.pdf>
-Package pdftex.def Info: Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Confusion Matrix-1.pdf  used on input line 1608.
+Package pdftex.def Info: Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Confusion Matrix-1.pdf  used on input line 1614.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
 [25 <./Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Confusion Matrix-1.pdf>] [26]
-<Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Variable importance-1.pdf, id=540, 469.755pt x 325.215pt>
+<Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Variable importance-1.pdf, id=538, 469.755pt x 325.215pt>
 File: Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Variable importance-1.pdf Graphic file (type pdf)
 <use Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Variable importance-1.pdf>
-Package pdftex.def Info: Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Variable importance-1.pdf  used on input line 1726.
+Package pdftex.def Info: Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Variable importance-1.pdf  used on input line 1732.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
-[27 <./Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Variable importance-1.pdf>] [28]
-<Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Cortex and class probabilities-1.pdf, id=555, 469.755pt x 325.215pt>
+[27] [28 <./Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Variable importance-1.pdf>]
+<Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Cortex and class probabilities-1.pdf, id=553, 469.755pt x 325.215pt>
 File: Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Cortex and class probabilities-1.pdf Graphic file (type pdf)
 <use Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Cortex and class probabilities-1.pdf>
-Package pdftex.def Info: Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Cortex and class probabilities-1.pdf  used on input line 1798.
+Package pdftex.def Info: Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Cortex and class probabilities-1.pdf  used on input line 1804.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
-[29 <./Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Cortex and class probabilities-1.pdf>] [30] [31] [32] [33] [34] [35] [36] [37] (./Bustos-Pérez-et-al-Between-Methods.aux)
+[29] [30 <./Bustos-Pérez-et-al-Between-Methods_files/figure-latex/Cortex and class probabilities-1.pdf>] [31] [32] [33] [34] [35] [36] [37] [38] (./Bustos-Pérez-et-al-Between-Methods.aux)
 Package rerunfilecheck Info: File `Bustos-Pérez-et-al-Between-Methods.out' has not changed.
 (rerunfilecheck)             Checksum: B1C3406BAA8A9C702BDB7B8D67B3C5BA;2427.
  ) 
 Here is how much of TeX's memory you used:
- 11984 strings out of 479983
- 195157 string characters out of 5886064
- 530844 words of memory out of 5000000
+ 11985 strings out of 479983
+ 195164 string characters out of 5886064
+ 531794 words of memory out of 5000000
  29779 multiletter control sequences out of 15000+600000
  521060 words of font info for 74 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -989,10 +996,10 @@ Here is how much of TeX's memory you used:
 pdfTeX warning (dest): name{ref-article} has been referenced but does not exist, replaced by a fixed one
 
 {c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}<c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi7.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtk10.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtko10.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtti10.pfb>
-Output written on Bustos-Pérez-et-al-Between-Methods.pdf (37 pages, 18939686 bytes).
+Output written on Bustos-Pérez-et-al-Between-Methods.pdf (38 pages, 18940371 bytes).
 PDF statistics:
- 846 PDF objects out of 1000 (max. 8388607)
- 745 compressed objects within 8 object streams
- 190 named destinations out of 1000 (max. 500000)
+ 848 PDF objects out of 1000 (max. 8388607)
+ 746 compressed objects within 8 object streams
+ 191 named destinations out of 1000 (max. 500000)
  165 words of extra memory for PDF output out of 10000 (max. 10000000)
 
