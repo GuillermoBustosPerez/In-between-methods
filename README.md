@@ -23,7 +23,7 @@ Other examples of published data:
 
 **Authors:**:
 
--   Guillermo Busto-Pérez<sup>1, 2</sup>  
+-   Guillermo Busto-Pérez<sup>1, 2, 3</sup>  
 -   Javier Baena<sup>1</sup>  
 -   Manuel Vaquero<sup>2, 3</sup>
 
