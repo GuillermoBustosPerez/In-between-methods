@@ -1,5 +1,3 @@
-# What lies in between: Levallois, Discoid and intermediate methods
-
 Guillermo Bustos-Pérez $^{1,2,3}$, Javier Baena $^{1}$, Manuel Vaquero
 $^{2,3}$
 
@@ -14,36 +12,38 @@ l’Art, Avinguda de Catalunya 35, 43002 Tarragona, Spain
 <div align="justify">
 
 **Abstract**  
-The production of lithic artefacts is usually associated to different
-knapping methods. Resulting flakes present metric and technological
-features representative of the flaking method from which they were
-detached. However, lithic production is a dynamic process where discrete
-methods can be blurred, with features varying along the process. An
-intermediate knapping method between discoidal and Levallois is commonly
-referred under an umbrella of terms, presenting a wide geographical and
-chronological distribution along the Early and Middle Palaeolithic.
-Because this intermediate knapping method presents features from both
-discoidal and Levallois knapping methods, this raises the question of up
-to what point flakes from the three knapping methods can be
-differentiated between each other and the directionality of confusions.
-An experimental assemblage of flakes detached from the three methods is
-employed along with attribute analysis and Machine Learning models to
-identify the knapping method from which the flakes were detached. On a
-general level results provide an excellent ability to differentiate
-between the three knapping methods when a Support Vector Machine with
-polynomial kernel is employed. Results also outline the singularity of
-flakes detached from Levallois reduction sequences with an outstanding
-value of identification, and being rare that they are erroneously
-attributed to any of the other two knapping methods. Confusion between
-discoidal and Hierarchical Discoid products is more common, although a
-good value of identification is achieved for discoidal flakes and an
-acceptable value is achieved in the case of Hierarchical Discoid flakes.
-This shows the potential applicability of machine learning models in
-combination with attribute analysis for the identification of these
-knapping methods among flakes.
+Lithic artefacts are usually associated with the different knapping
+methods used in their production. Flakes exhibit metric and
+technological features representative of the flaking method used to
+detach them. However, lithic production is a dynamic process in which
+discrete methods can be blurred, and in which features can vary
+throughout the process. An intermediate knapping method between the
+discoid and Levallois is commonly referred to under an umbrella of terms
+(the present research uses the term hierarchical discoid), and is
+associated with a broad geographical and chronological distribution
+throughout the Early and Middle Palaeolithic. This intermediate knapping
+strategy exhibits features of both the discoid and Levallois knapping
+methods, raising the question of the extent to which flakes from the
+three knapping methods can be differentiated and, when one is mistaken
+for another, the direction of confusion. An experimental assemblage of
+flakes detached by means of the three methods was used along with an
+attribute analysis and machine learning models in an effort to identify
+the knapping methods employed. In general, our results were able to very
+effectively differentiate between the three knapping methods when a
+support vector machine with polynomial kernel was used. Our results also
+underscored the singularity of flakes detached by means of Levallois
+reduction sequences, which yielded outstanding identification values,
+and were rarely erroneously attributed to either of the other two
+knapping methods studied. Mistaking the products of the discoid and
+hierarchical discoid methods was the most common direction of confusion,
+although a good identification value was achieved for discoid flakes and
+an acceptable value for hierarchical discoid flakes. This shows the
+potential applicability of machine learning models in combination with
+attribute analysis for the identification of these knapping methods
+among flakes.
 
 **Keywords:** lithic technology; experimental archaeology; Levallois;
-Discoid; Machine Learning; Middle Paleolithic
+discoid; Middle Palaeolithic; machine learning
 
 **Extended abstract**  
 La producción de lascas se asocia a diferentes métodos de talla. Las
@@ -111,35 +111,36 @@ Levallois; Discoid; Paleolítico Medio; Aprendizaje Automático
 
 ## 1. Introduction
 
-The Middle Paleolithic in Western Europe is characterized by the
-increase and diversification of prepared core knapping methods,
+The Middle Palaeolithic in western Europe is characterised by the
+increase in and diversification of prepared core knapping methods,
 resulting in flake-dominated assemblages ([Kuhn
-2013](#ref-kuhn_roots_2013)). These flake dominated assemblages are the
-result of a wide number of production methods which includes Levallois
+2013](#ref-kuhn_roots_2013)). These flake-dominated assemblages are the
+result of a wide number of production methods including Levallois
 ([Boëda 1994](#ref-boeda_concept_1994); [Boëda
 1995b](#ref-dibble_levallois:_1995); [Boëda *et al.*
-1990](#ref-boeda_identification_1990)), Discoid ([Boëda
+1990](#ref-boeda_identification_1990)), discoid ([Boëda
 1993](#ref-boeda_debitage_1993); [Boëda
-1995a](#ref-boeda_caracteristiques_1995)), SSDA ([Forestier
+1995a](#ref-boeda_caracteristiques_1995)), the *système par surface de
+débitage alterné* or SSDA ([Forestier
 1993](#ref-forestier_clactonien:_1993); [Ohel *et al.*
 1979](#ref-ohel_clactonian_1979)), Quina ([Bourguignon
 1996](#ref-bourguignon_conception_1996); [Bourguignon
 1997](#ref-bourguignon_mousterien_1997)), different laminar production
 systems ([Boëda 1990](#ref-farizy_surface_1990); [Révillon & Tuffreau
-1994](#ref-revillon_les_1994)), Kombewa ([Newcomer & Hivernel-Guerre
-1974](#ref-newcomer_nucleus_1974); [Tixier & Turq
-1999](#ref-tixier_kombewa_1999)) among several others. The abundance of
+1994](#ref-revillon_les_1994)), and the Kombewa ([Newcomer &
+Hivernel-Guerre 1974](#ref-newcomer_nucleus_1974); [Tixier & Turq
+1999](#ref-tixier_kombewa_1999)) among several others. This abundance of
 different production methods results in a highly diversified material
-culture were flakes present a wide morphological variability. Flakes
+culture in which flakes exhibit great morphological variability. Flakes
 often retain morphologies and attributes characteristic of the knapping
-method from which they were detached, allowing for its identification.
-However, flakes often present overlapping attributes and morphologies as
-a result of the high internal variability of the methods and the ability
-for obtaining flakes with similar functional properties through
-different methods Kuhn ([2013](#ref-kuhn_roots_2013)). Due to their wide
-geographical and chronological extension, Levallois and Discoid
-constitute an important source of cultural variability of the Middle
-Paleolithic from Western Europe.
+method used to detach them, facilitating the identification of those
+methods. However, flakes also often present overlapping attributes and
+morphologies as a result of the high internal variability of the methods
+used and the fact that flakes with similar functional properties can be
+produced via different methods Kuhn ([2013](#ref-kuhn_roots_2013)). Due
+to their extensive geographical and chronological distribution, the
+Levallois and discoid constitute important sources of cultural
+variability in the Middle Palaeolithic of western Europe.
 
 Boëda ([1994](#ref-boeda_concept_1994);
 [1995b](#ref-dibble_levallois:_1995)) establishes six characteristics
