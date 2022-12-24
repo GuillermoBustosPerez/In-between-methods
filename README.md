@@ -1,3 +1,5 @@
+<div align="justify">
+
 ### Note for Reviewers
 
 The present repository contains all data and code of employed for the
@@ -9,41 +11,41 @@ under a DOI.
 
 Other examples of published data:
 
--   Bustos-Pérez, G., Baena, J., 2021. Predicting Flake Mass: A View
-    from Machine Learning. Lithic Technology 46, 130–142.
-    <https://doi.org/10.1080/01977261.2021.1881267>  
--   Link to Zenodo repository:
-    <https://zenodo.org/record/4603149#.YmZzKdpBwdU>
+- Bustos-Pérez, G., Baena, J., 2021. Predicting Flake Mass: A View from
+  Machine Learning. Lithic Technology 46, 130–142.
+  <https://doi.org/10.1080/01977261.2021.1881267>  
+- Link to Zenodo repository:
+  <https://zenodo.org/record/4603149#.YmZzKdpBwdU>
 
 ### Repository data
 
 **Journal:**
 
--   Journal of Lithic Studies
+- Journal of Lithic Studies
 
 **Authors:**:
 
--   Guillermo Busto-Pérez<sup>1, 2, 3</sup>  
--   Javier Baena<sup>1</sup>  
--   Manuel Vaquero<sup>2, 3</sup>
+- Guillermo Busto-Pérez$^{1,2,3}$  
+- Javier Baena$^{1}$  
+- Manuel Vaquero$^{2,3}$
 
-<sup>1</sup>Universidad Autónoma de Madrid. Departamento de Prehistoria
-y Arqueología, Campus de Cantoblanco, 28049 Madrid, Spain. Email:
+$^1$Universidad Autónoma de Madrid. Departamento de Prehistoria y
+Arqueología, Campus de Cantoblanco, 28049 Madrid, Spain. Email:
 <guillermo.willbustos@gmail.com>; <javier.baena@uam.es>  
-<sup>2</sup>Institut Català de Paleoecologia Humana i Evolució Social
+$^2$Institut Català de Paleoecologia Humana i Evolució Social
 (IPHES-CERCA), Zona Educacional 4, Campus Sescelades URV (Edifici W3),
 43007 Tarragona, Spain.  
-<sup>3</sup>Universitat Rovira i Virgili, Departament d’Història i
-Història de l’Art, Avinguda de Catalunya 35, 43002 Tarragona, Spain
+$^3$Universitat Rovira i Virgili, Departament d’Història i Història de
+l’Art, Avinguda de Catalunya 35, 43002 Tarragona, Spain
 
 **Corresponding Author**:
 
--   Guillermo Bustos-Pérez  
--   <guillermo.willbustos@gmail.com>
+- Guillermo Bustos-Pérez  
+- <guillermo.willbustos@gmail.com>
 
 **Article title:**
 
--   What lies in between: Levallois, Discoid and intermediate methods
+- What lies in between: Levallois, Discoid and intermediate methods
 
 **Abstract**  
 The production of lithic artefacts is usually associated to different
@@ -140,3 +142,5 @@ materias primas, y evaluación de las cadenas operativas presentes.
 
 **Palabras clave**: tecnología lítica; arqueología experimental;
 Levallois; Discoid; Paleolítico Medio; Aprendizaje Automático
+
+</div>
