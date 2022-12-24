@@ -5,10 +5,13 @@ output:
   md_document:
     variant: gfm
   pdf_document: default   
-  html_document: 
+  bookdown::html_document2: 
     toc: true
-    toc_float: true  
-bibliography: References.bib
+    toc_float: true
+    toc_depth: 4
+    fig_caption: yes
+    number_sections: FALSE 
+bibliography: "References.bib"
 csl: "journal-of-lithic-studies.csl"
 link-citations: true
 linkcolor: blue
@@ -20,11 +23,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # What lies in between: Levallois, Discoid and intermediate methods     
 
-Guillermo Bustos-Pérez$^{1,2,3}$, Javier Baena$^{1}$, Manuel Vaquero$^{2,3}$   
+Guillermo Bustos-Pérez $^{1,2,3}$, Javier Baena $^{1}$, Manuel Vaquero $^{2,3}$   
 
-$^1$Universidad Autónoma de Madrid. Departamento de Prehistoria y Arqueología, Campus de Cantoblanco, 28049 Madrid, Spain    
-$^2$Institut Català de Paleoecologia Humana i Evolució Social (IPHES), Zona Educacional 4, Campus Sescelades URV (Edifici W3), 43007 Tarragona, Spain   
-$^3$Universitat Rovira i Virgili, Departament d’Història i Història de l’Art, Avinguda de Catalunya 35, 43002 Tarragona, Spain       
+$^1$ Universidad Autónoma de Madrid. Departamento de Prehistoria y Arqueología, Campus de Cantoblanco, 28049 Madrid, Spain    
+$^2$ Institut Català de Paleoecologia Humana i Evolució Social (IPHES), Zona Educacional 4, Campus Sescelades URV (Edifici W3), 43007 Tarragona, Spain   
+$^3$ Universitat Rovira i Virgili, Departament d’Història i Història de l’Art, Avinguda de Catalunya 35, 43002 Tarragona, Spain       
 
 <div align="justify">   
 **Abstract**   

@@ -1,14 +1,14 @@
 # What lies in between: Levallois, Discoid and intermediate methods
 
-Guillermo Bustos-Pérez$^{1,2,3}$, Javier Baena$^{1}$, Manuel
-Vaquero$^{2,3}$
+Guillermo Bustos-Pérez $^{1,2,3}$, Javier Baena $^{1}$, Manuel Vaquero
+$^{2,3}$
 
-$^1$Universidad Autónoma de Madrid. Departamento de Prehistoria y
+$^1$ Universidad Autónoma de Madrid. Departamento de Prehistoria y
 Arqueología, Campus de Cantoblanco, 28049 Madrid, Spain  
-$^2$Institut Català de Paleoecologia Humana i Evolució Social (IPHES),
+$^2$ Institut Català de Paleoecologia Humana i Evolució Social (IPHES),
 Zona Educacional 4, Campus Sescelades URV (Edifici W3), 43007 Tarragona,
 Spain  
-$^3$Universitat Rovira i Virgili, Departament d’Història i Història de
+$^3$ Universitat Rovira i Virgili, Departament d’Història i Història de
 l’Art, Avinguda de Catalunya 35, 43002 Tarragona, Spain
 
 <div align="justify">
@@ -573,7 +573,7 @@ ML_Data %>%
     ## `summarise()` has grouped output by 'Class'. You can override using the `.groups`
     ## argument.
 
-![](H:\02%20CAMPOS%20PROPIOS%20ARQUEO\03%20ARTICLES\00%20Github%20Articles\2022.04%20In%20Between\In-between-methods\Report\Lies-in-between_files/figure-gfm/Cortex%20per%20knapping%20method-1.png)<!-- -->
+![](H:\02CAMP~1\03ARTI~1\00GITH~1\2022~1.04I\IN-BET~1\Report\LIES-I~1/figure-gfm/Cortex%20per%20knapping%20method-1.png)<!-- -->
 
 ``` r
 # Bagolini scatter plot
@@ -636,7 +636,7 @@ ML_Data %>%
   coord_fixed() 
 ```
 
-![](H:\02%20CAMPOS%20PROPIOS%20ARQUEO\03%20ARTICLES\00%20Github%20Articles\2022.04%20In%20Between\In-between-methods\Report\Lies-in-between_files/figure-gfm/Bagolini%20scatter%20plot-1.png)<!-- -->
+![](H:\02CAMP~1\03ARTI~1\00GITH~1\2022~1.04I\IN-BET~1\Report\LIES-I~1/figure-gfm/Bagolini%20scatter%20plot-1.png)<!-- -->
 
 ### 2.2 Attribute analysis
 
@@ -1224,7 +1224,7 @@ SVMP.ROCs %>%
     axis.title = element_text(color = "black", size = 11, face = "bold"))
 ```
 
-![](H:\02%20CAMPOS%20PROPIOS%20ARQUEO\03%20ARTICLES\00%20Github%20Articles\2022.04%20In%20Between\In-between-methods\Report\Lies-in-between_files/figure-gfm/ROC%20and%20AUC%20of%20each%20class-1.png)<!-- -->
+![](H:\02CAMP~1\03ARTI~1\00GITH~1\2022~1.04I\IN-BET~1\Report\LIES-I~1/figure-gfm/ROC%20and%20AUC%20of%20each%20class-1.png)<!-- -->
 
 ``` r
 ## Confusion matrix of SVMP 
@@ -1266,7 +1266,7 @@ SVM_Poly.Confx %>%
         title = element_text(size = 8, color = "black", face = "bold"))
 ```
 
-![](H:\02%20CAMPOS%20PROPIOS%20ARQUEO\03%20ARTICLES\00%20Github%20Articles\2022.04%20In%20Between\In-between-methods\Report\Lies-in-between_files/figure-gfm/Confusion%20Matrix-1.png)<!-- -->
+![](H:\02CAMP~1\03ARTI~1\00GITH~1\2022~1.04I\IN-BET~1\Report\LIES-I~1/figure-gfm/Confusion%20Matrix-1.png)<!-- -->
 
 Products from Discoidal bifacial reduction sequences are the second best
 identified by the SVM with polynomial kernel. While a notable confusion
@@ -1382,10 +1382,7 @@ tibble(
     strip.background = element_rect(fill = "white", colour = "black", size = 1))
 ```
 
-    ## Warning: The `size` argument of `element_rect()` is deprecated as of ggplot2 3.4.0.
-    ## ℹ Please use the `linewidth` argument instead.
-
-![](H:\02%20CAMPOS%20PROPIOS%20ARQUEO\03%20ARTICLES\00%20Github%20Articles\2022.04%20In%20Between\In-between-methods\Report\Lies-in-between_files/figure-gfm/Variable%20importance-1.png)<!-- -->
+![](H:\02CAMP~1\03ARTI~1\00GITH~1\2022~1.04I\IN-BET~1\Report\LIES-I~1/figure-gfm/Variable%20importance-1.png)<!-- -->
 
 Analysis of class probabilities according to reduction sequence and
 amount of cortex shows a series of tendencies. Products detached from
@@ -1455,7 +1452,7 @@ Cortex.Class %>% mutate(
     axis.title = element_text(color = "black", size = 9))
 ```
 
-![](H:\02%20CAMPOS%20PROPIOS%20ARQUEO\03%20ARTICLES\00%20Github%20Articles\2022.04%20In%20Between\In-between-methods\Report\Lies-in-between_files/figure-gfm/Cortex%20and%20class%20probabilities-1.png)<!-- -->
+![](H:\02CAMP~1\03ARTI~1\00GITH~1\2022~1.04I\IN-BET~1\Report\LIES-I~1/figure-gfm/Cortex%20and%20class%20probabilities-1.png)<!-- -->
 
 Products detached from discoidal reduction sequences show the second
 highest average of belonging to their class without considering cortex
