@@ -25,17 +25,17 @@ Other examples of published data:
 
 **Authors:**:
 
-- Guillermo Busto-Pérez$^{1,2,3}$  
-- Javier Baena$^{1}$  
-- Manuel Vaquero$^{2,3}$
+- Guillermo Busto-Pérez $^{1,2,3}$  
+- Javier Baena $^{1}$  
+- Manuel Vaquero $^{2,3}$
 
-$^1$Universidad Autónoma de Madrid. Departamento de Prehistoria y
+$^1$ Universidad Autónoma de Madrid. Departamento de Prehistoria y
 Arqueología, Campus de Cantoblanco, 28049 Madrid, Spain. Email:
 <guillermo.willbustos@gmail.com>; <javier.baena@uam.es>  
-$^2$Institut Català de Paleoecologia Humana i Evolució Social
+$^2$ Institut Català de Paleoecologia Humana i Evolució Social
 (IPHES-CERCA), Zona Educacional 4, Campus Sescelades URV (Edifici W3),
 43007 Tarragona, Spain.  
-$^3$Universitat Rovira i Virgili, Departament d’Història i Història de
+$^3$ Universitat Rovira i Virgili, Departament d’Història i Història de
 l’Art, Avinguda de Catalunya 35, 43002 Tarragona, Spain
 
 **Corresponding Author**:
