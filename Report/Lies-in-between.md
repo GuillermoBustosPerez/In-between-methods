@@ -137,73 +137,73 @@ method used to detach them, facilitating the identification of those
 methods. However, flakes also often present overlapping attributes and
 morphologies as a result of the high internal variability of the methods
 used and the fact that flakes with similar functional properties can be
-produced via different methods Kuhn ([2013](#ref-kuhn_roots_2013)). Due
+produced via different methods Kuhn ([2013](#ref-kuhn_roots_2013)).Due
 to their extensive geographical and chronological distribution, the
 Levallois and discoid constitute important sources of cultural
 variability in the Middle Palaeolithic of western Europe.
 
 Boëda ([1994](#ref-boeda_concept_1994);
 [1995b](#ref-dibble_levallois:_1995)) establishes six characteristics
-defining the Levallois knapping strategy from a technological point of
-view:
+that define the Levallois knapping strategy from a technological
+perspective:
 
 1)  The volume of the core is conceived in two convex asymmetric
     surfaces.  
 2)  These two surfaces are hierarchical and are not interchangeable.
-    They maintain their role of striking and debitage (or exploitation)
-    surface respectively along the whole reduction process.  
+    They retain their role of either striking or debitage (or
+    exploitation) surface throughout the entire reduction process.  
 3)  The distal and lateral convexities of the debitage surface are
     maintained to obtain predetermined flakes.  
 4)  The plane of fracture of the predetermined products is parallel to
-    the intersection between both surfaces.  
+    the intersection of the two surfaces.  
 5)  The striking platform is perpendicular to the overhang (the core
     edge, at the intersection between the two core surfaces).  
-6)  The technique employed during the knapping process is the direct
-    percussion with hard hammer.
+6)  The technique employed during the knapping process is direct
+    percussion with a hard hammer.
 
-Depending on the organization of the debitage surface Levallois cores
-are usually classified into preferential method (were a single
+Depending on the organisation of the debitage surface, Levallois cores
+are usually classified as a preferential method (in which a single
 predetermined Levallois flake is obtained from the debitage surface) or
-recurrent methods (were several predetermined flakes are produced from
-the debitage surface) with removals being either unidirectional,
+as recurrent methods (in which several predetermined flakes are produced
+from the debitage surface) with removals being either unidirectional,
 bidirectional or centripetal ([Boëda
 1995b](#ref-dibble_levallois:_1995); [Boëda *et al.*
 1990](#ref-boeda_identification_1990); [Delagnes
 1995](#ref-dibble_variability_1995); [Delagnes & Meignen
 2006](#ref-hovers_diversity_2006)).
 
-Because of its early recognition in the XIX century ([Boucher de Perthes
-1857](#ref-boucher_de_perthes_antiquites_1857)), its association with
-cognitive abilities of planning and predetermination ([Boëda
+Because of its early recognition in the XIX century ([Mortillet 1885:
+pp.:235–236](#ref-mortillet_prehistorique_1885)), its association with
+the cognitive abilities of planning and predetermination ([Boëda
 1994](#ref-boeda_concept_1994); [Pelegrin
 2009](#ref-pelegrin_cognition_2009)), and its use for the definition of
 cultural facies ([Bordes 1961a](#ref-bordes_mousterian_1961); [Bordes
-1961b](#ref-bordes_typologie_1961)) and lithic technocomplexes
+1953](#ref-bordes_levalloisien_1953)) and lithic technocomplexes
 ([Delagnes *et al.* 2007](#ref-vandermeersch_les_2007); [Faivre *et al.*
-2017](#ref-faivre_late_2017)), the Levallois flaking technology is
-considered a trademark of the Middle Paleolithic. Emergence of the
-Levallois method is observed from MIS12 to MIS9, with several sites
-presenting elements characteristic of Levallois production([Carmignani
-*et al.* 2017](#ref-carmignani_technological_2017); [Hérisson *et al.*
-2016](#ref-herisson_emergence_2016); [Moncel *et al.*
+2017](#ref-faivre_late_2017)), Levallois flaking technology is
+considered a trademark of the Middle Palaeolithic. The emergence of the
+Levallois method has been observed from MIS 12 to MIS 9, with several
+sites yielding artefacts characteristic of this knapping strategy
+([Carmignani *et al.* 2017](#ref-carmignani_technological_2017);
+[Hérisson *et al.* 2016](#ref-herisson_emergence_2016); [Moncel *et al.*
 2020](#ref-moncel_early_2020); [Soriano & Villa
 2017](#ref-soriano_early_2017); [White & Ashton
-2003](#ref-white_lower_2003)). However, Levallois is clearly generalized
-and identified from MIS8 onwards, covering a wide geographical
-distribution throughout Western Europe ([Delagnes *et al.*
+2003](#ref-white_lower_2003)). However, the Levallois is clearly
+generalised and identified from MIS 8 onwards, covering an extensive
+geographical area throughout western Europe ([Delagnes *et al.*
 2007](#ref-vandermeersch_les_2007); [Delagnes & Meignen
 2006](#ref-hovers_diversity_2006); [Faivre *et al.*
 2017](#ref-faivre_late_2017); [Geneste
-1990](#ref-geneste_developpement_1990)). The long geographical and
-temporary span of Levallois adds additional layers of variability which
-can result from raw material constraints, synchronic variability as a
-result of different site functionality, chronological trends in
-development of methods or shifts in the technological organization of
-groups. Attention is also called on the explicit recognition of
-Levallois cores after MIS 8, while a multitude of terms is employed to
-define previous hierarchical knapping strategies and its possible
-coexistence with Acheulean technocomplexes ([Moncel *et al.*
-2020](#ref-moncel_early_2020); [Santonja *et al.*
+1990](#ref-geneste_developpement_1990)).The extensive geographical area
+and long temporal span of the Levallois creates additional layers of
+variability which can result from raw material constraints, synchronic
+variability as a result of different site functionalities, chronological
+trends in the development of methods, or shifts in the technological
+organisation of groups. It is also important to highlight the explicit
+recognition of Levallois cores after MIS 8, while a multitude of terms
+were employed to define previous hierarchical knapping strategies and
+their possible coexistence with Acheulean technocomplexes ([Moncel *et
+al.* 2020](#ref-moncel_early_2020); [Santonja *et al.*
 2016](#ref-santonja_coexistence_2016); [Hérisson *et al.*
 2016](#ref-herisson_emergence_2016); [Rosenberg-Yefet *et al.*
 2022](#ref-rosenberg-yefet_lower_2022); [White & Ashton
@@ -213,177 +213,182 @@ coexistence with Acheulean technocomplexes ([Moncel *et al.*
 Boëda ([1993](#ref-boeda_debitage_1993);
 [1994](#ref-boeda_concept_1994);
 [1995a](#ref-boeda_caracteristiques_1995)), also establishes six
-technological criteria defining the Discoid method:
+technological criteria defining the discoid method:
 
 1)  The volume of the core is conceived as two oblique asymmetric convex
     surfaces delimited by an intersection plane.  
-2)  These two surfaces are not hierarchical being possible to alternate
-    the roles of percussion and exploitation surfaces.  
+2)  These two surfaces are not hierarchical as it is possible to
+    alternate the roles of the percussion and exploitation surfaces.  
 3)  The peripheral convexity of the debitage surface is managed to
-    control lateral and distal extractions thus allowing for a degree of
-    predetermination  
-4)  Striking surfaces are oriented in a way that the core edge is
-    perpendicular to the predetermined products  
-5)  The planes of extraction of the products are secant  
-6)  The technique employed is the direct percussion with hard hammer.
+    control lateral and distal extractions, thus allowing for a certain
+    degree of predetermination.  
+4)  Striking surfaces are oriented so that the core edge is
+    perpendicular to the predetermined products.  
+5)  The planes of extraction of the products are secant.  
+6)  The technique employed is direct percussion with a hard hammer.
 
-Technological analysis of Middle Paleolithic assemblages has gradually
-led to identify a variability of modalities within the discoidal core
-knapping ([Bourguignon & Turq 2003](#ref-peresani_chaine_2003); [Locht
-2003](#ref-peresani_industrie_2003); [Terradas
+Technological analyses of Middle Palaeolithic assemblages have gradually
+led to the identification of a variability of modalities within discoid
+core knapping ([Bourguignon & Turq 2003](#ref-peresani_chaine_2003);
+[Locht 2003](#ref-peresani_industrie_2003); [Terradas
 2003](#ref-terradas_discoid_2003); [Locht
 2003](#ref-peresani_industrie_2003)). This has resulted in *sensu
-stricto* and a *sensu lato* conceptualizations of the Discoid knapping
+stricto* and a *sensu lato* conceptualisations of the discoid knapping
 system ([Faivre *et al.* 2017](#ref-faivre_late_2017); [Mourre
 2003](#ref-peresani_discoiou_2003); [Thiébaut
-2013](#ref-thiebaut_discoid_2013)). The *sensu stricto* highly
-corresponds to Boëda’s ([1993](#ref-boeda_debitage_1993)) above
-mentioned definition, where core edge flakes and pseudo-Levallois points
-are the most common products. *The sensu lato* Discoid encompasses a
-larger range of products (although centripetal flakes are more common)
-as a result of higher variability in the organization of percussion and
-exploitation surfaces ([Terradas 2003](#ref-terradas_discoid_2003)).
+2013](#ref-thiebaut_discoid_2013)). The *sensu stricto* hmethod closely
+corresponds to the definition established by Boëda
+([1993](#ref-boeda_debitage_1993)) described above, for which core edge
+flakes and pseudo-Levallois points are the most common products. *The
+sensu lato* discoid encompasses a greater range of products (although
+centripetal flakes are more common) as a result of higher variability in
+the organisation of percussion and exploitation surfaces ([Terradas
+2003](#ref-terradas_discoid_2003)).
 
-One of the variants from the Discoid *sensu lato* conceptualization
-resembles Levallois knapping strategy (Figure 1). Some common
-characteristics outlined for this method are:  
-1) The core volume is conceived as two hierarchical asymmetric surfaces:
-the percussion surface and the exploitation surface (this is a common
-feature with Levallois).  
-2) Preparation of the percussion surface is absent or it is partial,
-without encompassing the complete periphery of the core. This can be a
-result of raw material characteristics presenting an adequate morphology
-or because it is achieved with minimal preparation.  
-3) Despite the hierarchical nature of both surfaces flakes detached from
-the debitage surface present a secant relationship towards the plane of
-intersection. Soriano and Villa ([2017](#ref-soriano_early_2017)) call
-attention that Levallois products usually present an external platform
-angle (EPA) between 80º and 85º, while products from non-Levallois
-hierarchical methods present an EPA relationship between 70 and 85º.
-However, this relationship can change along the core’s reduction with
-final flakes being sub-parallel to the plane of fracture ([Slimak
-1998](#ref-slimak_variabilite_1998)).  
-4) Products from Hierarchical Discoid are usually symmetrical towards
-the knapping direction, are thin, and the ventral and dorsal surfaces
-present a subparallel relation. Again, these are common traits with
-Levallois products.
+One of the variants of the *sensu lato* discoid conceptualisation
+resembles the Levallois knapping strategy (Figure 1). Several common
+characteristics have been defined for this method:
+
+1)  The core volume is conceived as two hierarchical asymmetric
+    surfaces: the percussion surface and the exploitation surface (this
+    feature is shared with the Levallois).  
+2)  Preparation of the percussion surface is absent or partial, without
+    encompassing the complete periphery of the core. This may be because
+    the characteristics of the raw material present an adequate
+    morphology or because it requires minimal preparation.  
+3)  Despite the hierarchical nature of the two surfaces, flakes detached
+    from the debitage surface present a secant relationship towards the
+    plane of intersection. Soriano and Villa
+    ([2017](#ref-soriano_early_2017)) point out that Levallois products
+    usually present an external platform angle (EPA) of between 80º and
+    85º, while products from non-Levallois hierarchical methods present
+    an EPA relationship of between 70º and 85º. However, this
+    relationship can change over the course of the core’s reduction with
+    the final flakes being sub-parallel to the plane of fracture
+    ([Slimak 1998](#ref-slimak_variabilite_1998)).  
+4)  Products from the hierarchical discoid method tend to be symmetrical
+    towards the knapping direction and thin, and the ventral and dorsal
+    surfaces present a subparallel relationship. Again, these are common
+    traits in Levallois products as well.
 
 ![Schematic representation of the knapping methods, surfaces and
 platform preparation](Article%20Figures/Variability%20L%20D%20HD.png)
 
-Strategies from several sites can be considered to fit the above
-mentioned variation of discoidal knapping method and its resemblance to
-the Levallois method has been previously noted for several Middle and
-Early Middle Paleolithic assemblages ([Casanova i Martí *et al.*
+Strategies evidenced at several sites fit into the discoid knapping
+variation described above, and its resemblance to the Levallois has been
+previously noted in several Middle and early Middle Palaeolithic
+assemblages ([Casanova i Martí *et al.*
 2009](#ref-casanova_i_marti_strategies_2009);
 [2014](#ref-casanova_debitage_2014); [Jaubert
 1993](#ref-jaubert_gisement_1993); [Peresani
 1998](#ref-peresani_variabilite_1998); [Slimak
 1998](#ref-slimak_variabilite_1998); [2003](#ref-peresani_les_2003);
 [Soriano & Villa 2017](#ref-soriano_early_2017)). However, it is
-important to consider that given the wide geographical and chronological
-span (Figure 2), different terms are employed. For Middle Paleolithic
-sites, the identity of this method usually focuses on the shared
-features with Levallois and Discoid and thus, its intermediate nature.
+important to consider that a variety of different terms have been
+employed due to the broad geographical and chronological span of the
+method. For Middle Palaeolithic sites, the identification of this method
+usually focuses on its shared features with the Levallois and discoid
+methods and thus, its intermediate nature.
 
-Jaubert ([1993](#ref-jaubert_gisement_1993)) at Mauran notes the
+Jaubert ([1993](#ref-jaubert_gisement_1993)), at Mauran, noted the
 hierarchical nature of the production system and its resemblance to
-exhausted recurrent centripetal Levallois cores. However, he points out
-the secant planes of detachment not so parallel as Levallois as a
-differentiation. Slimak ([1998](#ref-slimak_variabilite_1998);
-[2003](#ref-peresani_les_2003)) at Champ Grand also notes the
+exhausted recurrent centripetal Levallois cores. However, he pointed out
+that the secant planes of detachment were not as parallel as in the
+Levallois. Slimak ([1998](#ref-slimak_variabilite_1998);
+[2003](#ref-peresani_les_2003)), at Champ Grand, also noted the
 similarities of residual cores with recurrent centripetal Levallois
-debitage. Casanova i Martí et al.
+debitage. At Estret de Tragó, Casanova i Martí et al.
 ([2009](#ref-casanova_i_marti_strategies_2009);
-[2014](#ref-casanova_debitage_2014)) ) notes for Estret de Tragó the
-presence of products and knapping methods which share features of
-Levallois and Discoid, and proposes to include Hierarchical Discoid and
-Levallois recurrent centripetal strategies into the Hierarchical
-bifacial centripetal class. Peresani
-([1998](#ref-peresani_variabilite_1998)) for Fumane cave notes the
-presence of debitage products with features (reduced thickness, debitage
-angle, and centripetal organization of scars also subparallel to the
-ventral surface) which would correspond to parallel planes debitage.
-Baena et al., ([2005](#ref-montes_barquin_paleoecologiy_2005)) indicate
-the presence of hierarchical Discoid along the sequence of Esquilleu
-cave as secondary and primary knapping method.
+[2014](#ref-casanova_debitage_2014)) ) noted the presence of products
+and knapping methods which shared features of the Levallois and discoid
+methods, and proposed including the hierarchical discoid and Levallois
+recurrent centripetal strategies within a single hierarchical bifacial
+centripetal class. Peresani ([1998](#ref-peresani_variabilite_1998)) at
+Fumane cave, documented the presence of debitage products with features
+(reduced thickness, debitage angle, and centripetal organisation of
+scars also subparallel to the ventral surface) which would correspond to
+parallel-plane debitage. Baena et al.,
+([2005](#ref-montes_barquin_paleoecologiy_2005)) indicated the presence
+of the hierarchical discoid method throughout the Esquilleu cave
+sequence as a secondary and primary knapping method.
 
 ![Distribution of sites referenced in the text base map obtained from:
 <https://maps-for-free.com/>)](Article%20Figures/Mapa.png)
 
-As previously mentioned, for Middle Paleolithic sites, the identity of
-this knapping method is focused on its intermediate nature between
-discoidal and recurrent centripetal Levallois. However, Early Middle
-Paleolithic sites usually focus its identity in the shared features with
-Levallois as preceding the gradual emergence of the later. For example,
-Carmignani *et al.* ([2017](#ref-carmignani_technological_2017)) for
-Payre and Bau de l’Aubesier use the term “centripetal with parallel
-planes” noting the resemblance of features with Levallois. Soriano &
-Villa ([2017](#ref-soriano_early_2017)) for Guado San Nicola use the
-term “non-Levallois debitage with hierarchized surfaces”, noting its
-similarity with Levallois, but also its distinctiveness due to the
-absence of preparation and management of convexities, and absence of
+As mentioned earlier, for Middle Palaeolithic sites, the identity of
+this knapping method is focused on its intermediate nature, as something
+between the discoid method and the recurrent centripetal Levallois.
+However, at early Middle Palaeolithic sites, the identification of this
+method usually focuses on its shared features with the Levallois, as a
+method that preceded the gradual emergence of the Levallois. For
+example, Carmignani *et al.*
+([2017](#ref-carmignani_technological_2017)) used the term “centripetal
+with parallel planes”, noting the resemblance of some features to those
+of the Levallois at the sites of Payre and Bau de l’Aubesier. Soriano &
+Villa ([2017](#ref-soriano_early_2017)) at Guado San Nicola, used the
+term “non-Levallois debitage with hierarchised surfaces”, noting its
+similarity to the Levallois, but also its distinctiveness, due to the
+absence of preparation and management of convexities and the lack of
 platform preparation. For Cuesta de la Bajada Santonja *et al.*
 ([2016](#ref-santonja_coexistence_2016)) differentiate between Levallois
 cores and cores of centripetal character with preferential surfaces
-(which are simply referred as centripetal). Lombera-Hermida *et al.*
-([2020](#ref-de_lombera-hermida_dawn_2020)) cite the presence of
-“predetermined hierarchical centripetal” cores in different raw
-materials for TD10.1 at Atapuerca, and note their difference and
-coexistence with classical discoidal and Levallois knapping methods. The
+(which are simply referred to as centripetal). Lombera-Hermida *et al.*
+([2020](#ref-de_lombera-hermida_dawn_2020)) record the presence of
+“predetermined hierarchical centripetal’ cores in different raw
+materials in TD10.1 at Atapuerca, and note the differences to and
+coexistence with classical discoid and Levallois knapping methods. The
 use of terms alluding to the hierarchical and centripetal nature of this
-method is not limited to European sites, with the term “hierarchical
-bifacial centripetal” being employed for the oldowan industries of
-Peninj ([**article?**](#ref-article){de_la_torre_oldowan_2003).
+method is not limited to European sites; the term”hierarchical bifacial
+centripetal” was used to refer to the Oldowan industries of Peninj
+([Torre *et al.* 2003](#ref-de_la_torre_oldowan_2003)).
 
-The technological criteria for identifying production systems are highly
-visible on cores. However, a high degree of uncertainty remains in
-flakes since these technological criteria are less visible or they are
+The technological criteria for identifying production systems are
+clearly visible on cores. However, a high degree of uncertainty remains
+when examining flakes, as the technological criteria are less evident or
 absent ([Hovers 2009](#ref-hovers_lithic_2009)). Another underlying
 cause is the fluid and continuous nature of lithic knapping and
-reduction which can blur differences between apparent clear cut methods.
-Additionally, variations can result from adaptations to raw material
-(different knapping methods applied to different raw materials in a same
-archaeological level), raw material initial morphology, knappers
-expertise and learning process, or circumstantial events and
-restrictions. This adds up to an absence of discrete categories that are
-blurred by the underlying existence of a wide variety of lithic
-expressions. Attributing flakes to a knapping method usually remains a
-result of observed features compared with experimental collections,
-context given from knapping methods observed in the cores of the
-assemblage (although cores in an assemblage do not necessarily represent
-all knapping methods), and where the experience of the analyst has an
-important weight ([Hovers 2009](#ref-hovers_lithic_2009); [Perpère
+reduction which can blur differences between apparently clear-cut
+methods. Additionally, variations can result from adaptations to raw
+materials (different knapping methods applied to different raw materials
+in the same archaeological level), the initial morphology of the raw
+material, the knappers expertise and stage in the learning process
+and/or circumstantial events and restrictions. This adds up to an
+absence of discrete categories that are blurred by the underlying
+existence of a wide variety of lithic expressions. The attribution of
+flakes to a knapping method tends to be based on observed features
+compared with experimental collections, the context given from the
+knapping methods observed in the cores of the assemblage (although cores
+in an assemblage do not necessarily represent all knapping methods),
+and, importantly, the experience of the analyst. ([Hovers
+2009](#ref-hovers_lithic_2009); [Perpère
 1986](#ref-perpere_apport_1986); [Bisson
-2000](#ref-bisson_nineteenth_2000)). Perpère
-([1986](#ref-perpere_apport_1986); [1989](#ref-perpere_les_1989)) shows
-that when using a dual classification category of Levallois or
-non-Levallois there is a 30% disagreement between researchers. However,
-it is important to note that Perpère’s work
+2000](#ref-bisson_nineteenth_2000)) Perpère
+([1986](#ref-perpere_apport_1986); [1989](#ref-perpere_les_1989)) have
+illustrated that using a dual classification category of Levallois or
+non-Levallois results in 30% disagreement among researchers. However, it
+is important to note that Perpère’s work
 ([1986](#ref-perpere_apport_1986); [1989](#ref-perpere_les_1989))
 anticipates Boëda’s volumetric and technological criteria (Boëda
 ([1994](#ref-boeda_concept_1994)); Boëda
 ([1995b](#ref-dibble_levallois:_1995)); Boëda *et al.*
 ([1990](#ref-boeda_identification_1990))) which have contributed to
-decrease the disagreement in the identification of Levallois. Another
-example of classification discrepancy comes from the type counts of
-Dibble and Tuffreau for the site of Biache Saint-Bass, showing that
-Levallois flakes represent 46.08% of the assemblage in one list and
-27.29% in the other ([Dibble 1995](#ref-dibble_biache_1995)).  
-Thus, a good argument can be made for the difficulty of attributing
+decreasing the degree of disagreement in the identification of the
+Levallois. Another example of classification discrepancy comes from the
+type counts conducted by Dibble and Tuffreau at the Biache Saint-Bass
+site, in which Levallois flakes represented 46.08% of the assemblage in
+one list and 27.29% in the other ([Dibble
+1995](#ref-dibble_biache_1995)).
+
+Thus, a strong argument can be made for the difficulty of attributing
 knapping methods to flakes. This difficulty increases due to the
-existence of intermediate methods such as the Hierarchical Discoid whose
-technological characteristics fall between the Discoid sensu stricto and
-Levallois. The following work employs experimentally knapped products
-from Levallois, Discoid, and Hierarchical Discoid and a Machine Learning
-approach to address this problem. Results provide insights into the
-classification accuracy for each knapping method, variable importance,
-and directionality of confusions. The present study uses an experimental
-assemblage of flakes from Levallois (recurrent centripetal and
-preferential), along with Discoid and Hierarchcial Discoid to address
-this problem. Results provide insights into the classification accuracy
-for each knapping method, variable importance, and directionality of
-confusions between methods.
+existence of intermediate methods such as the hierarchical discoid,
+whose technological characteristics fall between the *sensu stricto*
+discoid and the Levallois. This work uses products experimentally
+knapped using the Levallois, discoid, and hierarchical discoid methods
+and a machine learning approach to address this problem. Our results
+provide insight into the classification accuracy for each knapping
+method, variable importance, and the directions of confusion between
+methods.
 
 ### 1.2 Introduction: loading packages and data
 
@@ -461,11 +466,11 @@ print(ML_Data[1:10, ncol(ML_Data)-5:ncol(ML_Data)])
 
 ## 2. Methods
 
-The present study uses attribute analysis on an experimental assemblage
-of flakes detached from Levallois, discoidal and Hierarchical Discoid
-reduction sequences. Supervised Machine Learning models are trained on
-the resulting dataset to identify the knapping method from which each
-flake was detached.
+An attribute analysis was performed on an experimental assemblage of
+flakes detached by means of the Levallois, discoid and hierarchical
+discoid reduction sequences. Supervised machine learning models were
+trained on the resulting dataset to identify the knapping method by
+which each flake was detached.
 
 ### 2.1 Experimental assemblage
 
@@ -1138,10 +1143,22 @@ SVMP.Performance %>%
   mutate(Class = c("Levallois", "Discoidal", "Hierar. Disc."))
 ```
 
-    ##           Sensitivity Specificity Precision        F1 Prevalence Balanced.Accuracy
-    ## Class: L    0.7827397   0.9115436 0.8125711 0.7973765  0.3288288         0.8471417
-    ## Class: D    0.6561039   0.8026207 0.6383624 0.6471116  0.3468468         0.7293623
-    ## Class: HD   0.5616667   0.7860000 0.5574855 0.5595683  0.3243243         0.6738333
+    ##           Sensitivity Specificity
+    ## Class: L    0.7827397   0.9115436
+    ## Class: D    0.6561039   0.8026207
+    ## Class: HD   0.5616667   0.7860000
+    ##           Precision        F1
+    ## Class: L  0.8125711 0.7973765
+    ## Class: D  0.6383624 0.6471116
+    ## Class: HD 0.5574855 0.5595683
+    ##           Prevalence
+    ## Class: L   0.3288288
+    ## Class: D   0.3468468
+    ## Class: HD  0.3243243
+    ##           Balanced.Accuracy
+    ## Class: L          0.8471417
+    ## Class: D          0.7293623
+    ## Class: HD         0.6738333
     ##                   Class
     ## Class: L      Levallois
     ## Class: D      Discoidal
@@ -1849,6 +1866,14 @@ opératoires lithiques du Paléolithique ancien et moyen, *Paléo*, 2:
 
 </div>
 
+<div id="ref-bordes_levalloisien_1953" class="csl-entry">
+
+Bordes, F. 1953, Levalloisien et Moustérien, *Bulletin de la Société
+préhistorique de France*, 50(4): 226–235.
+doi:[10.3406/bspf.1953.3035](https://doi.org/10.3406/bspf.1953.3035)
+
+</div>
+
 <div id="ref-bordes_mousterian_1961" class="csl-entry">
 
 Bordes, F. 1961a, Mousterian Cultures in France, *Science*, 134(3482):
@@ -1860,13 +1885,6 @@ Bordes, F. 1961a, Mousterian Cultures in France, *Science*, 134(3482):
 
 Bordes, F. 1961b, *Typologie du Paléolithique ancien et moyen*,
 Bordeaux, CNRS Editions.
-
-</div>
-
-<div id="ref-boucher_de_perthes_antiquites_1857" class="csl-entry">
-
-Boucher de Perthes, J. 1857, *Antiquités celtiques et antédiluviennes
-II*, Paris, France, Treuttel et Wurtz.
 
 </div>
 
@@ -2338,6 +2356,14 @@ doi:[doi.org/10.1016/j.jhevol.2019.102735](https://doi.org/doi.org/10.1016/j.jhe
 
 </div>
 
+<div id="ref-mortillet_prehistorique_1885" class="csl-entry">
+
+Mortillet, G. de 1885, *Le préhistorique. Antiquité de l’homme*,
+Deuxième Édition., París, Bibliothèque des Sciences Contemporaines., 658
+p.
+
+</div>
+
 <div id="ref-peresani_discoiou_2003" class="csl-entry">
 
 Mourre, V. 2003, Discoïde ou pas Discoïde? Réflexions sur la pertinence
@@ -2582,6 +2608,16 @@ highly mobile Middle Paleolithic groups?, *P@lethnology*, Varia.
 
 Tixier, J. & Turq, A. 1999, Kombewa et alii, *Paléo*, 11: 135–143.
 doi:[10.3406/pal.1999.1174](https://doi.org/10.3406/pal.1999.1174)
+
+</div>
+
+<div id="ref-de_la_torre_oldowan_2003" class="csl-entry">
+
+Torre, I. de la, Mora, R., Domı́nguez-Rodrigo, M., Luque, L. de & Alcalá,
+L. 2003, The Oldowan industry of Peninj and its bearing on the
+reconstruction of the technological skills of LowerPleistocene hominids,
+*Journal of Human Evolution*, 44(2): 203–224.
+doi:[10.1016/S0047-2484(02)00206-3](https://doi.org/10.1016/S0047-2484(02)00206-3)
 
 </div>
 
