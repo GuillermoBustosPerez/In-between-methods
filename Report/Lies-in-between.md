@@ -299,8 +299,8 @@ Levallois. Slimak ([1998](#ref-slimak_variabilite_1998);
 similarities of residual cores with recurrent centripetal Levallois
 debitage. At Estret de Tragó, Casanova i Martí et al.
 ([2009](#ref-casanova_i_marti_strategies_2009);
-[2014](#ref-casanova_debitage_2014)) ) noted the presence of products
-and knapping methods which shared features of the Levallois and discoid
+[2014](#ref-casanova_debitage_2014))) noted the presence of products and
+knapping methods which shared features of the Levallois and discoid
 methods, and proposed including the hierarchical discoid and Levallois
 recurrent centripetal strategies within a single hierarchical bifacial
 centripetal class. Peresani ([1998](#ref-peresani_variabilite_1998)) at
@@ -334,11 +334,11 @@ platform preparation. For Cuesta de la Bajada Santonja *et al.*
 cores and cores of centripetal character with preferential surfaces
 (which are simply referred to as centripetal). Lombera-Hermida *et al.*
 ([2020](#ref-de_lombera-hermida_dawn_2020)) record the presence of
-“predetermined hierarchical centripetal’ cores in different raw
+“predetermined hierarchical centripetal” cores in different raw
 materials in TD10.1 at Atapuerca, and note the differences to and
 coexistence with classical discoid and Levallois knapping methods. The
 use of terms alluding to the hierarchical and centripetal nature of this
-method is not limited to European sites; the term”hierarchical bifacial
+method is not limited to European sites; the term “hierarchical bifacial
 centripetal” was used to refer to the Oldowan industries of Peninj
 ([Torre *et al.* 2003](#ref-de_la_torre_oldowan_2003)).
 
@@ -1143,22 +1143,10 @@ SVMP.Performance %>%
   mutate(Class = c("Levallois", "Discoidal", "Hierar. Disc."))
 ```
 
-    ##           Sensitivity Specificity
-    ## Class: L    0.7827397   0.9115436
-    ## Class: D    0.6561039   0.8026207
-    ## Class: HD   0.5616667   0.7860000
-    ##           Precision        F1
-    ## Class: L  0.8125711 0.7973765
-    ## Class: D  0.6383624 0.6471116
-    ## Class: HD 0.5574855 0.5595683
-    ##           Prevalence
-    ## Class: L   0.3288288
-    ## Class: D   0.3468468
-    ## Class: HD  0.3243243
-    ##           Balanced.Accuracy
-    ## Class: L          0.8471417
-    ## Class: D          0.7293623
-    ## Class: HD         0.6738333
+    ##           Sensitivity Specificity Precision        F1 Prevalence Balanced.Accuracy
+    ## Class: L    0.7827397   0.9115436 0.8125711 0.7973765  0.3288288         0.8471417
+    ## Class: D    0.6561039   0.8026207 0.6383624 0.6471116  0.3468468         0.7293623
+    ## Class: HD   0.5616667   0.7860000 0.5574855 0.5595683  0.3243243         0.6738333
     ##                   Class
     ## Class: L      Levallois
     ## Class: D      Discoidal
@@ -2613,7 +2601,7 @@ doi:[10.3406/pal.1999.1174](https://doi.org/10.3406/pal.1999.1174)
 
 <div id="ref-de_la_torre_oldowan_2003" class="csl-entry">
 
-Torre, I. de la, Mora, R., Domı́nguez-Rodrigo, M., Luque, L. de & Alcalá,
+Torre, I. de la, Mora, R., Domínguez-Rodrigo, M., Luque, L. de & Alcalá,
 L. 2003, The Oldowan industry of Peninj and its bearing on the
 reconstruction of the technological skills of LowerPleistocene hominids,
 *Journal of Human Evolution*, 44(2): 203–224.
