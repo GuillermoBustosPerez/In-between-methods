@@ -475,33 +475,34 @@ which each flake was detached.
 ### 2.1 Experimental assemblage
 
 The experimental assemblage consists of 222 experimentally knapped
-flakes belonging to Levallois, discoidal and Hierarchical Discoid
-reduction sequences. The experimental assemblage was knapped by two of
-the authors (JB and GBP). One of the authors (JB) is considered a high
-level expert while the second (GBP) is considered an intermediate-high
-knapper. Levallois ([Boëda 1993](#ref-boeda_debitage_1993);
-[1994](#ref-boeda_concept_1994); [1995b](#ref-dibble_levallois:_1995);
-[Boëda *et al.* 1990](#ref-boeda_identification_1990)) products belong
-to the preferential and recurrent centripetal modalities. Hierarchical
-Discoid cores were knapped following previous technological
-descriptions, avoiding platform preparation, with centripetal direction
-of scars (although some opportunistic preferential flakes were
-obtained), and absence of deliberate management of convexities.
-Discoidal ([Boëda 1993](#ref-boeda_debitage_1993); [Thiébaut
+products resulting from Levallois, discoid and hierarchical discoid
+reduction sequences. It was knapped by two of the authors (JB and GBP),
+one of the whom (JB) is considered a high-level expert, while the second
+(GBP) is considered an intermediate-high knapper. The Levallois ([Boëda
+1993](#ref-boeda_debitage_1993); [1994](#ref-boeda_concept_1994);
+[1995b](#ref-dibble_levallois:_1995); [Boëda *et al.*
+1990](#ref-boeda_identification_1990)) products belonged to the
+preferential and recurrent centripetal modalities. The hierarchical
+discoid cores were knapped in accordance with previous technological
+descriptions, with no platform preparation, with centripetal scar
+direction (although some opportunistic preferential flakes were
+obtained), and without deliberate management of convexities. The
+discoid. The discoid ([Boëda 1993](#ref-boeda_debitage_1993); [Thiébaut
 2013](#ref-thiebaut_discoid_2013); [Terradas
-2003](#ref-terradas_discoid_2003)) products belong to the *sensu
-stricto* conceptualization were bifacial knapping of both surfaces is
-undertaken. For Levallois and Hierarchical Discoid only products from
-the *debitage* surface are included (flakes detached from the percussion
-surface were removed of analysis). Discoid alternates the role of
-percussion and debitage surface and thus, all products were included. In
-the three cases products from all stages of reduction are included
-(decortication, management of convexities, full production). To be sure
-of the surface to which each flake belonged and the completeness of each
-sequence, during the knapping sequence products were separated
-accordingly and when it was not possible all cores and flakes were
-refitted. Only complete products are included and all knapping sequences
-were done on different types of flint.
+2003](#ref-terradas_discoid_2003)) products belonged to the *sensu
+stricto* conceptualisation in which both surfaces are bifacially
+knapped. With the Levallois and hierarchical discoid methods, only
+products from the debitage surface were included (flakes detached from
+the percussion surface were excluded from analysis). Because discoid
+knapping alternates the role of the percussion and debitage surfaces,
+all products were included. In all three cases, products from all stages
+of reduction were included (decortication, management of convexities,
+full production). To be sure of the surface to which each flake belonged
+and the completeness of each sequence, products were separated
+accordingly during the knapping sequence and, when that was not
+possible, cores and flakes were refitted. Only complete products were
+included, and all of the knapping sequences were carried out on
+different types of flint.
 
 ![Experimental cores from which flakes included in the present study
 were detached. Their technological defining features are
@@ -514,25 +515,25 @@ from Hierarchical Discoid reduction sequences. (Photographs by M. D.
 Guillén)](Article%20Figures/Experimental%20materials.jpg)
 
 As previously noticed ([Eren *et al.* 2008](#ref-eren_are_2008)), the
-Discoid production system is the most productive with the highest number
-of flakes for the lowest number of cores. Flake counts of Levallois and
-Hierarchical Discoid are similar per core and lower than those from
-Discoid cores. This is expected since only flakes from the production
-surface are included. It is important to notice that this results in a
-very well balanced dataset were the sum of products from each of the
-three classes is close to the 33.33%. Cortex amount shows similar
-distribution according to knapping method (Figure 5). In all cases, the
-sum of non-cortical flakes and flakes with residual cortex are similarly
-distributed among the three knapping strategies and make up the majority
-of flakes (near 60% in the three categories). Visual exploratory
-analysis of the assemblage using a scatter plot with Bagolini’s
-categories ([Bagolini 1968](#ref-bagolini_ricerche_1968)) shows that
-most of the flakes fall into the “normal” and “big” size categories,
-with flakes from Hierarchical Discoid being slightly bigger than flakes
-from discoidal and Levallois reduction sequences. Additionally, when
-considering the relation between length and width, most of the flakes
-from the three methods fall into “elongated flakes”, “normal flakes” and
-“wide flakes” categories.
+discoid system was the most productive, generating the highest number of
+flakes with the lowest number of cores. The flake counts for the
+Levallois and hierarchical discoid methods were similar per core and
+lower than those from the discoid cores. This was expected since only
+flakes from the production surface were included. It is important to
+note that this resulted in a very well-balanced dataset in which the sum
+of the products from each of the three classes was close to 33.33%. The
+distribution of the amount of cortex was similar across the knapping
+methods studied. In all cases, the sum of non-cortical flakes and flakes
+with residual cortex were similarly distributed among the three knapping
+strategies and made up the majority of flakes (near 60% in all three
+categories). A visual exploratory analysis of the assemblage using a
+scatter plot with Bagolini’s categories ([Bagolini
+1968](#ref-bagolini_ricerche_1968)) showed that most of the flakes fall
+into the ‘normal’ and ‘big’ size categories, with hierarchical discoid
+flakes being slightly larger than flakes produced by means of discoid or
+Levallois reduction sequences. Additionally, most of the flakes from all
+three methods fall into the categories of ‘elongated flakes’, ‘normal
+flakes’ and ‘wide flakes’ in terms of their length to width ratios.
 
 ``` r
 # Get number of cores and flakes (and their percentage) per class
@@ -646,24 +647,25 @@ ML_Data %>%
 
 ### 2.2 Attribute analysis
 
-Attribute analysis was performed for each flake recording the following
-variables and calculating the following indexes. Measures have been
-recorded in mm. Some of the measures recorded are employed for the
+Attribute analyses were performed for each flake. The variables and
+indexes listed below were recorded and calculated. Measurements were
+recorded in mm. Some of the measurements recorded were used in the
 calculation of additional variables. For example, angle height and
-maximum flake length are employed to calculate flake curvature, measures
-of width (at 25% and 75% length) are employed to calculate the angle of
-the lateral margins, and measures of thickness are employed to calculate
-average and standard deviation of thickness. Other variables, such as
-technological length and width (or the above mentioned measures of
-width) are also employed to calculate ratios (elongation and carenated
-index), but their use would introduce a size dependence factor in the
-training of the models. Thus, variables employed in Machine Learning
-model training are outlined in bold.
+maximum flake length were used to calculate flake curvature; width
+measurements (at 25% and 75% length) were used to calculate the angle of
+the lateral margins; and thickness measurements were used to calculate
+the average and standard deviation of thickness. Other variables, such
+as technological length and width (or the above-mentioned width
+measurements) were also used to calculate ratios (the elongation and
+carination index), but their use would introduce a size dependence
+factor in the training of the models. Therefore, the variables employed
+in the machine learning model training are underlined. The variables
+considered were:
 
 - Degree of fracture ([Hiscock 2002](#ref-hiscock_quantifying_2002)):
   complete, proximal fragment, mesial fragment, distal fragment,
-  marginal fragment and longitudinal fragment. Only complete flakes have
-  been further analyzed.  
+  marginal fragment and longitudinal fragment. Only complete flakes were
+  further analysed.  
 - Technological length: measured along the axis perpendicular to the
   striking platform ([Andrefsky 2005](#ref-barker_lithics_2005)).  
 - Technological width: measured along the axis perpendicular to the
@@ -684,28 +686,27 @@ model training are outlined in bold.
   thickness.  
 - **Standard deviation of thickness**.  
 - Angle height ([Andrefsky 2005](#ref-barker_lithics_2005)): the height
-  of the flake including its curvature as it can be seen in Figure 6.  
-- Geometric morphology of the platform following Muller & Clarkson
+  of the flake including its curvature.  
+- Geometric morphology of the platform as per Muller & Clarkson
   ([2016](#ref-muller_new_2016)): rectangle, triangle, rhombus,
-  trapezoid, and ellipse (Figure 5).  
-- Measurement “x”, “y” and “z” of the platform (Figure 5) following
-  previous geometric morphologies ([Muller & Clarkson
+  trapezoid, and ellipse.  
+- Measurement “x”, “y” and “z” of the platform according to previous
+  geometric morphologies ([Muller & Clarkson
   2016](#ref-muller_new_2016)).  
 - **Platform surface**: calculated using previous geometric morphologies
-  and measurements of “x”, “y” and “z” following Muller & Clarkson
+  and measurements of x, y and z as in Muller & Clarkson
   ([2016](#ref-muller_new_2016)).  
-- **Platform depth**: which can correspond to the measurement of “y” or
-  “z” depending on the geometric morphology of the platform (Figure
-  5).  
-- **Platform width**: which can correspond to the measurement of “x” or
-  “y” depending on the geometric morphology of the platform (Figure 5).
+- **Platform depth**: which can correspond to the measurement of y or z
+  depending on the geometric morphology of the platform.  
+- **Platform width**: which can correspond to the measurement of x or y
+  depending on the geometric morphology of the platform.
 
-![Geometric morphologies employed to measure platform surface, depth and
-width following Muller & Clarkson
-([2016](#ref-muller_new_2016))](Article%20Figures/Platform%20Measures.png)
+![Left: common measures and attributes taken for the analysis of a
+flake. Right: calculation of flake curvature following Andrefsky
+([2005](#ref-barker_lithics_2005))](Article%20Figures/Measures.png)
 
 - **Profile of the platform**: absence of platform, concave, straight,
-  convex, biangular and “chapeau de gendarme”.  
+  convex, biangular and *chapeau de gendarme*.  
 - **Preparation of the platform**: no platform, cortical, plain,
   dihedral, a pans and prepared (facetted).  
 - **External Platform Angle (EPA)** measured in degrees with a manual
@@ -733,142 +734,150 @@ width following Muller & Clarkson
   following Cotterell & Kamminga
   ([1987](#ref-cotterell_formation_1987)).
 
-![Left: common measures and attributes taken for the analysis of a
-flake. Right: calculation of flake curvature following Andrefsky
-([2005](#ref-barker_lithics_2005))](Article%20Figures/Measures.png)
+![Geometric morphologies employed to measure platform surface, depth and
+width following Muller & Clarkson
+([2016](#ref-muller_new_2016))](Article%20Figures/Platform%20Measures.png)
 
 - **Simplified technological category of flakes**: flake, backed flake
   (including core edge flake), and pseudo-Levallois point.  
 - Weight in grams (precision of 0.01).  
-- **Elongation index**: dividing technological length by technological
-  width ([Laplace 1968](#ref-laplace_recherches_1968)).  
-- **Carenated index**: dividing length or width (the one with the lowest
-  value) by the maximum thicknesses ([Laplace
+- **Elongation index**: the quotient of technological length divided by
+  technological width ([Laplace 1968](#ref-laplace_recherches_1968)).  
+- **Carenated index**: the quotient of length or width (the one with the
+  lowest value) divided by the maximum thicknesses ([Laplace
   1968](#ref-laplace_recherches_1968)).  
 - **Angle of the lateral margins**: describes the relationship between
   the two lateral edges of a flake. Flakes with expanding edges (wider
-  in the distal part) will have negative values, contracting/pointed
-  (wider in the proximal part than in the distal part) artifacts will
-  have positive values, and rectangular artifacts (similar proximal and
-  distal width) will have near 0 values ([Clarkson
-  2007](#ref-clarkson_lithics_2007)).  
-- **Flake curvature**: measured in degrees and calculated following
-  Andrefsky ([2005](#ref-barker_lithics_2005)) as it can be seen in
-  Figure 6. Flakes presenting a 180º curvature are perfectly straight
-  flakes, while decreasing values indicate an increase in curvature.  
-- **Surface area of the flake**: multiplying flake technological width
-  and length ([Dibble 1989](#ref-mellars_implications_1989)).  
+  in the distal part) will have negative values, contracting or pointed
+  (wider in the proximal part than in the distal part) artefacts will
+  have positive values, and rectangular artefacts (similar proximal and
+  distal width) will have values near 0 ([Clarkson
+  2007](#ref-clarkson_lithics_2007): 37). The angle of the lateral
+  margins is calculated by multiplying by two the value of the reverse
+  tangent of proximal width minus distal with, and dividing the result
+  by two times the maximum length ([Clarkson
+  2007](#ref-clarkson_lithics_2007): 38)  
+- **Flake curvature**: measured in degrees and calculated as described
+  in Andrefsky ([2005](#ref-barker_lithics_2005)). Flakes presenting a
+  180º curvature are perfectly straight flakes, while decreasing values
+  indicate an increase in curvature.  
+- **Surface area of the flake**: the product of flake technological
+  width multiplied by its length ([Dibble
+  1989](#ref-mellars_implications_1989)).  
 - **Ratio of surface area against thickness**: surface area of the flake
   divided by average thickness.  
-- **Ratio of surface area against platform surface**: dividing surface
-  area by platform area.
+- **Ratio of surface area against platform surface**: the quotient of
+  the surface area divided by platform area.
 
 ### 2.3 Machine learning models
 
-The following ten Machine Learning models have been tested for
-differentiating between backed flakes extracted from the two surfaces of
-the core within each knapping method:
+The following ten machine learning models were tested for their ability
+to differentiate between backed flakes extracted from the two surfaces
+of the core using each knapping method:
 
-- **Linear Discriminant Analysis (LDA)**: reduces dimensionality aiming
-  to maximize separation between classes while decision boundaries
-  divide the predictor range into regions ([Fisher
+- **Linear Discriminant Analysis (LDA)**: reduces dimensionality for the
+  purpose of maximising the separation between classes while decision
+  boundaries divide the predictor range into regions ([Fisher
   1936](#ref-fisher_use_1936); [James *et al.*
   2013](#ref-james_introduction_2013)).  
 - **K-nearest neighbor (KNN)**: classifies cases by assigning the class
-  of similar known cases. The “k” in KNN references the number of cases
-  (neighbors) to consider when assigning a class and it must be found by
-  testing different values. Given that KNN uses distance metrics to
-  compute nearest neighbors and that each variable is in different
-  scales, it is necessary to scale and center the data prior to fitting
-  the model ([Cover & Hart 1967](#ref-cover_nearest_1967); [Lantz
+  of similar known cases. The ‘k’ in KNN refers to the number of cases
+  (neighbours) to consider when assigning a class, which must be found
+  by testing different values. Given that KNN uses distance metrics to
+  compute nearest neighbours and that each variable is in different
+  scales, the data must be scaled and centred prior to fitting the model
+  ([Cover & Hart 1967](#ref-cover_nearest_1967); [Lantz
   2019](#ref-lantz_machine_2019)).  
-- **Logistic Regression**: essentially adapts continuous regression
+- **Logistic Regression**: eessentially adapts continuous regression
   predictions to categorical outcomes ([Cramer
   2004](#ref-cramer_early_2004); [Walker & Duncan
   1967](#ref-walker_estimation_1967)).  
-- **Decision tree with C5.0 algorithm**: is an improvement on decision
-  trees for classification ([Quinlan 1996](#ref-quinlan_improved_1996);
-  [Quinlan 2014](#ref-quinlan_c4_2014)).  
-- **Random Forest**: are made of decision trees. Each tree is grown from
-  a random sample of the data and variables, allowing for each tree to
+- **Decision tree with C5.0 algorithm**: algorithm: an improvement on
+  decision trees for classification ([Quinlan
+  1996](#ref-quinlan_improved_1996); [Quinlan
+  2014](#ref-quinlan_c4_2014)).  
+- **Random Forest**: made of decision trees. Each tree is grown from a
+  random sample of the data and variables, allowing for each tree to
   grow differently and to better reflect the complexity of the data
   ([Breiman 2001](#ref-breiman_random_2001)).  
 - **Generalized Boosted Model** ([Greenwell *et al.*
   2019](#ref-greenwell_package_2019); [Ridgeway
-  2007](#ref-ridgeway_generalized_2007)) which implements gradient
-  boosted machine ([Friedman 2001](#ref-friedman_greedy_2001); [Friedman
-  2002](#ref-friedman_stochastic_2002)) allowing to detect learning
-  deficiencies and increase model accuracy for a set of random
+  2007](#ref-ridgeway_generalized_2007)) implements the gradient boosted
+  machine ([Friedman 2001](#ref-friedman_greedy_2001); [Friedman
+  2002](#ref-friedman_stochastic_2002)) making it possible to detect
+  learning deficiencies and increase model accuracy for a set of random
   forests.  
 - **Supported Vector Machines (SVM)**: fit hyperplanes into a
   multidimensional space with the objective of creating homogeneous
   partitions ([Cortes & Vapnik 1995](#ref-cortes_support-vector_1995);
   [Frey & Slate 1991](#ref-frey_letter_1991)). The present study tests
   SVM with linear, radial and polynomial kernels.  
-- **Artificial Neural Network (ANN)** with multi-layer perception which
+- **Artificial Neural Network (ANN)** with multi-layer perception, it
   uses a series of hidden layers and error backpropagation for model
   training ([Rumelhart *et al.* 1986](#ref-rumelhart_learning_1986)).
 
 ### 2.4 Machine learning evaluation
 
-Evaluation of all models is done through a 10x50 k-fold cross validation
-(10 folds and 50 cycles). Accuracy and Area Under the Curve (AUC) are
-employed as measures of overall performance for the selection of the
-best model. Accuracy provides a measure of correct predictions by the
-model against the overall cases provided to the model and can range from
-0 to 1. The accuracy of a random classifier is 1/k (being k the number
-of classes). Thus, for the present study, the random classifier has an
-accuracy of 0.33.  
-The AUC is a measure of performance derived from the Receiver Operating
-Characteristic (ROC) curve. ROC curve is employed to evaluate the ratio
+All models were evaluated by means of a 10x50 k-fold cross validation
+(10 folds and 50 cycles). Accuracy and area under the curve (AUC) were
+used as measurements of overall performance for the selection of the
+best model. ‘Accuracy’ measures the model’s correct predictions against
+the overall cases provided to the model and can range from 0 to 1. The
+accuracy of a random classifier is 1/k (k being the number of classes).
+For the present study, the random classifier had an accuracy of 0.33.
+
+The AUC is a measure of performance derived from the receiver operating
+characteristic (ROC) curve. The ROC curve is used to evaluate the ratio
 of detected true positives while avoiding false positives ([Bradley
 1997](#ref-bradley_use_1997); [Spackman
-1989](#ref-spackman_signal_1989)). The ROC curve allows visually
-analyzing model performance and calculating the AUC, which ranges from 1
-(perfect classifier) to 0.5 (random classifier). Commonly, ROC and AUC
-are employed for two-class problems and their extension to multiclass
-problems is usually done through pairwise analysis. While for the AUC it
-implies obtaining the mean of several AUC’s ([Hand & Till
-2001](#ref-hand_simple_2001); [Robin *et al.*
-2011](#ref-robin_proc_2011)), for the ROC curve it implies plotting
-several “one versus all” curves. The present study tests ten different
-models on a three class classification problem which would imply a total
-of 30 different ROC curves (10 per class). For the present study only
-the three ROC curves of the best model are provided.
+1989](#ref-spackman_signal_1989)). The ROC curve makes it possible to
+visually analyse model performance and calculate the AUC, which ranges
+from 1 (perfect classifier) to 0.5 (random classifier). The ROC and AUC
+are commonly applied in two-class problems and their extension to
+multiclass problems is usually done through pairwise analysis. In the
+case of the ROC curve, individual curves of each class are plotted using
+the previously mentioned “one vs all” approach. The present study tested
+10 different models with a three-class classification problem which
+would involve a total of 30 different ROC curves (10 per class in each
+model). In this paper, we have provided only the three ROC curves of the
+best model.
 
-AUC ranges of values are usually interpreted as follows: 1 to 0.9:
+The AUC ranges of values are usually interpreted as follows: 1 to 0.9:
 outstanding; 0.9 to 0.8: excellent or good; 0.8 to 0.7: acceptable or
 fair; 0.7 to 0.6: poor; and 0.6 to 0.5: no discrimination ([Lantz
-2019](#ref-lantz_machine_2019)). When analyzing lithic materials, the
+2019](#ref-lantz_machine_2019)). When analysing lithic materials, the
 use of thresholds to guarantee true positives and avoid false positives
 is of special interest. The use of decision thresholds and derived
 measures of accuracy (ROC curve and AUC) can be especially useful in
 lithic analysis since it is expected that products from initial
-reduction stages are morphologically similar independent of the knapping
-method. It is expected that these products show a higher mixture between
-methods and have lower probability values. The use of thresholds better
-indicates the accuracy of a model taking into account these probability
+reduction stages are morphologically similar, independent of the
+knapping method. These products are expected to show a greater mixture
+between methods and have lower probability values. The use of thresholds
+better indicates the accuracy of a model considering these probability
 values.
 
-The development of the present study was done using R version 4.1.1 in
-IDE RStudio version 2021.09.0 ([R. C. Team
-2019](#ref-r_core_team_r_2019); [Rs. Team
-2019](#ref-rstudio_team_rstudio_2019)). The management of the data and
-graphs was done using the tidyverse package ([Wickham *et al.*
-2019](#ref-wickham_welcome_2019)). The training of LDA and KNN was done
-with MASS ([Venables & Ripley 2002](#ref-venables_modern_2002)). The
-training of random forest was done using the “ranger” package ([Wright &
-Ziegler 2017](#ref-wright_ranger_2017)). The training of SVM was done
-using the e1071 package ([Karatzoglou *et al.*
+This study was conducted using an R version 4.1.1 in IDE RStudio version
+2021.09.0 ([R. C. Team 2019](#ref-r_core_team_r_2019); [Rs. Team
+2019](#ref-rstudio_team_rstudio_2019)). The data and graphs were managed
+using the tidyverse v.1.3.2 package ([Wickham *et al.*
+2019](#ref-wickham_welcome_2019)). The LDA and KNN were trained with the
+MASS (Modern Applied Statistics with S) v.7.3.58.1 package ([Venables &
+Ripley 2002](#ref-venables_modern_2002)). The random forest was trained
+using the ranger v.0.14.1 package ([Wright & Ziegler
+2017](#ref-wright_ranger_2017)). The SVM was trained using the e1071
+v.1.7.12 package ([Karatzoglou *et al.*
 2006](#ref-karatzoglou_support_2006); [Karatzoglou *et al.*
-2004](#ref-karatzoglou_kernlab_2004)). The RSNNS ([Bergmeir & Benítez
-2012](#ref-bergmeir_neural_2012)) package was employed to train
-multi-layer ANN with backpropagation. The k-fold cross validation of all
-models, precision metrics, and confusion matrix were obtained using the
-caret package ([Kuhn 2008](#ref-kuhn_building_2008)). Machine learning
-models also provide insights into variable importance for
-classification. The caret package was employed to extract variable
-importance after each k-fold cross validation.
+2004](#ref-karatzoglou_kernlab_2004)). The RSNNS v.0.4.14 (Stuttgart
+Neural Network Simulator) package ([Bergmeir & Benítez
+2012](#ref-bergmeir_neural_2012)) was used to train the multi-layer ANN
+with backpropagation. The k-fold cross validation of all models,
+precision metrics, and confusion matrix were obtained using the caret
+v.6.0.93 package ([Kuhn 2008](#ref-kuhn_building_2008)). Machine
+learning models also provide insights into variable importance for
+classification. The caret package was used to extract variable
+importance after each k-fold cross validation (see supplementary
+information). ROC curves and AUC values are obtained using the package
+pROC v.1.18.0 ([Robin *et al.* 2011](#ref-robin_proc_2011)).
 
 #### 2.4.1 Preprocessing for model training
 
@@ -1387,6 +1396,9 @@ tibble(
     strip.text = element_text(color = "black", face = "bold", size = 9),
     strip.background = element_rect(fill = "white", colour = "black", size = 1))
 ```
+
+    ## Warning: The `size` argument of `element_rect()` is deprecated as of ggplot2 3.4.0.
+    ## ℹ Please use the `linewidth` argument instead.
 
 ![](H:\02CAMP~1\03ARTI~1\00GITH~1\2022~1.04I\IN-BET~1\Report\LIES-I~1/figure-gfm/Variable%20importance-1.png)<!-- -->
 
@@ -2168,14 +2180,6 @@ Grimaldi, S. & Santaniello, F. 2014, New insights into Final Mousterian
 lithic production in western Italy, *Quaternary International*, 350:
 116–129.
 doi:[10.1016/j.quaint.2014.03.057](https://doi.org/10.1016/j.quaint.2014.03.057)
-
-</div>
-
-<div id="ref-hand_simple_2001" class="csl-entry">
-
-Hand, D.J. & Till, R.J. 2001, A simple generalisation of the area under
-the ROC curve for multiple class classification problems, *Machine
-learning*, 45(2): 171–186. doi:<https://doi.org/10.1023/A:1010920819831>
 
 </div>
 
