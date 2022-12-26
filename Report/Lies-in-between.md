@@ -1708,7 +1708,7 @@ opératoire and assemblage context should be considered prior to the
 application of machine learning models for the identification of
 knapping methods.
 
-## 5.1 Conclusions
+## 5. Conclusions
 
 The present study used attribute analysis to identify three knapping
 methods (Levallois, discoid, and hierarchical discoid) in flakes
