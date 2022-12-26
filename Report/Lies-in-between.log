@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.25)  26 DEC 2022 12:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.25)  26 DEC 2022 19:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -804,57 +804,61 @@ Underfull \vbox (badness 10000) detected at line 1419
 <H:/02CAMP~1/03ARTI~1/00GITH~1/2022~1.04I/IN-BET~1/Report/LIES-I~1/figure-latex/ROC and AUC of each class-1.pdf, id=488, 469.755pt x 325.215pt>
 File: H:/02CAMP~1/03ARTI~1/00GITH~1/2022~1.04I/IN-BET~1/Report/LIES-I~1/figure-latex/ROC and AUC of each class-1.pdf Graphic file (type pdf)
 <use H:/02CAMP~1/03ARTI~1/00GITH~1/2022~1.04I/IN-BET~1/Report/LIES-I~1/figure-latex/ROC and AUC of each class-1.pdf>
-Package pdftex.def Info: H:/02CAMP~1/03ARTI~1/00GITH~1/2022~1.04I/IN-BET~1/Report/LIES-I~1/figure-latex/ROC and AUC of each class-1.pdf  used on input line 1585.
+Package pdftex.def Info: H:/02CAMP~1/03ARTI~1/00GITH~1/2022~1.04I/IN-BET~1/Report/LIES-I~1/figure-latex/ROC and AUC of each class-1.pdf  used on input line 1586.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
 
 LaTeX Font Warning: Font shape `T1/lmtt/bx/it' in size <10> not available
-(Font)              Font shape `T1/lmtt/b/sl' tried instead on input line 1589.
+(Font)              Font shape `T1/lmtt/b/sl' tried instead on input line 1590.
 
 [24 <h:/02 CAMPOS PROPIOS ARQUEO/03 ARTICLES/00 Github Articles/2022.04 In Between/In-between-methods/Report/Lies-in-between_files/figure-latex/ROC and AUC of each class-1.pdf>]
 <H:/02CAMP~1/03ARTI~1/00GITH~1/2022~1.04I/IN-BET~1/Report/LIES-I~1/figure-latex/Confusion Matrix-1.pdf, id=500, 469.755pt x 325.215pt>
 File: H:/02CAMP~1/03ARTI~1/00GITH~1/2022~1.04I/IN-BET~1/Report/LIES-I~1/figure-latex/Confusion Matrix-1.pdf Graphic file (type pdf)
 <use H:/02CAMP~1/03ARTI~1/00GITH~1/2022~1.04I/IN-BET~1/Report/LIES-I~1/figure-latex/Confusion Matrix-1.pdf>
-Package pdftex.def Info: H:/02CAMP~1/03ARTI~1/00GITH~1/2022~1.04I/IN-BET~1/Report/LIES-I~1/figure-latex/Confusion Matrix-1.pdf  used on input line 1629.
+Package pdftex.def Info: H:/02CAMP~1/03ARTI~1/00GITH~1/2022~1.04I/IN-BET~1/Report/LIES-I~1/figure-latex/Confusion Matrix-1.pdf  used on input line 1630.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
-[25] [26 <h:/02 CAMPOS PROPIOS ARQUEO/03 ARTICLES/00 Github Articles/2022.04 In Between/In-between-methods/Report/Lies-in-between_files/figure-latex/Confusion Matrix-1.pdf>] [27]
+[25] [26 <h:/02 CAMPOS PROPIOS ARQUEO/03 ARTICLES/00 Github Articles/2022.04 In Between/In-between-methods/Report/Lies-in-between_files/figure-latex/Confusion Matrix-1.pdf>]
+Overfull \vbox (1.7877pt too high) detected at line 1747
+ []
+
+[27]
 <H:/02CAMP~1/03ARTI~1/00GITH~1/2022~1.04I/IN-BET~1/Report/LIES-I~1/figure-latex/Variable importance-1.pdf, id=523, 469.755pt x 325.215pt>
 File: H:/02CAMP~1/03ARTI~1/00GITH~1/2022~1.04I/IN-BET~1/Report/LIES-I~1/figure-latex/Variable importance-1.pdf Graphic file (type pdf)
 <use H:/02CAMP~1/03ARTI~1/00GITH~1/2022~1.04I/IN-BET~1/Report/LIES-I~1/figure-latex/Variable importance-1.pdf>
-Package pdftex.def Info: H:/02CAMP~1/03ARTI~1/00GITH~1/2022~1.04I/IN-BET~1/Report/LIES-I~1/figure-latex/Variable importance-1.pdf  used on input line 1747.
+Package pdftex.def Info: H:/02CAMP~1/03ARTI~1/00GITH~1/2022~1.04I/IN-BET~1/Report/LIES-I~1/figure-latex/Variable importance-1.pdf  used on input line 1749.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
 [28 <h:/02 CAMPOS PROPIOS ARQUEO/03 ARTICLES/00 Github Articles/2022.04 In Between/In-between-methods/Report/Lies-in-between_files/figure-latex/Variable importance-1.pdf>]
 <H:/02CAMP~1/03ARTI~1/00GITH~1/2022~1.04I/IN-BET~1/Report/LIES-I~1/figure-latex/Cortex and class probabilities-1.pdf, id=534, 469.755pt x 325.215pt>
 File: H:/02CAMP~1/03ARTI~1/00GITH~1/2022~1.04I/IN-BET~1/Report/LIES-I~1/figure-latex/Cortex and class probabilities-1.pdf Graphic file (type pdf)
 <use H:/02CAMP~1/03ARTI~1/00GITH~1/2022~1.04I/IN-BET~1/Report/LIES-I~1/figure-latex/Cortex and class probabilities-1.pdf>
-Package pdftex.def Info: H:/02CAMP~1/03ARTI~1/00GITH~1/2022~1.04I/IN-BET~1/Report/LIES-I~1/figure-latex/Cortex and class probabilities-1.pdf  used on input line 1819.
+Package pdftex.def Info: H:/02CAMP~1/03ARTI~1/00GITH~1/2022~1.04I/IN-BET~1/Report/LIES-I~1/figure-latex/Cortex and class probabilities-1.pdf  used on input line 1822.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
 [29] [30 <h:/02 CAMPOS PROPIOS ARQUEO/03 ARTICLES/00 Github Articles/2022.04 In Between/In-between-methods/Report/Lies-in-between_files/figure-latex/Cortex and class probabilities-1.pdf>] [31] [32]
-Underfull \hbox (badness 1496) in paragraph at lines 2152--2156
+Underfull \hbox (badness 1496) in paragraph at lines 2161--2165
 []\T1/lmr/m/n/10 Bagolini, B. 1968, Ricerche sulle di-men-sioni dei man-u-fatti litici preis-torici non ri-toc-cati, \T1/lmr/m/it/10 An-nali
  []
 
 [33]
-Underfull \hbox (badness 1142) in paragraph at lines 2246--2253
+Underfull \hbox (badness 1142) in paragraph at lines 2255--2262
 \T1/lmr/m/n/10 ucts at the Bau de l'Aubesier and Payre (South-East France), \T1/lmr/m/it/10 PLoS ONE\T1/lmr/m/n/10 , 12(6): e0178550.
  []
 
 [34] [35] [36] [37] [38] (./Lies-in-between.aux)
 Package rerunfilecheck Info: File `Lies-in-between.out' has not changed.
-(rerunfilecheck)             Checksum: CDF1452554E695A68B1715B93CB18656;1963.
+(rerunfilecheck)             Checksum: 5315078325DA9540DA84A584C5254C98;1869.
  ) 
 Here is how much of TeX's memory you used:
  11987 strings out of 478053
- 196079 string characters out of 5838979
+ 196045 string characters out of 5838979
  1877787 words of memory out of 5000000
  31704 multiletter control sequences out of 15000+600000
  558091 words of font info for 76 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,6n,77p,546b,524s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}<c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi7.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtk10.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtko10.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb><c:/Users/Guillermo/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtti10.pfb>
-Output written on Lies-in-between.pdf (38 pages, 18951834 bytes).
+Output written on Lies-in-between.pdf (38 pages, 18951975 bytes).
 PDF statistics:
- 820 PDF objects out of 1000 (max. 8388607)
- 720 compressed objects within 8 object streams
+ 818 PDF objects out of 1000 (max. 8388607)
+ 718 compressed objects within 8 object streams
  193 named destinations out of 1000 (max. 500000)
  157 words of extra memory for PDF output out of 10000 (max. 10000000)
 
