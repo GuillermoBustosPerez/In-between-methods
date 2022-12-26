@@ -1399,9 +1399,6 @@ tibble(
     strip.background = element_rect(fill = "white", colour = "black", size = 1))
 ```
 
-    ## Warning: The `size` argument of `element_rect()` is deprecated as of ggplot2 3.4.0.
-    ## ℹ Please use the `linewidth` argument instead.
-
 ![](H:\02CAMP~1\03ARTI~1\00GITH~1\2022~1.04I\IN-BET~1\Report\LIES-I~1/figure-gfm/Variable%20importance-1.png)<!-- -->
 
 The analysis of class probabilities based on the reduction sequence and
@@ -2508,9 +2505,10 @@ representations by back-propagating errors, *Nature*, 323(6088):
 <div id="ref-santonja_coexistence_2016" class="csl-entry">
 
 Santonja, M., Pérez-González, A., Panera, J., Rubio-Jara, S. &
-Méndez-Quintas, E. 2016, The coexistence of Acheulean and Ancient Middle
-Palaeolithic techno-complexes in the Middle Pleistocene of the Iberian
-Peninsula, *Quaternary International*, 411: 367–377.
+Méndez-Quintas, E. 2016, The coexistence of acheulean and ancient middle
+palaeolithic techno-complexes in the middle pleistocene of the iberian
+peninsula, *Quaternary International*, 411: 367–377.
+doi:[10.1016/j.quaint.2015.04.056](https://doi.org/10.1016/j.quaint.2015.04.056)
 
 </div>
 

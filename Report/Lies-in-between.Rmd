@@ -1,6 +1,6 @@
 ---
 title: 'What lies in between: Levallois, discoid and intermediate methods'
-author: "Guillermo Bustos-Pérez"
+author: "Guillermo Bustos-Pérez $^{1,2,3}$, Javier Baena $^{1}$, Manuel Vaquero $^{2,3}$"
 output: 
   md_document:
     variant: gfm
