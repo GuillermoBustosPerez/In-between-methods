@@ -233,9 +233,9 @@ and trained models.
 
 - [**Data**](Report/Data/Data.csv) is a free accessible .csv file with
   the original data  
-- [**Data**](Report/Data/Data.RData) is a R file containing a wrangled
-  data frame with established factors and labels.  
-- [**Models HD**](Report/Data/Models%20HD.RData) contains all AI models
-  trained in the development of this research.
+- [**Data**](Report/Data/Data.RData) is a RData file containing a
+  wrangled data frame with established factors and labels.  
+- [**Models HD**](Report/Data/Models%20HD.RData) is an RData file which
+  contains all AI models trained in the development of this research.
 
 </div>
