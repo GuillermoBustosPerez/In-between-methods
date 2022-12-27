@@ -209,8 +209,8 @@ surface were excluded from analysis).
 
 Attribute analyses were performed for each flake. Measurements were
 recorded in mm and in g. For a detail description of the measurements
-and variables please consult the provided [**Github
-Markdown**](Report/Lies-in-between.md),
+and variables please consult the methods section in the provided
+[**Github Markdown**](Report/Lies-in-between.md),
 [**PDF**](Report/Lies-in-between.pdf), or
 [**html**](Report/Lies-in-between.html) files.
 
