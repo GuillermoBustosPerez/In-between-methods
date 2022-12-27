@@ -164,10 +164,35 @@ and support for the development of this work:
   Ministry of Science and Innovation through the María de Maeztu
   excellence accreditation (CEX2019-000945-M).
 
-## Access information
+## **Access information**
 
+**License:**  
 The following data and code is publish under a Non Commercial 4.0
 International (CC BY-NC 4.0) license. For more details, see the
 [**License**](License.md) file.
+
+**Related data sets:**
+
+Other similar research compendiums published in repositories by the
+authors are:
+
+- Guillermo Bustos-Pérez, Brad Gravina, Michel Brenet, & Francesca
+  Romagnoli. (2022). Research compendium: Combining quantitative
+  approaches to differentiate between backed products from discoidal and
+  Levallois reduction sequences. In Journal of Archaological Science:
+  Reports (1.0). Zenodo. <https://doi.org/10.5281/zenodo.7085139>  
+- Guillermo Bustos-Pérez, & Javier Baena. (2022). Research compendium
+  for Multiple approaches to predicting flake mass (1.0). Zenodo.
+  <https://doi.org/10.5281/zenodo.7074250>  
+- Guillermo Bustos-Pérez. (2021). Predicting Flake Mass: A View from
+  Machine. In Lithic Technology (v1.0.0, Vol. 46, Number 21,
+  pp. 130–142). Zenodo. <https://doi.org/10.5281/zenodo.4603149>
+
+## **Structure**
+
+The present repository has been structured following the guidelines of a
+research compendium (<https://doi.org/10.1080/00031305.2017.1375986>).
+
+The [**Report**](Report) folder makes available in
 
 </div>
