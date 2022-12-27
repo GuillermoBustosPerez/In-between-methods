@@ -231,9 +231,9 @@ This folder also contains the [**Data**](Report/Data) folder which
 provides all data employed for the training of machine learning models
 and trained models.
 
-- [**Data**](Report/Data/Data.csv) contains a free accessible .csv with
+- [**Data**](Report/Data/Data.csv) is a free accessible .csv file with
   the original data  
-- [**Data**](Report/Data/Data.RData) contains an R file containing a
+- [**Data**](Report/Data/Data.RData) is a R file containing a wrangled
   data frame with established factors and labels.  
 - [**Models HD**](Report/Data/Models%20HD.RData) contains all AI models
   trained in the development of this research.
