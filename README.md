@@ -27,7 +27,7 @@ l’Art, Avinguda de Catalunya 35, 43002 Tarragona, Spain
 
 **Title:**
 
-- What lies in between: Levallois, Discoid and intermediate methods
+- What lies in between: Levallois, discoid and intermediate methods
 
 ## **Description**
 
