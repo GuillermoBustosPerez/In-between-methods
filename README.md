@@ -229,12 +229,13 @@ publication in the following formats:
 
 This folder also contains the [**Data**](Report/Data) folder which
 provides all data employed for the training of machine learning models
-and trained models.  
-\* [**Data**](Report/Data.csv) contains a free accessible .csv with the
-original data  
-\* [**Data**](Report/Data.RData) contains an R file containing a data
-frame with established factors and labels.  
-\* [*Models HD*](Report/Models%20HD.RData) contains all AI models
-trained in the development of this research.
+and trained models.
+
+- [**Data**](Report/Data.csv) contains a free accessible .csv with the
+  original data  
+- [**Data**](Report/Data.RData) contains an R file containing a data
+  frame with established factors and labels.  
+- [**Models HD**](Report/Models%20HD.RData) contains all AI models
+  trained in the development of this research.
 
 </div>
