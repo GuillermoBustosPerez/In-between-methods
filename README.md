@@ -188,14 +188,53 @@ authors are:
   Machine. In Lithic Technology (v1.0.0, Vol. 46, Number 21,
   pp. 130–142). Zenodo. <https://doi.org/10.5281/zenodo.4603149>
 
+## **Methodological information**
+
+The experimental assemblage consists of 222 experimentally knapped
+products resulting from Levallois, discoid and hierarchical discoid
+reduction sequences.  
+The experimental assemblage was knapped by two of the authors (JB and
+GBP), one of the whom (JB) is considered a high-level expert, while the
+second (GBP) is considered an intermediate-high knapper.  
+The Levallois products belonged to the preferential and recurrent
+centripetal modalities. The hierarchical discoid cores were knapped in
+accordance with previous technological descriptions, with no platform
+preparation, with centripetal scar direction (although some
+opportunistic preferential flakes were obtained), and without deliberate
+management of convexities. The discoid products belonged to the sensu
+stricto conceptualisation in which both surfaces are bifacially knapped.
+With the Levallois and hierarchical discoid methods, only products from
+the debitage surface were included (flakes detached from the percussion
+surface were excluded from analysis).
+
+Attribute analyses were performed for each flake. Measurements were
+recorded in mm and in g. For a detail description of the measurements
+and variables please consult the provided [**Github
+Markdown**](Report/Lies-in-between.md),
+[**PDF**](Report/Lies-in-between.pdf), or
+[**html**](Report/Lies-in-between.html) files.
+
 ## **Structure**
 
 The present repository has been structured following the guidelines of a
 research compendium (<https://doi.org/10.1080/00031305.2017.1375986>).
 
-The [**Report**](Report) folder provides free
-[**markdown**](Report/Lies-in-between.md),
-[\*\*PDF\*](Report/Lies-in-between.pdf) and
-[\*\*httml\*](Report/Lies-in-between.html)
+The [**Report**](Report) folder provides free versions of the
+publication in the following formats:
+
+- [**Markdown**](Report/Lies-in-between.Rmd)  
+- [**Github Markdown**](Report/Lies-in-between.md)  
+- [**PDF**](Report/Lies-in-between.pdf)  
+- [**html**](Report/Lies-in-between.html)
+
+This folder also contains the [**Data**](Report/Data) folder which
+provides all data employed for the training of machine learning models
+and trained models.  
+\* [**Data**](Report/Data.csv) contains a free accessible .csv with the
+original data  
+\* [**Data**](Report/Data.RData) contains an R file containing a data
+frame with established factors and labels.  
+\* [*Models HD*](Report/Models%20HD.RData) contains all AI models
+trained in the development of this research.
 
 </div>
