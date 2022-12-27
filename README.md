@@ -164,4 +164,10 @@ and support for the development of this work:
   Ministry of Science and Innovation through the María de Maeztu
   excellence accreditation (CEX2019-000945-M).
 
+## Access information
+
+The following data and code is publish under a Non Commercial 4.0
+International (CC BY-NC 4.0) license. For more details, see the
+[**License**](License.md) file.
+
 </div>
