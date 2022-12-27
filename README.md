@@ -29,6 +29,10 @@ l’Art, Avinguda de Catalunya 35, 43002 Tarragona, Spain
 
 - What lies in between: Levallois, discoid and intermediate methods
 
+Please cite as:
+
+    Guillermo Bustos-Pérez, Javier Baena, & Manuel Vaquero. (2022). Research compendium: What lies in between: Levallois, discoid and intermediate methods. In Journal of Lithic Studies (1.0). Zenodo. https://doi.org/10.5281/zenodo.7486776
+
 ## **Description**
 
 <div align="justify">
@@ -170,6 +174,9 @@ and support for the development of this work:
 The following data and code is publish under a Non Commercial 4.0
 International (CC BY-NC 4.0) license. For more details, see the
 [**License**](License.md) file.
+
+**DOI of the dataset:**  
+<https://doi.org/10.5281/zenodo.7486776>
 
 **Related data sets:**
 
