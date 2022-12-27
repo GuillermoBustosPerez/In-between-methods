@@ -1,23 +1,4 @@
-<div align="justify">
-
-### Note for Reviewers
-
-The present repository contains all data and code of employed for the
-development of the present article.  
-Please note that this is a private repository intended for reviewers
-only. If the article is accepted for publication the present repository
-will be made public and published in Zenodo (<https://zenodo.org/>)
-under a DOI.
-
-Other examples of published data:
-
-- Bustos-Pérez, G., Baena, J., 2021. Predicting Flake Mass: A View from
-  Machine Learning. Lithic Technology 46, 130–142.
-  <https://doi.org/10.1080/01977261.2021.1881267>  
-- Link to Zenodo repository:
-  <https://zenodo.org/record/4603149#.YmZzKdpBwdU>
-
-### Repository data
+## **General Information**
 
 **Journal:**
 
@@ -41,43 +22,52 @@ l’Art, Avinguda de Catalunya 35, 43002 Tarragona, Spain
 **Corresponding Author**:
 
 - Guillermo Bustos-Pérez  
-- <guillermo.willbustos@gmail.com>
+- <guillermo.willbustos@gmail.com>  
+- ORCID: 0000-0002-1089-818X
 
-**Article title:**
+**Title:**
 
 - What lies in between: Levallois, Discoid and intermediate methods
 
+## **Description**
+
+<div align="justify">
+
+**Dataset language:** english
+
 **Abstract**  
-The production of lithic artefacts is usually associated to different
-knapping methods. Resulting flakes present metric and technological
-features representative of the flaking method from which they were
-detached. However, lithic production is a dynamic process where discrete
-methods can be blurred, with features varying along the process. An
-intermediate knapping method between discoidal and Levallois is commonly
-referred under an umbrella of terms, presenting a wide geographical and
-chronological distribution along the Early and Middle Palaeolithic.
-Because this intermediate knapping method presents features from both
-discoidal and Levallois knapping methods, this raises the question of up
-to what point flakes from the three knapping methods can be
-differentiated between each other and the directionality of confusions.
-An experimental assemblage of flakes detached from the three methods is
-employed along with attribute analysis and Machine Learning models to
-identify the knapping method from which the flakes were detached. On a
-general level results provide an excellent ability to differentiate
-between the three knapping methods when a Support Vector Machine with
-polynomial kernel is employed. Results also outline the singularity of
-flakes detached from Levallois reduction sequences with an outstanding
-value of identification, and being rare that they are erroneously
-attributed to any of the other two knapping methods. Confusion between
-discoidal and Hierarchical Discoid products is more common, although a
-good value of identification is achieved for discoidal flakes and an
-acceptable value is achieved in the case of Hierarchical Discoid flakes.
-This shows the potential applicability of machine learning models in
+Lithic artefacts are usually associated with the different knapping
+methods used in their production. Flakes exhibit metric and
+technological features representative of the flaking method used to
+detach them. However, lithic production is a dynamic process in which
+discrete methods can be blurred, and in which features can vary
+throughout the process. An intermediate knapping method between the
+discoid and Levallois is commonly referred to under an umbrella of terms
+(the present research uses the term *hierarchical discoid*), and is
+associated with a broad geographical and chronological distribution
+throughout the Early and Middle Palaeolithic. This intermediate knapping
+strategy exhibits features of both the discoid and Levallois knapping
+methods, raising the question of the extent to which flakes from the
+three knapping methods can be differentiated and, when one is mistaken
+for another, the direction of confusion. An experimental assemblage of
+flakes detached by means of the three methods was used along with an
+attribute analysis and machine learning models in an effort to identify
+the knapping methods employed. In general, our results were able to very
+effectively differentiate between the three knapping methods when a
+support vector machine with polynomial kernel was used. Our results also
+underscored the singularity of flakes detached by means of Levallois
+reduction sequences, which yielded outstanding identification values,
+and were rarely erroneously attributed to either of the other two
+knapping methods studied. Mistaking the products of the discoid and
+*hierarchical discoid* methods was the most common direction of
+confusion, although a good identification value was achieved for discoid
+flakes and an acceptable value for *hierarchical discoid* flakes. This
+shows the potential applicability of machine learning models in
 combination with attribute analysis for the identification of these
 knapping methods among flakes.
 
 **Key words**: lithic technology; experimental archaeology; Levallois;
-Discoid; Machine Learning; Middle Paleolithic
+discoid; Middle Palaeolithic; machine learning
 
 **Extended abstarct (in spanish)**  
 La producción de lascas se asocia a diferentes métodos de talla. Las
@@ -142,5 +132,36 @@ materias primas, y evaluación de las cadenas operativas presentes.
 
 **Palabras clave**: tecnología lítica; arqueología experimental;
 Levallois; Discoid; Paleolítico Medio; Aprendizaje Automático
+
+**Funding sources:**
+
+The following institutions and research projects have provided funding
+and support for the development of this work:
+
+- Program for the Requalification of the University System Margarita
+  Salas (CA1/RSUE/2021-00743) financed through the Spanish ‘Recovery,
+  Transformation and Resilience Plan’ and managed by the Ministry of
+  Universities (Ministerio de Universidades) and the Autonomous
+  University of Madrid (Universidad Autónoma de Madrid).  
+- Research project PID2019-103987GB-C33, ‘En los límites de la
+  diversidad: comportamiento Neandertal en el centro y sur de la
+  Penisula Iberica’ financed by the Agencia Estatal de Investigación
+  (AEI) and Fondo Europeo de Desarrollo Regional (FEDER).  
+- Project PID2019-103987GB-C31 from the Spanish Ministry of Science and
+  Innovation (MICINN).  
+- The experimentation and analysis of the materials were conducted at
+  the Laboratory of Experimental Archaeology (Universidad Autónoma de
+  Madrid).  
+- Generalitat de Catalunya, AGAUR agency (2017SGR1040 Research Group),
+  Universitat Rovira i Virgili (2021PFR-URV-126), and the Spanish
+  Ministry of Science and Innovation (MICINN/FEDER project
+  PID2021-122355NB-C32).
+- The Institut Català de Paleoecologia Humana i Evolució Social
+  (IPHES-CERCA) has received financial support from the Spanish Ministry
+  of Science and Innovation through the “María de Maeztu” program for
+  Units of Excellence (CEX2019-000945-M).  
+- Technical support of Maria Dolors Guillén was supported by the Spanish
+  Ministry of Science and Innovation through the María de Maeztu
+  excellence accreditation (CEX2019-000945-M).
 
 </div>
