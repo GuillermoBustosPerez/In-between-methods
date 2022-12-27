@@ -193,6 +193,9 @@ authors are:
 The present repository has been structured following the guidelines of a
 research compendium (<https://doi.org/10.1080/00031305.2017.1375986>).
 
-The [**Report**](Report) folder makes available in
+The [**Report**](Report) folder provides free
+[**markdown**](Report/Lies-in-between.md),
+[\*\*PDF\*](Report/Lies-in-between.pdf) and
+[\*\*httml\*](Report/Lies-in-between.html)
 
 </div>
